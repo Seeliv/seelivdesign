@@ -152,7 +152,7 @@
             <div class="set-cnt-code">631</div>
           </div>
           <div class="set-sctn-row">
-            <div class="set-scn-lbl">Restrict Access</div>
+            <div class="set-scn-lbl">Restrict</div>
             <div class="set-action">
                   <div class="sidebtn ">
                     <ul>
