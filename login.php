@@ -23,10 +23,10 @@
         <a href="#" class="reload-qr"><i class="fa fa-repeat"></i>Click to reload QR code</a>
       </div>
       <div class="social-links active">
-        <a href="#" class="gPlus"><i class="fa fa-facebook-f"></i>Login With Linked Google</a>
+        <a href="#" class="gPlus"><i class="fa fa-google-plus"></i>Login With Linked Google</a>
         <a href="#" class="fBook"><i class="fa fa-facebook-f"></i>Login With Linked Facebook</a>
         <a href="#" class="wChat"><i class="fa fa-wechat"></i>Login With Linked Wechat</a>
-        <a href="#" class="lIn"><i class="fa fa-twitter"></i>Login With Linked Twitter</a>
+        <a href="#" class="lIn"><i class="fa fa-linkedin"></i>Login With Linked Linkedin</a>
       </div>
       </div>
     </div>
@@ -51,7 +51,7 @@
     </div>
     <div class="txt-lnk">
       <a href="#" class="chng-log-mod">Change Login Mode</a>
-      <a href="#" class="fl-r-lnk">Forget Password</a>
+      <a href="#">Forget Password</a>
     </div>
     <div class="log-btn">
       <input type="submit" class="btn" value="Login" />

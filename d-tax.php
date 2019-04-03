@@ -41,12 +41,12 @@
              <div class="set-action">
                   <div class="sidebtn">
                     <ul>
-                      <li><a href="" class="edit-btn"><img src="images/edit.png" class="iconback1"></a></li>
+                      <li><a href="" class="refresh"><img src="images/icon14.png" class="iconback1"></a></li>
                     </ul>
                   </div>
                 </div>
            </div>
-           <h4>....</h4>
+           <h4>Tax Detail</h4>
            <div class="charge-table country-charge">
              <div class="table-part">
               <div class="part-heading">

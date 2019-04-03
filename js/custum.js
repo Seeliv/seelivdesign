@@ -18,13 +18,10 @@ $(document).ready(function(){
 		});
 	$(".send-log-mod").click(function(e){
 		$(".for-mobile-mod,.for-email-mod").toggleClass("active");
-		if(!($(this).html() == "Reset Via Phone")){
+		if($(this).html() == "Reset Via Email / IDs"){
 			$(this).html("Reset Via Phone");
 			}
 		else{
-			if($(this).attr("data-snd") == "onl-mail")
-			$(this).html("Reset Via Email");
-			else
 			$(this).html("Reset Via Email / IDs");
 			}
 		return 0;
