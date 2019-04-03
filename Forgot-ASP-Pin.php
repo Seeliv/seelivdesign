@@ -21,7 +21,7 @@
   <input type="text" placeholder="Enter DOB / Account Reg. Date" />
   </div>
   <p class="lnk-two">
-  <a href="#" class="send-log-mod">Reset Via Email / ISs</a>
+  <a href="#" class="send-log-mod">Reset Via Email / IDs</a>
   </p>
   <div class="form-field">
     <input type="button" value="Next" class="roll-btn full-btn" />
