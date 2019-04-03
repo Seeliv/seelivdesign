@@ -36,9 +36,9 @@
             <a href="#" class="nn-MenuNav_Link"><i class="fas fa-allergies"></i>Review</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-desktop"></i>Monitor</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-sun-o" aria-hidden="true"></i>Complaints</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-book" aria-hidden="true"></i>issues</a><!--
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>issues</a><!--
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-check-square" aria-hidden="true"></i>permission</a>-->
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-file" aria-hidden="true"></i>document</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-folderz" aria-hidden="true"></i>document</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>booking</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>finance </a><!--
             <a href="#" class="nn-MenuNav_Link"><i class="fas fa-money-bill-alt"></i>tax </a>-->
@@ -63,7 +63,7 @@
     <div class="user-block">
       <a href="#"><img src="images/22.png" /></a>
       <div class="user-log">
-        <a href="#"><i class="fa fa-user"></i> My Account</a>
+        <a href="myAccount.php"><i class="fa fa-user"></i> My Account</a>
         <a href="#"><i class="fa fa-sign-out-alt"></i> Sign Out</a>
       </div>
     </div>
@@ -71,13 +71,13 @@
   <div class="header-bottom">
     <ul class="sub-menu">
         <li><a href=""><i class="fa fa-archive" ></i>Default Value</a></li>
-        <li><a href=""><i class="fa fa-address-book" aria-hidden="true"></i>Address</a></li>
-        <li><a href=""><i class="fas fa-graduation-cap"></i> Programs</a></li>
-        <li><a href=""><i class="fas fa-file-invoice-dollar"></i> D-charges</a></li>
-        <li><a href=""><i class="fas fa-file-invoice-dollar"></i> P-charges</a></li>
-        <li><a href=""> <i class="fa fa-dollar" aria-hidden="true"></i>D-Tax</a></li>
-        <li><a href=""> <i class="fa fa-id-badge" aria-hidden="true"></i>Varify-ID</a></li>
-        <li><a href=""> <i class="fa  fa-minus-circle" aria-hidden="true"></i>Restriction</a></li>
+        <li><a href=""><i class="fa fa-address-book" aria-hidden="true"></i>Address</a></li><!--
+        <li><a href=""><i class="fas fa-graduation-cap"></i> Programs</a></li>-->
+        <li><a href="d-charges.php"><i class="fa fa-money-bill"></i> D-charges</a></li>
+        <li><a href="P-charges.php"><i class="fas fa-file-invoice-dollar"></i> P-charges</a></li>
+        <li><a href="d-tax.php"> <i class="fa fa-dollar" aria-hidden="true"></i>D-Tax</a></li><!--
+        <li><a href=""> <i class="fa fa-id-badge" aria-hidden="true"></i>Varify-ID</a></li>-->
+        <li><a href="General-Account-Restriction.php"> <i class="fa  fa-minus-circle" aria-hidden="true"></i>Restriction</a></li>
         <li><a href=""> <i class="fa fa-infinity" aria-hidden="true"></i>Limitations</a></li>
         <li><a href=""> <i class="fa fa-lightbulb" aria-hidden="true"></i>Content</a></li>
       </ul>

@@ -389,7 +389,7 @@ ul.lk-mn-list > li > a div.icon-r {
 }
 .set-sectn {
     border-radius: 5px;
-    background: #eeeeee;
+    background: #f1f1f1;
     padding: 6px;
 }
 ul.lk-mn-list > li > a div.icon-r img{
@@ -508,7 +508,7 @@ ul.fa-ul > li > a > span.fa-li > img{
     padding: 1px 0px 0px 3px;
 }
 .btnwap {
-    background: #e1e0e6;
+    background: #f1f1f1;
     padding: 7px 10px;
     border-radius: 7px !important;
     position: relative;
@@ -610,6 +610,12 @@ ul.fa-ul > li > a > span.fa-li > img{
     margin: 0 1px 0 1px;
     float: right;
 }
+.pnl-tool-ed .sidebtn > ul > li a.refresh, .pnl-tool-ed .sidebtn > ul > li a.edit-btn, .pnl-tool-ed .sidebtn > ul > li a.view-btn, .pnl-tool-ed .sidebtn > ul > li a.add-btn {
+    width: 20px;
+    height: 20px;
+    font-size: 10px;
+    padding: 3px;
+}
 .sidebtn > ul > li a.add-btn{
 	    background: #08bf58;
     color: #ffffff;
@@ -617,7 +623,7 @@ ul.fa-ul > li > a > span.fa-li > img{
 	}
 .prf-tl-row.prf-tl-row-drk {
     padding: 9px 5px;
-    background: #e1e0e6;
+    background: #f1f1f1;
     border-radius: 5px;
     margin: 4px -5px;
 }
@@ -998,7 +1004,8 @@ a.del-opn:hover{
     margin: 0 2.5%;
     border-radius: 15px;
     font-size: 15px;
-    padding: 0;
+    padding: 0px;
+    font-size: 13px;
 }
 
 .form-fl .tbtn-t button.ovrall-bt {
@@ -1432,7 +1439,7 @@ ul.mail-attach-files > li > a > img {
 }
 .charge-table {
     border-radius: 5px;
-    background: #e1e0e6;
+    background: #f1f1f1;
 }
 .mob-page-tool > ul > li {
     display: inline-block;
@@ -1517,7 +1524,7 @@ a.fr-expnd {
     background: #ffffff;
 }
 .charge-table.country-charge > .table-part {
-    background: #e1e0e6;
+    background: #f1f1f1;
     margin-bottom: 5px;
     padding: 3px 10px;
     border-radius: 5px;
@@ -1652,7 +1659,7 @@ a.orde-rev-bt {
 }
 .ins-prf-lbl {
     padding: 10px 10px 5px 5px;
-    background: #e1e0e6;
+    background: #f1f1f1;
     border-radius: 5px;
 }
 .ins-prf-lbl > div.set-action {
@@ -1667,8 +1674,8 @@ a.orde-rev-bt {
 .ins-prf-lbl > div {
     float: left;
     color: #990000;
-    font-size: 17px;
-    line-height: 1.3;
+    font-size: 14px;
+    line-height: 1.5;
 }
 .ins-prf-lbl > div.mn-ed-ins-pr {
     min-width: calc(100% - 50px);
@@ -1736,6 +1743,7 @@ a.orde-rev-bt {
 .prf-tl-row .usr-set-exp .usr-lbl-exp {
     width: calc(100% - 100px);
     float: left;
+    padding: 0 0 0 6px;
 }
 .prf-tl-row:after{
 	content: "";
@@ -1811,7 +1819,7 @@ div.roll-tab {
 .top-log > div.log-pg-hds {
     text-align: center;
     font-size: 20px;
-    color: #ffffff;
+    color: #080808;
     margin-top: 5px;
 }
 .top-log > div.log-pg-optn {
@@ -1823,16 +1831,25 @@ div.roll-tab {
     display: block;
 }
 .top-log {
-    background-image: linear-gradient(#163961, #245c9c);
+    /* background-image: linear-gradient(#163961, #245c9c); */
+    /* background: #00000099; */
 }
 .top-log {
-    background-image: linear-gradient(#163961, #245c9c);
+    /* background-image: linear-gradient(#2f2f2f7a, #3f63b3); */
+    /* background: #ffffff; */
     padding: 10px;
+    position: relative;
+    z-index: 9;
+    border-bottom: 1px solid #f2f0f9;
+    /* box-shadow: 0 1px 20px rgba(212, 206, 234, 0.42); */
+}
+body.log-body .top-log {
+    border: 0;
 }
 .top-log > div.lang > a {
     font-size: 12px;
     margin-right: 5px;
-    color: #eeeeee;
+    color: #999999;
     text-decoration: none;
     margin-top: 11px;
     float: left;
@@ -1840,10 +1857,11 @@ div.roll-tab {
 .top-log > div.log-pg-optn a {
     display: block;
     float: right;
-	color: #ffffff;
-	text-decoration: none;
-	text-align: center;
-	font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    text-align: center;
+    font-size: 9px;
+    margin-top: 2px;
 }
 .top-log > div.log-pg-optn a strong{
 	display: block;
@@ -1854,42 +1872,46 @@ div.roll-tab {
     display: block;
     height: 20px;
     margin: auto;
-    background: #d20e0e;
-    padding: 4px;
+    background: #3ad369;
+    padding: 5px;
     border-radius: 50%;
+    color: #ffffff;
 }
 .login-form {
     position: absolute;
     top: 80px;
     left: 0;
     right: 0;
-    width: 350px;
+    width: 300px;
     margin: auto;
-    background: rgba(234, 234, 234, 0.9);
+    background: rgb(255, 255, 255);
     padding: 35px;
-	padding-top: 50px;
-	padding-bottom: 8px;
-	border-radius: 5px;
-	overflow:hidden;
+    padding-top: 50px;
+    padding-bottom: 0;
+    border-radius: 5px;
+    overflow:hidden;
+    z-index: 11;
+    box-shadow: 0 1px 20px rgb(230, 241, 255);
+    border: 1px solid #f3f8ff;
 }
 .login-form .otr-log-otn {
-    padding: 0 20px;
+    padding: 0 15px;
 }
 .login-form .scan-qr {
     text-align: center;
     padding: 20px;
     background: #ffffff;
-	border-radius: 5px;
-	position: relative;
-	display: none;
-	height: 200px;
-    width: 200px;
+    border-radius: 5px;
+    position: relative;
+    display: none;
+    height: 175px;
+    width: 175px;
     margin: auto;
 }
 .login-form .social-links {
     display: none;
-    height: 200px;
-    padding: 25px 0;
+    height: 175px;
+    padding: 10px 0;
 }
 .login-form .social-links.active,.login-form .scan-qr.active{
 	display: block;
@@ -1919,10 +1941,10 @@ a.oth-log-pnl {
     right: -60px;
     width: 120px;
     height: 120px;
-    background: #ffffff;
+    background: #000000;
     transform: rotate(-45deg);
-	-webkit-transform: rotate(-45deg);
-	    overflow: hidden;
+    -webkit-transform: rotate(-45deg);
+    overflow: hidden;
 }
 .login-form .scan-qr:hover:after{
 	content: "";
@@ -1952,15 +1974,25 @@ a.oth-log-pnl {
     background-size: cover;
     background-attachment: fixed;
 }
+.log-body:before {
+    content: "";
+    background: rgba(255, 255, 255, .9);
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
 .login-form .social-links > a {
     display: block;
-    margin-bottom: 5px;
-    padding: 9px 15px;
+    margin-bottom: 8px;
+    padding: 10px 15px;
     color: #ffffff;
     text-decoration: none;
     border-radius: 3px;
-    font-size: 12px;
-	    text-align: center;
+    font-size: 11px;
+    text-align: center;
+    height: 34px;
 }
 .login-form .social-links > a i.fa{
 	float: left;
@@ -1969,17 +2001,25 @@ a.oth-log-pnl {
 .bottom-log .field input {
     width: 100%;
     padding: 4px 10px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     border: 0;
     border-radius: 3px;
     height: 34px;
     font-size: 12px;
+    background: #f2f0f9;
+    border: 1px solid #eae8f1;
 }
-.login-form .txt-lnk > a {
+/*.login-form .txt-lnk > a {
     float: left;
-}
-.login-form .txt-lnk > a:last-child {
+}*/
+/*.login-form .txt-lnk > a:last-child {
     float: right;
+}*/
+a.fl-r-lnk {
+    float: right;
+}
+.txt-lnk {
+    margin: 5px 0;
 }
 .login-form .log-btn {
     clear: both;
@@ -1990,25 +2030,35 @@ a.oth-log-pnl {
     width: 100%;
     height: 34px;
     border: 0;
+
+
     background: #21ce57;
     color: #ffffff;
     border-radius: 3px;
     font-size: 17px;
+    border: 1px solid #18b749;
 }
 .login-form .log-btn .btn:hover{
 	background: #225794;
+	border-color: #143d6b;
 	}
 .bottom-log p {
     text-align: right;
 }
 .login-form .bottom-log {
-    margin: 0 -20px;
+    margin: 1px -35px 0 -35px;
     font-size: 11px;
+    padding: 20px;
+    background: #ffffff;
+    border-top: 0px solid #e9e6f1;
 }
 .login-form .bottom-log a {
     color: #990000;
 	text-decoration: none;
 }
+.login-form .bottom-log a:hover{
+	color: #225794;
+	}
 .social-links > a.gPlus {
     background: #c7300e;
 }
@@ -2019,20 +2069,24 @@ a.oth-log-pnl {
     background: #3fa531;
 }
 .social-links > a.lIn {
-    background: #006379;
+    background: #38b6ff;
 }
 .or-div {
         position: relative;
-    margin: 15px -20px;
-    font-size: 12px;
-    text-align: center;
+        margin: 15px -35px -10px -35px;
+
+        font-size: 12px;
+        text-align: center;
+        /* display: none; */
+        color: #d6d6d8;
+        /* background: #000000; */
 }
 .or-div:after {
     content: "";
     position: absolute;
     left: 0;
     width: 45%;
-    background: #bfbfbf;
+    background: #f2f0f9;
     margin: auto;
     top: 7px;
     text-align: center;
@@ -2044,7 +2098,7 @@ a.oth-log-pnl {
     position: absolute;
     right: 0;
     width: 45%;
-    background: #bfbfbf;
+    background: #f2f0f9;
     margin: auto;
     top: 7px;
     text-align: center;
@@ -2066,7 +2120,7 @@ a.oth-log-pnl.active span{
     transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
     background-position: bottom 7px left 8px;
-    background-size: 47px;
+    background-size: 60px;
 	}
 .login-form .scan-qr img {
     width: 100%;
@@ -2087,10 +2141,12 @@ a.oth-log-pnl.active span{
 	display: block;
 	}
 .sign-up-sectn {
-    border: 3px solid #bbbbbb;
+    border: 1px solid #f3f8ff;
     border-radius: 5px;
-    font-size: 10px;
-    padding: 10px;
+    font-size: 12px;
+    padding: 30px;
+    box-shadow: 0 1px 20px rgb(230, 241, 255);
+    margin-bottom: 10px;
 }
 .usr-sign-up > div {
     float: left;
@@ -2100,11 +2156,21 @@ a.oth-log-pnl.active span{
 .sign-up-sectn .log-fr-cnts h2 {
     font-size: 20px;
     font-weight: normal;
-    color: #990000;
+    color: #225896;
+    margin-bottom: 10px;
 }
+.sign-up-sectn .log-fr-cnts h2 .fa{
+	
+margin-right: 10px;
+	
+font-size: 28px;
+	
+float: left;
+	}
 .sign-up-sectn .log-fr-cnts p {
-    color: #63d7f1;
-	font-size:11px;
+    color: #000000;
+    font-size: 12px;
+    font-weight: bold;
 }
 .sign-up-sectn a {
     color: #225896;
@@ -2124,10 +2190,10 @@ a.oth-log-pnl.active span{
     list-style-type: disc;
     list-style-position: outside;
     margin-left: 15px;
-    line-height: 1.2;
+    line-height: 1.6;
 }
 .sign-up-sectn .log-fr-cnts ul{
-	margin-bottom: 10px;
+	margin: 15px 10px;
 	}
 .log-fr-cnts .roll-bt {
     display: block;
@@ -2139,13 +2205,15 @@ a.oth-log-pnl.active span{
     text-align: center;
     width: 100%;
     margin-top: 4px;
-    padding: 5px;
+    padding: 9px;
     background: #225896;
     color: #ffffff;
     text-decoration: none;
     border-radius: 5px;
-    font-size: 12px;
+    font-size: 15px;
     letter-spacing: 1px;
+    margin-top: 20px;
+    height: 40px;
 }
 .log-fr-cnts .roll-bt:hover{
 	
@@ -2157,7 +2225,7 @@ a.oth-log-pnl.active span{
 }
 .sign-up-sectn .log-fr-cnts p strong {
     color: #009900;
-    font-weight: normal;
+    /* font-weight: normal; */
 }
 .sign-up-sectn .roll-fr-log {
     float: left;
@@ -2169,20 +2237,25 @@ a.oth-log-pnl.active span{
     background: #eeeeee;
     margin: 10px 0;
     padding: 18px 0;
-	margin-right: 10px;
+    margin-right: 10px;
     color: #eeeeee;
+    display: none;
 }
 .sign-up-sectn .log-fr-cnts {
     float: left;
-    width: calc(100% - 130px);
+    width: calc(100% - 0px);
 }
 .general-form {
     position: absolute;
     top: 80px;
     left: 0;
     right: 0;
-    width: 350px;
+    width: 380px;
     margin: auto;
+    background: #ffffff;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0 1px 20px rgb(230, 241, 255);
 }
 .general-form > p {
     text-align: right;
@@ -2192,12 +2265,15 @@ a.oth-log-pnl.active span{
    color: #990000;
    text-decoration: none;
 }
+.general-form > p a:hover{
+	color: #225794;
+	}
 .form-field input {
     width: 100%;
     height: 34px;
     border: 0;
     border-radius: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     background-color: #f2f0f9;
     padding: 0 10px;
 }
@@ -2237,7 +2313,7 @@ a.oth-log-pnl.active span{
 .general-form > p.lnk-two a {
     float: left;
 }
-.general-form > p.lnk-two a:last-child {
+.general-form > p.lnk-two a:nth-of-type(2) {
     float: right;
 }
 .general-form .for-mobile-mod, .general-form .for-email-mod {
@@ -2384,6 +2460,7 @@ label.chk-bx input[type=checkbox]:checked + i.fa{
 	/* Now style it as needed */
   position: absolute;
 	top: 0;
+
 	bottom: 0;
 	/* Set the buttons invisible by default */
   opacity: 0;
@@ -2488,6 +2565,9 @@ label.chk-bx input[type=checkbox]:checked + i.fa{
 		}
 	}
 @media screen and (max-width:800px) {
+input[type=text],input[type=number],input[type=email],textarea{
+	font-size: 16px !important
+	}
 .mob-header {
  display: block;
 }
@@ -2619,6 +2699,7 @@ header {
 }
 .user-block {
     width: 100%;
+
     position: fixed;
     left: 0;
     right: 0;
@@ -2830,6 +2911,7 @@ div.content {
 }
 .filter-form.wth-paggng .mob-page-tool {
     margin: 3px 0 0 0;
+
     width: calc(100% - 115px);
     float: left;
     padding-left: 10px;
@@ -3041,6 +3123,9 @@ a.orde-rev-bt{
 	}
 .general-form {
     width: 300px;
+	padding: 40px 20px;
 }
 }
+
+
 

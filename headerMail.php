@@ -63,7 +63,7 @@
     <div class="user-block">
       <a href="#"><img src="images/22.png" /></a>
       <div class="user-log">
-        <a href="#"><i class="fa fa-user"></i> My Account</a>
+        <a href="myAccount.php"><i class="fa fa-user"></i> My Account</a>
         <a href="#"><i class="fa fa-sign-out-alt"></i> Sign Out</a>
       </div>
     </div>
@@ -76,6 +76,6 @@
         <li><a href=""> <i class="fa fa-recycle" ></i>Junk</a></li>
         <li><a href=""> <i class="fa fa-trash" ></i>Delete</a></li>
       </ul>
-      <a class="compose-link" href="Compose.php">Compose</a>
+      <a class="compose-link" href="Compose-email.php">Compose</a>
   </div>
 </header>

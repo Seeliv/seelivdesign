@@ -14,7 +14,7 @@
 </div>
 <div class="general-form">
   <div class="form-field">
-    <a href="#" class="send-btn-fl"><i class="fa fa-mobile"></i>Send OTP on Phone</a>
+    <a href="#" class="send-btn-fl"><i class="fa fa-mobile-alt"></i>Send OTP on Phone</a>
   </div>
   <div class="form-field">
     <input type="text" placeholder="Enter OTP recieved on Phone" />
