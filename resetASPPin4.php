@@ -9,15 +9,15 @@
 <body >
 <div class="top-log">
   <div class="lang"><a href="#">English</a><a href="#">Hindi</a> </div>
-  <div class="log-pg-hds">Reset Password</div>
+  <div class="log-pg-hds">Update ASP Pin</div>
   <div class="log-pg-optn"><a href="#"><i class="fa fa-question"></i><strong>Support</strong></a></div>
 </div>
 <div class="general-form">
   <div class="form-field">
-  <input type="text" placeholder="Type 6 digit New ASP PIN" />
+  <input type="text" placeholder="Type 4 digit New ASP PIN" />
   </div>
   <div class="form-field">
-  <input type="text" placeholder="Retype 6 digit New ASP PIN" />
+  <input type="text" placeholder="Retype 4 digit New ASP PIN" />
   </div>
   <div class="form-field">
     <input type="button" value="Update ASP PIN" class="roll-btn full-btn" />

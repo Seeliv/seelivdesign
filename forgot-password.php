@@ -21,7 +21,7 @@
   <input type="text" placeholder="Enter ASP pin" />
   </div>
   <p class="lnk-two">
-  <a href="#" class="send-log-mod">Reset Via Email / IDs</a>
+  <a href="#" class="send-log-mod">Reset Via Email</a>
 <a href="#">Forget ASP Pin</a>
   </p>
   <div class="form-field">

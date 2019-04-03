@@ -13,7 +13,7 @@
   <div class="log-pg-optn"><a href="#"><i class="fa fa-question"></i><strong>Support</strong></a></div>
 </div>
 <div class="general-form">
-  <p class="sim-pera">Are you Sure to Change Your Account Password ?</p>
+  <p class="sim-pera">Are you interested to Change Your Account Password ?</p>
   <div class="form-field">
   <input type="text" placeholder="Type New Password" />
   </div>
