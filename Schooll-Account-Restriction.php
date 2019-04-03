@@ -55,7 +55,7 @@
 <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1–on-1 Favorite Sharing</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1–on-1 Location Sharing</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1–on-1 Contact Card Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strongCreating Group Chat</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Creating Group Chat</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group schedule Meeting</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group Microphone Access</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group Gallery Access</strong></a></li>
