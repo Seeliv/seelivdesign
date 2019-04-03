@@ -17,7 +17,7 @@
   <div class="sign-up-sectn">
     <div class="roll-fr-log" style="background: #25a2b8;"><i class="fa fa-users"></i></div>
     <div class="log-fr-cnts">
-      <h2>General Account</h2>
+      <h2><i class="fa fa-users"></i>General Account</h2>
       <p>General Account is <strong>Multi-functional</strong> account for Students, Teachers
 as well as for Local Users.</p>
       <ul>
@@ -41,7 +41,7 @@ Temporarily or permanently.</li>
   <div class="sign-up-sectn">
     <div class="roll-fr-log" style="background: #2ba745;"><i class="fa fa-bank"></i></div>
     <div class="log-fr-cnts">
-      <h2>School Account</h2>
+      <h2><i class="fa fa-bank"></i>School Account</h2>
       <p>School Account is <strong>Multi-functional</strong> account for Students, Teachers
 as well as for Local Users.</p>
       <ul>

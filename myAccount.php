@@ -322,6 +322,19 @@
                       </div>
                     </div>
                   </div>
+                  <div class="prf-tl-row">
+                    <div class="prf-txt">
+                      <div class="prf-tx-icn"><img src="images/icon11.png" /></div>
+                      <div class="chng-txt-prf">English</div>
+                    </div>
+                    <div class="set-action">
+                      <div class="sidebtn ">
+                        <ul>
+                          <li><a href="" class="edit-btn"><img src="images/edit.png" class="iconback2"></a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
               <div class="pnl-tool-ed">
@@ -335,7 +348,7 @@
                       <div class="sidebtn ">
                         <ul>
                           <li><a href="" class="view-btn"><i class="fa fa-eye"></i></a></li>
-                          <li><a href="" class="refresh"><img src="images/icon14.png" class="iconback1"></a></li>
+                          <li><a href="" class="edit-btn"><img src="images/edit.png" class="iconback1"></a></li>
                         </ul>
                       </div>
                     </div>
@@ -349,7 +362,7 @@
                       <div class="sidebtn ">
                         <ul>
                           <li><a href="" class="view-btn"><i class="fa fa-eye"></i></a></li>
-                          <li><a href="" class="refresh"><img src="images/icon14.png" class="iconback1"></a></li>
+                          <li><a href="" class="edit-btn"><img src="images/edit.png" class="iconback1"></a></li>
                         </ul>
                       </div>
                     </div>
@@ -363,7 +376,7 @@
                       <div class="sidebtn ">
                         <ul>
                           <li><a href="" class="view-btn"><i class="fa fa-eye"></i></a></li>
-                          <li><a href="" class="refresh"><img src="images/icon14.png" class="iconback1"></a></li>
+                          <li><a href="" class="edit-btn"><img src="images/edit.png" class="iconback1"></a></li>
                         </ul>
                       </div>
                     </div>
@@ -371,7 +384,7 @@
                   <div class="prf-tl-row prf-tl-row-drk">
                     <div class="cnt-top">
                     <div class="usr-set-exp">
-                      <div class="usr-lbl-exp"><div class="roll-icn"><img src="images/31.png" /></div>Phone</div>
+                      <div class="usr-lbl-exp"><!--<div class="roll-icn"><img src="images/31.png" /></div>-->Phone</div>
                       <div class="set-action">
                       <div class="sidebtn ">
                         <ul>
@@ -424,7 +437,7 @@
                   <div class="prf-tl-row prf-tl-row-drk">
                     <div class="cnt-top">
                     <div class="usr-set-exp">
-                      <div class="usr-lbl-exp"><div class="roll-icn"><img src="images/icon8.png" /></div>Email</div>
+                      <div class="usr-lbl-exp"><!--<div class="roll-icn"><img src="images/icon8.png" /></div>-->Email</div>
                       
                     </div>
                     <div><a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a></div>
@@ -448,7 +461,7 @@
                   <div class="prf-tl-row prf-tl-row-drk">
                     <div class="cnt-top">
                     <div class="usr-set-exp">
-                      <div class="usr-lbl-exp"><div class="roll-icn"><img src="images/icon20.png" /></div>Device</div>
+                      <div class="usr-lbl-exp"><!--<div class="roll-icn"><img src="images/icon20.png" /></div>-->Device</div>
                       
                     </div>
                     <div><a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a></div>

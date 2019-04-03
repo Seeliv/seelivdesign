@@ -15,14 +15,14 @@
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a class="active" href="AccountName.php"><span class="fa-li"><img src="images/icon5.png"></span> Account Name</a></li>
-                                <li><a href="DisplayPicture(dp).php"><span class="fa-li"><img src="images/icon1.png"></span> Display Picture (dp)</a></li>
-                                <li><a href="CoverPhoto(cp).php"><span class="fa-li"><img src="images/icon2.png"></span>Cover Photo (cp)</a></li>
-                                <li><a href="NoticeBoard.php"><span class="fa-li"><img src="images/icon3.png"></span> Notice Board</a></li>
+                                <li><a class="active" href="Account-Name.php"><span class="fa-li"><img src="images/icon5.png"></span> Account Name</a></li>
+                                <li><a href="Display-Picture (dp).php"><span class="fa-li"><img src="images/icon1.png"></span> Display Picture (dp)</a></li>
+                                <li><a href="Cover-Photo(cp).php"><span class="fa-li"><img src="images/icon2.png"></span>Cover Photo (cp)</a></li>
+                                <li><a href="Notice-Board.php"><span class="fa-li"><img src="images/icon3.png"></span> Notice Board</a></li>
                                 <li><a href="SchoolNam &Abbreviation.php"><span class="fa-li"><img src="images/icon26.png"></span> School Introduction</a></li>
                                 <!--<li><a href="#"><span class="fa-li"><img src="images/icon5.png"></span> School Introduction</a></li>-->
-                                <li><a href="#"><span class="fa-li"><img src="images/icon6.png"></span>Slide Bar (1)</a></li>
-                                <li><a href="#"><span class="fa-li"><img src="images/icon7.png"></span> slide Bar (2)</a></li>
+                                <li><a href="Slide-Bar1.php"><span class="fa-li"><img src="images/icon6.png"></span>Slide Bar (1)</a></li>
+                                <li><a href="Slide-Bar2.php"><span class="fa-li"><img src="images/icon7.png"></span> slide Bar (2)</a></li>
                           </ul>
                           </div>
   </div>

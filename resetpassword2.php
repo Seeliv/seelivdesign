@@ -14,7 +14,7 @@
 </div>
 <div class="general-form">
   <div class="form-field">
-    <a href="#" class="send-btn-fl for-mobile-mod active"><i class="fa fa-mobile"></i>Send OTP on Phone</a>
+    <a href="#" class="send-btn-fl for-mobile-mod active"><i class="fa fa fa-mobile-alt"></i>Send OTP on Phone</a>
     <a href="#" class="send-btn-fl for-email-mod"><i class="fa fa-envelope"></i>Send OTP on Email</a>
   </div>
   <div class="form-field">
@@ -22,7 +22,7 @@
     <div class="for-email-mod"><input type="text" placeholder="Enter OTP recieved on Email" /></div>
   </div>
   <p class="lnk-two">
-  <a href="#" class="send-log-mod">Reset Via Email / IDs</a>
+  <a href="#" class="send-log-mod" data-snd="onl-mail" >Reset Via Email</a>
   </p>
   <div class="form-field">
     <input type="button" value="Next" class="roll-btn full-btn" />
