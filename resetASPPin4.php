@@ -14,10 +14,10 @@
 </div>
 <div class="general-form">
   <div class="form-field">
-  <input type="text" placeholder="Type 6 digit New ASP PIN" />
+  <input type="text" placeholder="Type 4 digit New ASP PIN" />
   </div>
   <div class="form-field">
-  <input type="text" placeholder="Retype 6 digit New ASP PIN" />
+  <input type="text" placeholder="Retype 4 digit New ASP PIN" />
   </div>
   <div class="form-field">
     <input type="button" value="Update ASP PIN" class="roll-btn full-btn" />
