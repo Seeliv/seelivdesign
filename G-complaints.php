@@ -12,7 +12,7 @@
 <section class="side-bar">
   <div class="side-bar-content">
     <div class="search-list-item lft-side-sort">
-    <input class="chat-srch-blc" type="text" placeholder=“Search Here”>
+    <input class="chat-srch-blc" type="text" placeholder="Search here">
     <div class="sort-option option-sort-3">
            <ul>
              <li><button class="sort-button active">In Pending</button></li>
