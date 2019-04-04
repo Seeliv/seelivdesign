@@ -8,7 +8,7 @@
 
 <body >
 <div class="top-log">
-  <div class="lang"><a href="#">English</a><a href="#">Hindi</a> </div>
+  <div class="lang"><a href="#">English</a><a href="#">中文</a> </div>
   <div class="log-pg-hds">General Account Sign-Up</div>
   <div class="log-pg-optn"><a href="#"><i class="fa fa-question"></i><strong>Support</strong></a></div>
 </div>
