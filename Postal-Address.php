@@ -113,7 +113,7 @@
                                                      <li><img src="images/icon30.png"><span>Review In PendingKamran Ali</span> </li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
-                                             </ul>
+                                             </ul> 
                                              
           <div class="row-option"><a href="#">Edit</a></div>
           </div>

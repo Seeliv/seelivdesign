@@ -10,8 +10,8 @@
     <div class="school-info">
       <div class="profile-pic"> <img src="images/22.png" /> </div>
       <div class="school-name">
-        <div>global institute</div>
-        <div>school: R932749380310</div>
+        <div>SeeLiv.Com</div>
+        <div>school: 786</div>
       </div>
     </div>
     <div class="header-form">
@@ -38,7 +38,7 @@
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-sun-o" aria-hidden="true"></i>Complaints</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>issues</a><!--
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-check-square" aria-hidden="true"></i>permission</a>-->
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-folderz" aria-hidden="true"></i>document</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-folderz" aria-hidden="true"></i>documents</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>booking</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>finance </a><!--
             <a href="#" class="nn-MenuNav_Link"><i class="fas fa-money-bill-alt"></i>tax </a>-->
