@@ -23,10 +23,10 @@
         <a href="#" class="reload-qr"><i class="fa fa-repeat"></i>Click to reload QR code</a>
       </div>
       <div class="social-links active">
-        <a href="#" class="gPlus"><i class="fa fa-facebook-f"></i>Login With Linked Google</a>
-        <a href="#" class="fBook"><i class="fa fa-facebook-f"></i>Login With Linked Facebook</a>
-        <a href="#" class="wChat"><i class="fa fa-wechat"></i>Login With Linked Wechat</a>
-        <a href="#" class="lIn"><i class="fa fa-twitter"></i>Login With Linked Twitter</a>
+        <a href="#" class="gPlus"><i class="fab fa-google"></i>Login With Linked Google</a>
+        <a href="#" class="fBook"><i class="fab fa-facebook-f"></i>Login With Linked Facebook</a>
+        <a href="#" class="wChat"><i class="fab fa-wechat"></i>Login With Linked Wechat</a>
+        <a href="#" class="lIn"><i class="fab fa-twitter"></i>Login With Linked Twitter</a>
       </div>
       </div>
     </div>
