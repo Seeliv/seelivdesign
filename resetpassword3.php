@@ -14,7 +14,7 @@
 </div>
 <div class="general-form">
   <div class="form-field">
-  <input type="text" placeholder=“Type New Password" />
+  <input type="text" placeholder="Type New Password" />
   </div>
   <div class="form-field">
   <input type="text" placeholder="Retype New Password" />
