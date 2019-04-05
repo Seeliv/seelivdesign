@@ -101,7 +101,7 @@
   <div class="content-data">
   <div class="content-in">
     <div class="content-fix-head">
-       <h1>Restrict New Sign-up Account</h1>
+       <h1>New Account Sign-up</h1>
        <div class="filter-form wth-paggng">
          <div class="form-fl form-4">
            <div class="t-b-one"><input type="text" placeholder="Country id" ><button type="submit"><i class="fa fa-search"></i></button></div>

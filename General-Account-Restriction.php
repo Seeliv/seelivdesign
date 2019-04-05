@@ -29,77 +29,68 @@
     <input type="text" placeholder="Search here"></div>
     <div class="sidebar-list restct-cmd-list">
       <ul class="lk-mn-list">
-        <li><a href="#"><div class="icon-r"><img src="images/icon5.png" /></div><strong>Restrict New Sign-up Account</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict existing Account login</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict to default dp</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict to default cp</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict to Default Guardian</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Changing Guardian</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Being Guardian</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Being Coordinator</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Top-up Fund</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict withdraw Fund</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Adding New Friends</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Broadcasting</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User schedule Meeting</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User Microphone Access</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User Gallery Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User Camera Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User Documents Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User outgoing message</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User Incoming message</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User outgoing Audio call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User Incoming audio call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User outgoing video call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User Incoming video call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User National fund Transfer</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User International fund Transfer</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User National fund Collection</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User International fund Collection</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User Favorite Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User Location Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict User Contact Card Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict creating Group Chat</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Group schedule Meeting</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Group Microphone Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Group Gallery Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Group Camera Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Group Documents Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Group outgoing message</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Group Incoming message</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Group outgoing Audio call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Group Incoming audio call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Group outgoing video call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Group Incoming video call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Group Favorite Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong> Group Location Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Group Contact Card Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Enroll schedule Meeting</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Enroll Microphone Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Enroll Gallery Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Enroll Camera Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Enroll Documents Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Enroll outgoing message</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Enroll Incoming message</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Enroll outgoing Audio call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Enroll Incoming audio call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Enroll outgoing video call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Enroll Incoming video call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Enroll Favorite Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Enroll Location Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Enroll Contact Card Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Posting Resume & Applying for Jobs</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict from Applying & attempting for exams</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict from applying for scholarships</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict from applying for Programs</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict direct Job Application</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict direct Scholarship Application</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict direct Programs Application</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Visiting Timeline</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Posting on timeline</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Booking</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Restrict Auto-Deleting Message</strong></a></li>
-        </li>
+        <li><a href="#"><div class="icon-r"><img src="images/icon5.png" /></div><strong>New Account Sign-up</strong></a></li>
+        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Existing Account login</strong></a></li>
+        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Changing Guardian</strong></a></li>
+        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Being Guardian</strong></a></li>
+        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Being Coordinator</strong></a></li>
+        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Top-up Fund</strong></a></li>
+        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Withdraw Fund</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>National fund Transfer</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>International fund Transfer</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>National fund Collection</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>International fund Collection</strong></a></li>
+        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Adding New Friends</strong></a></li>
+        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Broadcast Service</strong></a></li>
+        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1-on-1 Chat Calendar Access</strong></a></li>
+        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1-on-1 Chat Microphone Access</strong></a></li>
+        <li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1-on-1 Chat Gallery Access</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1-on-1 Chat Camera Access</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1-on-1 Chat Documents Access</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1-on-1 Chat Outgoing message</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1-on-1 Chat Incoming message</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1-on-1 Chat Outgoing Audio call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1-on-1 Chat Incoming audio call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1-on-1 Chat Outgoing video call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1-on-1 Chat Incoming video call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1-on-1 Chat Favorite Sharing</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1-on-1 Chat Location Sharing</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>1-on-1 Chat Contact Card Sharing</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Creating New Group</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group chat Calendar Access</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group chat Microphone Access</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group chat Gallery Access</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group chat Camera Access</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group chat Documents Access</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group chat outgoing message</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group chat Incoming message</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group chat outgoing Audio call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group chat Incoming audio call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group chat outgoing video call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group chat Incoming video call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group chat Favorite Sharing</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group chat Location Sharing</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Group chat Contact Card Sharing</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Enrollment Chat Calendar Access</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Enrollment Chat Microphone Access</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Enrollment Chat Gallery Access</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Enrollment Chat Camera Access</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Enrollment Chat Documents Access</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Enrollment Chat outgoing message</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Enrollment Chat Incoming message</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Enrollment Chat outgoing Audio call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Enrollment Chat Incoming audio call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Enrollment Chat outgoing video call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Enrollment Chat Incoming video call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Enrollment Chat Favorite Sharing</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Enrollment Chat Location Sharing</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Enrollment Chat Contact Card Sharing</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Posting Resume & Applying for Jobs</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Applying & attempting Exams</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Applying for scholarships</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Applying for Programs</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Ticket Booking</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon2.png" /></div><strong>Auto-Deleting Message</strong></a></li>
       </ul>
     </div>
   </div>
@@ -108,7 +99,7 @@
   <div class="content-data">
   <div class="content-in">
     <div class="content-fix-head">
-       <h1>Restrict New Sign-up Account</h1>
+       <h1>New Account Sign-up</h1>
        <div class="filter-form">
          
        </div>   
@@ -119,7 +110,7 @@
         <h4>This Action Will be applicable to all Accounts</h4>
         <div class="set-sectn">
           <div class="set-sctn-row">
-            <div class="set-scn-lbl">Restrict Access</div>
+            <div class="set-scn-lbl">Restrict</div>
             <div class="set-action">
                   <div class="sidebtn ">
                     <ul>
