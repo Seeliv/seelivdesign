@@ -42,8 +42,8 @@ Temporarily or permanently.</li>
     <div class="roll-fr-log" style="background: #2ba745;"><i class="fa fa-bank"></i></div>
     <div class="log-fr-cnts">
       <h2><i class="fa fa-bank"></i>School Account</h2>
-      <p>School Account is <strong>Multi-functional</strong> account for Students, Teachers
-as well as for Local Users.</p>
+      <p>School Account is <strong>Multi-functional</strong> account for Educational Institute, 
+School & Organizations.</p>
       <ul>
       <li>After signed up, You will be able to instant log-in to your account.</li>
 <li>In case of providing wrong information, you will be requested to

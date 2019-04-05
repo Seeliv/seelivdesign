@@ -285,7 +285,7 @@
                 <div class="set-prf-tl">
                   <div class="prf-tl-row">
                     <div class="prf-txt">
-                      <div class="prf-tx-icn"><img src="images/icon10.png" /></div>
+                      <div class="prf-tx-icn"><img src="images/icon1.png" /></div>
                       <div class="chng-txt-prf">Abdul Aziz</div>
                     </div>
                     <div class="set-action">

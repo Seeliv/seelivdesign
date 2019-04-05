@@ -8,7 +8,7 @@
 
 <body >
 <div class="top-log">
-  <div class="lang"><a href="#">English</a><a href="#">Hindi</a> </div>
+  <div class="lang"><a href="#">English</a><a href="#">中文</a> </div>
   <div class="log-pg-hds">Reset Password</div>
   <div class="log-pg-optn"><a href="#"><i class="fa fa-question"></i><strong>Support</strong></a></div>
 </div>
@@ -18,7 +18,7 @@
     <div class="for-email-mod"><input type="text" placeholder="Email / Account ID / Approval ID" /></div>
   </div>
   <div class="form-field">
-  <input type="text" placeholder="Enter ASP pin" />
+  <input type="text" placeholder="Enter ASP Pin" />
   </div>
   <p class="lnk-two">
   <a href="#" class="send-log-mod">Reset Via Email / IDs</a>

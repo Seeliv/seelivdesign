@@ -61,12 +61,12 @@
 <li><a href="#"><div class="icon-r"><img src="images/icon54.png" /></div><strong>Group chat Microphone Access</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon55.png" /></div><strong>Group chat Gallery Access</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon56.png" /></div><strong>Group chat Camera Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon56.png" /></div><strong>Group chat Documents Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon58.png" /></div><strong>Group chat outgoing message</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon57.png" /></div><strong>Group chat Documents Access</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon58.png" /></div><strong>Group chat Outgoing message</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon59.png" /></div><strong>Group chat Incoming message</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon60.png" /></div><strong>Group chat outgoing Audio call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon60.png" /></div><strong>Group chat Outgoing Audio call</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon61.png" /></div><strong>Group chat Incoming audio call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon62.png" /></div><strong>Group chat outgoing video call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon62.png" /></div><strong>Group chat Outgoing video call</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon63.png" /></div><strong>Group chat Incoming video call</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon64.png" /></div><strong>Group chat Favorite Sharing</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon65.png" /></div><strong>Group chat Location Sharing</strong></a></li>
@@ -74,13 +74,13 @@
 <li><a href="#"><div class="icon-r"><img src="images/icon53.png" /></div><strong>Enrollment Chat Calendar Access</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon54.png" /></div><strong>Enrollment Chat Microphone Access</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon55.png" /></div><strong>Enrollment Chat Gallery Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon66.png" /></div><strong>Enrollment Chat Camera Access</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon56.png" /></div><strong>Enrollment Chat Camera Access</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon57.png" /></div><strong>Enrollment Chat Documents Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon58.png" /></div><strong>Enrollment Chat outgoing message</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon58.png" /></div><strong>Enrollment Chat Outgoing message</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon59.png" /></div><strong>Enrollment Chat Incoming message</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon60.png" /></div><strong>Enrollment Chat outgoing Audio call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon60.png" /></div><strong>Enrollment Chat Outgoing Audio call</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon61.png" /></div><strong>Enrollment Chat Incoming audio call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon62.png" /></div><strong>Enrollment Chat outgoing video call</strong></a></li>
+<li><a href="#"><div class="icon-r"><img src="images/icon62.png" /></div><strong>Enrollment Chat Outgoing video call</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon63.png" /></div><strong>Enrollment Chat Incoming video call</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon64.png" /></div><strong>Enrollment Chat Favorite Sharing</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon65.png" /></div><strong>Enrollment Chat Location Sharing</strong></a></li>
