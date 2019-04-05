@@ -37,7 +37,7 @@
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>FS Name<br>
+                         <p>Giv-Sch<br>
                         <span class="mintext">Unverified</span></p>
                        </div>
                   </div>
@@ -62,7 +62,7 @@
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>LA Name<br>
+                         <p>Sur-Abb<br>
                         <span class="mintext">User</span></p>
                        </div>
                   </div>

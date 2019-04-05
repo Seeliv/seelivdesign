@@ -18,7 +18,7 @@
     <input type="button" class="roll-btn field-25" value="SEND OTP" />
   </div>
   <div class="form-field">
-  <input type="text" placeholder="Enter OTP" />
+  <input type="text" placeholder="Enter OTP received on Phone” />
   </div>
   <div class="form-field">
     <input type="button" value="Next" class="roll-btn full-btn" />
