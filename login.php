@@ -7,26 +7,29 @@
 </head>
 
 <body class="log-body" >
+<div class="scan-qr-wrap">
+<div class="scan-qr">
+        <img src="images/qr.png" />
+        <a href="#" class="reload-qr"><i class="fa fa-repeat"></i>Click to reload QR code</a>
+      </div>
+</div>
 <div class="top-log">
   <div class="lang"><a href="#">English</a><a href="#">中文</a> </div>
   <div class="log-pg-hds">Account login</div>
   <div class="log-pg-optn"><a href="#"><i class="fa fa-question"></i><strong>Support</strong></a></div>
 </div>
 <div class="login-form">
-  <a href="#" class="oth-log-pnl"><span></span></a>
+  <!--<a href="#" class="oth-log-pnl"><span></span></a>-->
   <div class="top-log-fields">
     <div class="log-via-social">
       <div class="for-logo"><img src="" /></div>
       <div class="otr-log-otn">
-      <div class="scan-qr">
-        <img src="images/qr.png" />
-        <a href="#" class="reload-qr"><i class="fa fa-repeat"></i>Click to reload QR code</a>
-      </div>
       <div class="social-links active">
         <a href="#" class="gPlus"><i class="fab fa-google"></i>Login With Linked Google</a>
         <a href="#" class="fBook"><i class="fab fa-facebook-f"></i>Login With Linked Facebook</a>
-        <a href="#" class="wChat"><i class="fab fa-wechat"></i>Login With Linked Wechat</a>
+        <a href="#" class="wChat qr-show"><i class="fab fa-wechat"></i>Login With Linked Wechat</a>
         <a href="#" class="lIn"><i class="fab fa-twitter"></i>Login With Linked Twitter</a>
+        <a href="#" class="qrLog qr-show"><i class="fa fa-qrcode"></i>Login With QR Code</a>
       </div>
       </div>
     </div>

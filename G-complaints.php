@@ -150,12 +150,12 @@
     <div class="content-fix-head">
        <h1>Kamran Ali From Pakistan</h1> 
        <div class="chat-hds-opt">
-         <a href="#"> <label class="switch">
+         <a href="#" class="chat-hds-tog"> <label class="switch">
                             <input type="checkbox">
                             <span class="slider round"></span> </label></a>
-         <a href="#"><i class="fa fa-check"></i></a>
-         <a href="#"><i class="fa fa-remove"></i></a>
-         <a href="#"><i class="fa fa-users"></i></a>
+         <a href="#" class="chat-hds-rund chat-hds-chks"><i class="fa fa-check"></i></a>
+         <a href="#" class="chat-hds-trsh"><i class="fa fa-trash-alt"></i></a>
+         <a href="#" class="chat-hds-rund chat-hds-usrs"><i class="fa fa-users"></i></a>
        </div> 
     </div>
     <div class="main-content">
@@ -183,6 +183,14 @@ help you at any time.</pre>
 </div>
 
               <div class="msg-chat-by-dt">Kamran - 10:22:00 AM</div>
+<div class="trans-copy"><a href="#"><i class="fa fa-copy"></i></a></div>
+<div class="trans-cnts">
+नमकार! आप इस UI के बारेमया सोचतेह?
+मुझेलगता हैक यह अा है।
+यद आप इसेसमझनेमअसमथह, तो कृपया अधक जानकारी के लए मुझसेसंपक कर। मयहाँँ
+कसी भी समय आपक मदद करगे।
+</div>
+
               <div class="chat-optn-lst-usr">
                 <button><i class="fa fa-angle-down"></i></button>
                 <ul>
@@ -248,7 +256,7 @@ help you at any time.</pre>
               <div class="chat-msg chat-type-audio">
                 <div class="chat-aud-file">
                  <button class="aud-button">
-                   <i class="fa fa-play-circle"></i>
+                   <i class="fa fa-play"></i>
                  </button>
                  <div class="aud-info">
                    <div class="aud-duration">00:22</div>
@@ -297,7 +305,7 @@ help you at any time.</pre>
               <div class="chat-msg chat-type-audio">
                 <div class="chat-aud-file">
                  <button class="aud-button">
-                   <i class="fa fa-play-circle"></i>
+                   <i class="fa fa-play"></i>
                  </button>
                  <div class="aud-info">
                    <div class="aud-duration">00:22</div>
@@ -326,13 +334,16 @@ help you at any time.</pre>
               <a href="#" class="cht-lnk-optn"><img src="images/calndr.png" /></a>
               <a href="#" class="cht-lnk-optn" id="ex-optn-open"><i class="fa fa-plus-circle"></i></a>
             </div>
-            <div class="chat-text-field"><input type="text" placeholder="Type your Message" id="txt-chat-msg"  />
-              <div class="chat-audio-msg"><i class="fa fa-microphone"></i>00:00</div>
+            <div class="chat-text-field">
+              <input type="text" placeholder="Type your Message" id="txt-chat-msg"  />
+              <div class="chat-audio-msg"><a id="cancel-record">Cancle</a><i class="fa fa-microphone"></i>00:00</div>
+              <button id="click-to-record" >Click To Record</button>
             </div>
             <div class="chat-right-field">
-              <a href="#" class="cht-lnk-optn send-aud-del" id="chat-aud-del" ><i class="fa fa-trash"></i></a>
+              <a href="#" class="cht-lnk-optn keypad-show" id="chat-keypad-open" ><i class="fa fa-keyboard"></i></a>
               <a href="#" class="cht-lnk-optn emoji-link"><img src="images/emoji.png" /></a>
-              <a href="#" class="cht-lnk-optn send-cht-link" id="chat-roll-send"><i class="fa fa-microphone"></i></a>
+              <a href="#" class="cht-lnk-optn open-aud-link" id="chat-aud-open"><i class="fa fa-microphone"></i></a>
+              <a href="#" class="cht-lnk-optn send-cht-link" id="chat-roll-send"><i class="fa fa-send"></i></a>
             </div>
           </div>
           <div class="chat-opt-list">

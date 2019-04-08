@@ -101,12 +101,37 @@ $(document).ready(function(){
 			});
 		$("#txt-chat-msg").keyup(function(){
 			if($(this).val().length > 0){
-				$("#chat-roll-send").children(".fa").removeClass("fa-microphone").addClass("fa-send");
+				//$("#chat-roll-send").children(".fa").removeClass("fa-microphone").addClass("fa-send");
+				$("#chat-aud-open").css("display","none");
+				$("#chat-roll-send").css("display","block");
 				}
 		    else{
-				$("#chat-roll-send").children(".fa").removeClass("fa-send").addClass("fa-microphone");
+				//$("#chat-roll-send").children(".fa").removeClass("fa-send").addClass("fa-microphone");
+				$("#chat-roll-send").css("display","none");
+				$("#chat-aud-open").css("display","block");
 				}
 			});
+			
+		$("#chat-aud-open").click(function(){
+			$("div.chat-text-field input[type='text'],.chat-right-field .emoji-link,#chat-aud-open,.chat-audio-msg").hide();
+			$("#chat-keypad-open,#chat-roll-send,#click-to-record").show();
+			});
+		$("#chat-keypad-open").click(function(){
+			$("div.chat-text-field input[type='text'],.chat-right-field .emoji-link,#chat-aud-open").show();
+			$("#chat-keypad-open,#chat-roll-send,#click-to-record,.chat-audio-msg").hide();
+			});	
+		$("#click-to-record").click(function(){
+			$("div.chat-text-field input[type='text'],.chat-right-field .emoji-link,#chat-aud-open,#click-to-record").hide();
+			$("#chat-keypad-open,#chat-roll-send,.chat-audio-msg").show();
+			});
+		$("#cancel-record").click(function(){
+			
+			$("div.chat-text-field input[type='text'],.chat-right-field .emoji-link,#chat-aud-open").show();
+			$("#chat-keypad-open,#chat-roll-send,#click-to-record,.chat-audio-msg").hide();
+			});
+			
+			/*
+			
 		$("#chat-roll-send").click(function(){
 			$("div.chat-text-field input[type='text'],.chat-right-field .emoji-link").hide();
 			$(".chat-text-field .chat-audio-msg,.chat-right-field a.cht-lnk-optn.send-aud-del").show();
@@ -116,7 +141,7 @@ $(document).ready(function(){
 			$("div.chat-text-field input[type='text'],.chat-right-field .emoji-link").show();
 			$(".chat-text-field .chat-audio-msg,.chat-right-field a.cht-lnk-optn.send-aud-del").hide();
 			$(this).children(".fa").removeClass("fa-send").addClass("fa-microphone");
-			});
+			});*/
 			
 		$(document).on("click",function(e){
 			if($(e.target).closest(".chat-optn-lst-usr button").length > 0){
@@ -131,6 +156,14 @@ $(document).ready(function(){
 				}
 			else{
 				$(".chat-optn-lst-usr button").siblings("ul").hide();
+				}
+			});
+	    $(".qr-show").click(function(){
+			$(".scan-qr-wrap").show();
+			});
+		$(document).on("click",function(e){
+			if(!($(e.target).closest(".qr-show,.scan-qr").length > 0)){
+				$(".scan-qr-wrap").hide();
 				}
 			});
 	});
