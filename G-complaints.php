@@ -218,8 +218,8 @@ help you at any time.</pre>
               <div class="chat-optn-lst-usr">
                 <button><i class="fa fa-angle-down"></i></button>
                 <ul>
-                  <li><button>Copy</button></li>
-                  <li><button>Untranslate</button></li>
+                  <li><button>Copy Link</button></li>
+                  <li><button>Download</button></li>
                   <li><button>Forward</button></li>
                   <li><button>Favorite</button></li>
                   <li><button>Select</button></li>
@@ -238,7 +238,7 @@ help you at any time.</pre>
                 <button><i class="fa fa-angle-down"></i></button>
                 <ul>
                   <li><button>Copy</button></li>
-                  <li><button>Untranslate</button></li>
+                  <li><button>Translate</button></li>
                   <li><button>Forward</button></li>
                   <li><button>Favorite</button></li>
                   <li><button>Select</button></li>
@@ -268,7 +268,6 @@ help you at any time.</pre>
               <div class="chat-optn-lst-usr">
                 <button><i class="fa fa-angle-down"></i></button>
                 <ul>
-                  <li><button>Forward</button></li>
                   <li><button>Select</button></li>
                   <li><button>Delete</button></li>
                 </ul>
@@ -291,6 +290,7 @@ help you at any time.</pre>
                 <ul>
                   <li><button>Copy Link</button></li>
                   <li><button>Recall</button></li>
+                  <li><button>Save</button></li>
                   <li><button>Forward</button></li>
                   <li><button>Favorite</button></li>
                   <li><button>Select</button></li>
@@ -317,7 +317,7 @@ help you at any time.</pre>
               <div class="chat-optn-lst-usr">
                 <button><i class="fa fa-angle-down"></i></button>
                 <ul>
-                  <li><button>Forward</button></li>
+                  <li><button>Recall</button></li>
                   <li><button>Select</button></li>
                   <li><button>Delete</button></li>
                 </ul>

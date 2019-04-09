@@ -35,8 +35,6 @@ Temporarily or permanently.</li>
       <a href="#" class="roll-bt">Sign-Up Now For Free</a>
     </div>
   </div>
-  <p>Already have an account? <a href="#" >Login</a></p>
-  </div>
  <div class="sign-up-wrp">
   <div class="sign-up-sectn">
     <div class="roll-fr-log" style="background: #2ba745;"><i class="fa fa-bank"></i></div>
