@@ -355,7 +355,7 @@ help you at any time.</pre>
               <li><a><i class="fa fa-video-camera"></i><span>Call Video</span></a></li>
               <li><a><i class="fa fa-dollar"></i><span>Transfer</span></a></li>
               <li><a><i class="fa fa-heart"></i><span>Favorite</span></a></li>
-              <li><a><i class="fas fa-book-reader"></i><span>Location</span></a></li>
+              <li><a><i class="fa fa-book-reader"></i><span>Location</span></a></li>
               <li><a><i class="fa fa-id-badge"></i><span>Contact</span></a></li>
             </ul>
           </div>
