@@ -39,7 +39,7 @@
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-print"></i>Documents</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>Booking</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>Finance </a>
-            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fa fa-atom"></i>Update </a>
+            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fa fa-atom"></i>Update</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-search"></i>Searach</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-home"></i>Home</a>
             <span id="pnIndicator" class="nn-MenuNav_Indicator"></span> </div>
@@ -67,13 +67,13 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fa fa-archive" ></i>Default Value</a></li>
-        <li><a href=""><i class="fa fa-lightbulb" aria-hidden="true"></i>Content</a></li>
-        <li><a href="d-charges.php"><i class="fa fa-money-bill"></i> D-charges</a></li>
-        <li><a href="P-charges.php"><i class="fas fa-file-invoice-dollar"></i> P-charges</a></li>
-        <li><a href="d-tax.php"> <i class="fa fa-dollar" aria-hidden="true"></i>D-Tax</a></li>
-        <li><a href="General-Account-Restriction.php"> <i class="fa  fa-minus-circle" aria-hidden="true"></i>Restriction</a></li>
-        <li><a href=""> <i class="fa fa-infinity" aria-hidden="true"></i>Limitations</a></li>
+        <li><a href=""><i class="fa fa-phoenix-framework"></i>Default Value</a></li>
+        <li><a href=""><i class="fa fa-compass"></i>Content</a></li>
+        <li><a href="d-charges.php"><i class="fa fa-money-bill-wave"></i>D-charges</a></li>
+        <li><a href="P-charges.php"><i class="fa fa-comments-dollar"></i>P-charges</a></li>
+        <li><a href="d-tax.php"><i class="fa fa-badge-percent"></i>D-Tax</a></li>
+        <li><a href="General-Account-Restriction.php"><i class="fa fa-ban"></i>Restriction</a></li>
+        <li><a href=""><i class="fa fa-shield-alt"></i>Limitations</a></li>
       </ul>
   </div>
 </header>
