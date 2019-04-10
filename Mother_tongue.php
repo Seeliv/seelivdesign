@@ -38,7 +38,7 @@
              <option>----</option>
              </select>
            </div>
-           <div class="t-b-one"><input type="text" placeholder="Enter mothertongue Name" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one"><input type="text" placeholder="Enter Mother tongue Name" ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
          <div class="form-usr-option">
            <a href="#" class="add-opn">Add As New</a>
@@ -89,7 +89,7 @@
           <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
           <div class="cnt-top">
           <div class="country-name">
-           <div>Punjab</div>
+           <div>Urdu</div>
            <div><a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a></div>
           </div>
           </div>
@@ -98,7 +98,7 @@
            <ul>
                                 
                                                    <li><img src="images/icon19.png"><span>621 </span></li>
-                                                   <li><img src="images/icon17.png"><span>Urdu  </span></li>
+                                                   <li><img src="images/icon17.png"><span>Pakistan  </span></li>
                                                    <li><img src="images/icon29.png"><span>Name of person </span></li>
                                                     <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
                                                      <li><img src="images/icon30.png"><span>Review In PendingKamran Ali</span> </li>
