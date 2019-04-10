@@ -35,11 +35,11 @@
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-handshake-o" aria-hidden="true"></i>Verify</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-globe"></i>Review</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-desktop"></i>Monitor</a>
-            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fa fa-bug"></i>I-complaints</a>
+            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fa fa-bug"></i>Issues</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-print"></i>Documents</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>Booking</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>Finance </a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-joomla"></i>Update </a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-atom"></i>Update </a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-search"></i>Searach</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-home"></i>Home</a>
             <span id="pnIndicator" class="nn-MenuNav_Indicator"></span> </div>
@@ -67,9 +67,9 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fa fa-chain-broken" ></i>G-inquiry</a></li>
-        <li><a href=""><i class="fa fa-chain-broken" ></i>Login/Signup Issue</a></li>
-        <li><a href=""><i class="fa fa-chain-broken" ></i>Transaction Issue</a></li>
+        <li><a href=""><i class="fa fa-question"></i>G-inquiry</a></li>
+        <li><a href=""><i class="fa fa-user"></i>Login/Signup</a></li>
+        <li><a href=""><i class="fa fa-wallet"></i>Transaction</a></li>
       </ul>
   </div>
 </header>
