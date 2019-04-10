@@ -218,8 +218,8 @@ help you at any time.</pre>
               <div class="chat-optn-lst-usr">
                 <button><i class="fa fa-angle-down"></i></button>
                 <ul>
-                  <li><button>Copy Link</button></li>
-                  <li><button>Download</button></li>
+                  <li><button>Copy</button></li>
+                  <li><button>Untranslate</button></li>
                   <li><button>Forward</button></li>
                   <li><button>Favorite</button></li>
                   <li><button>Select</button></li>
@@ -238,7 +238,7 @@ help you at any time.</pre>
                 <button><i class="fa fa-angle-down"></i></button>
                 <ul>
                   <li><button>Copy</button></li>
-                  <li><button>Translate</button></li>
+                  <li><button>Untranslate</button></li>
                   <li><button>Forward</button></li>
                   <li><button>Favorite</button></li>
                   <li><button>Select</button></li>
@@ -268,6 +268,7 @@ help you at any time.</pre>
               <div class="chat-optn-lst-usr">
                 <button><i class="fa fa-angle-down"></i></button>
                 <ul>
+                  <li><button>Forward</button></li>
                   <li><button>Select</button></li>
                   <li><button>Delete</button></li>
                 </ul>
@@ -290,7 +291,6 @@ help you at any time.</pre>
                 <ul>
                   <li><button>Copy Link</button></li>
                   <li><button>Recall</button></li>
-                  <li><button>Save</button></li>
                   <li><button>Forward</button></li>
                   <li><button>Favorite</button></li>
                   <li><button>Select</button></li>
@@ -317,7 +317,7 @@ help you at any time.</pre>
               <div class="chat-optn-lst-usr">
                 <button><i class="fa fa-angle-down"></i></button>
                 <ul>
-                  <li><button>Recall</button></li>
+                  <li><button>Forward</button></li>
                   <li><button>Select</button></li>
                   <li><button>Delete</button></li>
                 </ul>
@@ -331,7 +331,7 @@ help you at any time.</pre>
         <div class="chat-bot-send">
           <div class="chat-fields">
             <div class="chat-left-field">
-              <a href="#" class="cht-lnk-optn" id="ex-optn-open"><i class="fa fa-plus-circle"></i></a>
+              <a href="#" class="cht-lnk-optn"><img src="images/calndr.png" /></a>
               <a href="#" class="cht-lnk-optn" id="ex-optn-open"><i class="fa fa-plus-circle"></i></a>
             </div>
             <div class="chat-text-field">
@@ -340,8 +340,8 @@ help you at any time.</pre>
               <button id="click-to-record" >Click To Record</button>
             </div>
             <div class="chat-right-field">
-              <a href="#" class="cht-lnk-optn keypad-show" id="chat-keypad-open" ><i class="fa fa-keyboard"></i></i></a>
-              <a href="#" class="cht-lnk-optn" id="ex-optn-open"><i class="fa fa-plus-circle"></i></a>
+              <a href="#" class="cht-lnk-optn keypad-show" id="chat-keypad-open" ><i class="fa fa-keyboard"></i></a>
+              <a href="#" class="cht-lnk-optn emoji-link"><img src="images/emoji.png" /></a>
               <a href="#" class="cht-lnk-optn open-aud-link" id="chat-aud-open"><i class="fa fa-microphone"></i></a>
               <a href="#" class="cht-lnk-optn send-cht-link" id="chat-roll-send"><i class="fa fa-send"></i></a>
             </div>
@@ -350,13 +350,13 @@ help you at any time.</pre>
             <ul>
               <li><a><i class="fa fa-image"></i><span>Gallery</span></a></li>
               <li><a><i class="fa fa-camera"></i><span>Camera</span></a></li>
-              <li><a><i class="fa fa-print"></i><span>Documents</span></a></li>
-              <li><a><i class="fa fa-phone-volume"></i><span>Call Audio</span></a></li>
+              <li><a><i class="fa fa-folder"></i><span>Documents</span></a></li>
+              <li><a><i class="fa fa-phone"></i><span>Call Audio</span></a></li>
               <li><a><i class="fa fa-video-camera"></i><span>Call Video</span></a></li>
-              <li><a><i class="fa fa-comments-dollar"></i><span>Transfer</span></a></li>
+              <li><a><i class="fa fa-dollar"></i><span>Transfer</span></a></li>
               <li><a><i class="fa fa-heart"></i><span>Favorite</span></a></li>
-              <li><a><i class="fa fa-map-marked-alt"></i><span>Location</span></a></li>
-              <li><a><i class="fa fa-address-book"></i><span>Contact</span></a></li>
+              <li><a><i class="fa fa-map-marker"></i><span>Location</span></a></li>
+              <li><a><i class="fa fa-id-badge"></i><span>Contact</span></a></li>
             </ul>
           </div>
         </div>
