@@ -351,12 +351,12 @@ help you at any time.</pre>
               <li><a><i class="fa fa-image"></i><span>Gallery</span></a></li>
               <li><a><i class="fa fa-camera"></i><span>Camera</span></a></li>
               <li><a><i class="fa fa-folder"></i><span>Documents</span></a></li>
-              <li><a><i class="fa fa-phone"></i><span>Call Audio</span></a></li>
+              <li><a><i class="fa fa-phone-volume"></i><span>Call Audio</span></a></li>
               <li><a><i class="fa fa-video-camera"></i><span>Call Video</span></a></li>
               <li><a><i class="fa fa-dollar"></i><span>Transfer</span></a></li>
               <li><a><i class="fa fa-heart"></i><span>Favorite</span></a></li>
-              <li><a><i class="fa fa-book-reader"></i><span>Location</span></a></li>
-              <li><a><i class="fa fa-id-badge"></i><span>Contact</span></a></li>
+              <li><a><i class="fas fa-map-marked-alt"></i><span>Location</span></a></li>
+              <li><a><i class="fa fa-address-book"></i><span>Contact</span></a></li>
             </ul>
           </div>
         </div>
