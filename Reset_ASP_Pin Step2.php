@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Untitled Document</title>
+<title>Reset ASP Pin Step 2</title>
 <?php include("head.php") ?>
 </head>
 
