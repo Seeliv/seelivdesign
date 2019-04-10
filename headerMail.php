@@ -37,10 +37,12 @@
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-desktop"></i>Monitor</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-sun-o" aria-hidden="true"></i>Complaints</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-book" aria-hidden="true"></i>issues</a><!--
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-check-square" aria-hidden="true"></i>permission</a>-->
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-file" aria-hidden="true"></i>document</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>booking</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>finance </a><!
-            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fas fa-exchange-alt"></i>update</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>finance </a><!--
+            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-money-bill-alt"></i>tax </a>-->
+            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fas fa-exchange-alt"></i>update </a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-search"></i>Serach</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-home"></i>Home</a>
             <span id="pnIndicator" class="nn-MenuNav_Indicator"></span> </div>
