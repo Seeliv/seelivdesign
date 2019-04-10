@@ -38,7 +38,7 @@
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-bug"></i>Issues</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-print"></i>Documents</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>Booking</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>Finance </a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-university"></i>Finance </a>
             <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fa fa-atom"></i>Update</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-search"></i>Searach</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-home"></i>Home</a>
@@ -67,11 +67,11 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fa fa-phoenix-framework"></i>Default Value</a></li>
+        <li><a href=""><i class="fa fa-creative-commons-sampling"></i>Default Value</a></li>
         <li><a href=""><i class="fa fa-compass"></i>Content</a></li>
-        <li><a href="d-charges.php"><i class="fa fa-money-bill-wave"></i>D-charges</a></li>
-        <li><a href="P-charges.php"><i class="fa fa-comments-dollar"></i>P-charges</a></li>
-        <li><a href="d-tax.php"><i class="fa fa-badge-percent"></i>D-Tax</a></li>
+        <li><a href="d-charges.php"><i class="fa fa-comment-dollar"></i>D-charges</a></li>
+        <li><a href="P-charges.php"><i class="fa fa-search-dollar"></i>P-charges</a></li>
+        <li><a href="d-tax.php"><i class="fa fa-balance-scale-left"></i>D-Tax</a></li>
         <li><a href="General-Account-Restriction.php"><i class="fa fa-ban"></i>Restriction</a></li>
         <li><a href=""><i class="fa fa-shield-alt"></i>Limitations</a></li>
       </ul>
