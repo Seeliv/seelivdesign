@@ -332,7 +332,7 @@ help you at any time.</pre>
           <div class="chat-fields">
             <div class="chat-left-field">
               <a href="#" class="cht-lnk-optn"><img src="images/calndr.png" /></a>
-              <a href="#" class="cht-lnk-optn" id="ex-optn-open"><i class="fa fa-plus-circle"></i></a>
+              <a href="#" class="cht-lnk-optn" id="ex-optn-open"><i class="far fa-keyboard"></i></a>
             </div>
             <div class="chat-text-field">
               <input type="text" placeholder="Type your Message" id="txt-chat-msg"  />
