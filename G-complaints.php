@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Untitled Document</title>
+<title>Issues & Complaints</title>
 <?php include("head.php") ?>
 </head>
 
 <body>
-<?php include("header-complain.php"); ?>
+<?php include("Admin_I-complaints_ header.php"); ?>
 <main>
 <section class="side-bar">
   <div class="side-bar-content">
@@ -350,13 +350,13 @@ help you at any time.</pre>
             <ul>
               <li><a><i class="fa fa-image"></i><span>Gallery</span></a></li>
               <li><a><i class="fa fa-camera"></i><span>Camera</span></a></li>
-              <li><a><i class="fa fa-folder"></i><span>Documents</span></a></li>
-              <li><a><i class="fa fa-phone"></i><span>Call Audio</span></a></li>
+              <li><a><i class="fa fa-print"></i><span>Documents</span></a></li>
+              <li><a><i class="fa fa-phone-volume"></i><span>Call Audio</span></a></li>
               <li><a><i class="fa fa-video-camera"></i><span>Call Video</span></a></li>
-              <li><a><i class="fa fa-dollar"></i><span>Transfer</span></a></li>
+              <li><a><i class="fa fa-comments-dollar"></i><span>Transfer</span></a></li>
               <li><a><i class="fa fa-heart"></i><span>Favorite</span></a></li>
-              <li><a><i class="fa fa-map-marker"></i><span>Location</span></a></li>
-              <li><a><i class="fa fa-id-badge"></i><span>Contact</span></a></li>
+              <li><a><i class="fa fa-map-marked-alt"></i><span>Location</span></a></li>
+              <li><a><i class="fa fa-address-book"></i><span>Contact</span></a></li>
             </ul>
           </div>
         </div>
