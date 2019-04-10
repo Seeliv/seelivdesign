@@ -30,17 +30,20 @@
       <div class="nn-MenuNav_Wrapper">
         <nav id="pnProductNav" class="nn-MenuNav">
           <div id="pnProductNavContents" class="nn-MenuNav_Contents"> 
-             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-users"></i>Users</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-envelope-open"></i>Email</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-users"></i>Users</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-envelope-open"></i>email</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-handshake-o" aria-hidden="true"></i>Verify</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-globe"></i>Review</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-eye"></i>Monitor</a>
-            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fa fa-bug"></i>Issues</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-print"></i>Documents</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>Booking</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>Finance </a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-atom"></i>Update </a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-search"></i>Searach</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-allergies"></i>Review</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-desktop"></i>Monitor</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-sun-o" aria-hidden="true"></i>Complaints</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i>issues</a><!--
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-check-square" aria-hidden="true"></i>permission</a>-->
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-folder" aria-hidden="true"></i>document</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>booking</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>finance </a><!--
+            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-money-bill-alt"></i>tax </a>-->
+            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fas fa-exchange-alt"></i>update </a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-search"></i>Serach</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-home"></i>Home</a>
             <span id="pnIndicator" class="nn-MenuNav_Indicator"></span> </div>
         </nav>
