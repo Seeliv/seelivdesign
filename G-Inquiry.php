@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Issues & Complaints</title>
+<title>Issues</title>
 <?php include("head.php") ?>
 </head>
 
 <body>
-<?php include("Admin_I-complaints_ header.php"); ?>
+<?php include("Admin_Issues_ header.php"); ?>
 <main>
 <section class="side-bar">
   <div class="side-bar-content">
