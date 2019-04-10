@@ -2,13 +2,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Account Summary</title>
+<title>Untitled Document</title>
 <link href="css/datepicker.min.css" rel="stylesheet" type="text/css">
 <?php include("head.php") ?>
 </head>
 
 <body>
-<?php include("Admin_home_header.php"); ?>
+<?php include("headerAcc.php"); ?>
 <main>
 <section class="side-bar">
   <div class="side-bar-content">

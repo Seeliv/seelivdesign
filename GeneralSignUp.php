@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>General Account SignUp</title>
+<title>Untitled Document</title>
 <?php include("head.php") ?>
 </head>
 
