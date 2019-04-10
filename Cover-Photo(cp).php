@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Cover-Photo</title>
-<?php include("Admin-Update-header.php") ?>
+<title>Cover Photo</title>
+<?php include("head.php") ?>
 </head>
 
 <body>
-<?php include("header.php"); ?>
+<?php include("Admin-Update-header.php"); ?>
 <main>
 <section class="side-bar">
   <div class="side-bar-content">
