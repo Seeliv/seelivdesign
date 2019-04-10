@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Default States</title>
+<title>Default Postal Address</title>
 <?php include("head.php") ?>
 </head>
 
 <body>
-<?php include("Admin_update_header.php"); ?>
+<?php include("header.php"); ?>
 <main>
 <section class="side-bar">
   <div class="side-bar-content">
@@ -15,8 +15,8 @@
     <div class="sidebar-list">
     <ul class="fa-ul">
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Countries</a></li>
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fa fa-map-marker"></i></span>States</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-envelope"></i></span>Postal Address</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-map-marker"></i></span>States</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fa fa-envelope"></i></span>Postal Address</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-subway" ></i></span>Subway Address</a></li>
                           </ul>
                           </div>
@@ -26,11 +26,13 @@
   <div class="content-data">
   <div class="content-in">
     <div class="content-fix-head">
-       <h1>States</h1>
+       <a class="orde-rev-bt">Order Review</a>
+       <h1>Postal Address</h1>
        <div class="filter-form">
-         <div class="form-fl form-3"><!--
-           <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>State Search</p></div>-->
-           <div class="t-b-one"><input type="text" placeholder="State id" ><button type="submit"><i class="fa fa-search"></i></button></div>
+         <!--<div class="mob-filt-btn"><button id="filter-open"><i class="fa fa-search"></i></button></div>-->
+         <div class="form-fl form-4"><!--
+           <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Postal Address Search</p></div>-->
+           <div class="t-b-one"><input type="text" placeholder="Postal id" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one">
              <select>
              <option>All Country</option>
@@ -38,7 +40,14 @@
              <option>----</option>
              </select>
            </div>
-           <div class="t-b-one"><input type="text" placeholder="Enter State Name" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="o-b-one">
+             <select>
+             <option>All States</option>
+             <option>----</option>
+             <option>----</option>
+             </select>
+           </div>
+           <div class="t-b-one"><input type="text" placeholder="Enter Zip Code,Postal Code " ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
          <div class="form-usr-option">
            <a href="#" class="add-opn">Add As New</a>
@@ -88,18 +97,43 @@
         <div class="table-row">
           <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
           <div class="cnt-top">
-          <div class="country-name">
-           <div>Punjab</div>
+          <div class="country-name"> 
+           <div>Yaohai District, Hefei City, Anhui Province, China 230000</div>
            <div><a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a></div>
           </div>
           </div>
           <div class="cnt-btom tog-expand">
-           <div class="row-list">
+          <div class="row-list" >
            <ul>
-                                
-                                                   <li><img src="images/icon19.png"><span>621 </span></li>
-                                                   <li><img src="images/icon17.png"><span>India  </span></li>
-                                                   <li><img src="images/icon29.png"><span>Name of person </span></li>
+                          <li><img src="images/icon19.png"><span>621 </span></li>
+                                                   <li><img src="images/icon25.png"><span>Pakistan  </span></li>
+                                                    <li><img src="images/icon17.png"><span>Punjab  </span> </li>
+                                                   <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
+                                                    <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
+                                                     <li><img src="images/icon30.png"><span>Review In PendingKamran Ali</span> </li>
+                                                      <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
+                                                       <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
+                                             </ul>
+                                             
+          <div class="row-option"><a href="#">Edit</a></div>
+          </div>
+          </div>
+        </div>
+        <div class="table-row">
+          <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
+          <div class="cnt-top">
+          <div class="country-name"> 
+           <div>Yaohai District 2, Hefei City, Anhui Province, China 230000</div>
+           <div><a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a></div>
+          </div>
+          </div>
+          <div class="cnt-btom tog-expand">
+          <div class="row-list" >
+           <ul>
+                          <li><img src="images/icon19.png"><span>621 </span></li>
+                                                   <li><img src="images/icon25.png"><span>Pakistan  </span></li>
+                                                    <li><img src="images/icon17.png"><span>Punjab  </span> </li>
+                                                   <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
                                                     <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
                                                      <li><img src="images/icon30.png"><span>Review In PendingKamran Ali</span> </li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
