@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<?php include("headerMail.php"); ?>
+<?php include("Admin_email_header.php"); ?>
 <main>
 <section class="side-bar">
   <div class="side-bar-content">
