@@ -340,7 +340,7 @@ help you at any time.</pre>
               <button id="click-to-record" >Click To Record</button>
             </div>
             <div class="chat-right-field">
-              <a href="#" class="cht-lnk-optn keypad-show" id="chat-keypad-open" ><i class="fa fa-keyboard"></i></a>
+              <a href="#" class="cht-lnk-optn keypad-show" id="chat-keypad-open" ><i class="far fa-dot-circle"></i></a>
               <a href="#" class="cht-lnk-optn emoji-link"><img src="images/emoji.png" /></a>
               <a href="#" class="cht-lnk-optn open-aud-link" id="chat-aud-open"><i class="fa fa-microphone"></i></a>
               <a href="#" class="cht-lnk-optn send-cht-link" id="chat-roll-send"><i class="fa fa-send"></i></a>
