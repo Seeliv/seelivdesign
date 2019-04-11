@@ -67,12 +67,12 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fab fa-gg-circle"></i>Default Value</a></li>
+        <li><a href=""><i class="fab fa-phabricator"></i>Default Value</a></li>
         <li><a href=""><i class="fab fa-joomla"></i>Content</a></li>
         <li><a href="d-charges.php"><i class="fa fa-comment-dollar"></i>D-charges</a></li>
         <li><a href="P-charges.php"><i class="fa fa-search-dollar"></i>P-charges</a></li>
         <li><a href="d-tax.php"><i class="fa fa-percentage"></i>D-Tax</a></li>
-        <li><a href="d-tax.php"><i class="fab fa-amazon-pay"></i>D-Paym</a></li>
+        <li><a href="d-tax.php"><i class="fas fa-comments-dollar"></i>D-Paym</a></li>
         <li><a href="d-tax.php"><i class="fa fa-user-circle"></i>D-Account</a></li>
         <li><a href="General-Account-Restriction.php"><i class="fa fa-ban"></i>Restriction</a></li>
         <li><a href=""><i class="fa fa-shield-alt"></i>Limitations</a></li>
