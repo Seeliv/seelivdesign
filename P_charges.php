@@ -49,7 +49,7 @@
               </div>
               <div class="o-b-one">
                 <select>
-                  <option>All Disciplines</option>
+                  <option>All Study Fields</option>
                   <option>----</option>
                   <option>----</option>
                 </select>
