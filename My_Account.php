@@ -164,15 +164,6 @@
                       </div>
                     </div>
                   </div>
-                    <div class="set-action">
-                      <div class="sidebtn ">
-                        <ul>
-                          <li><a href="" class="view-btn"><i class="fa fa-eye"></i></a></li>
-                          <li><a href="" class="edit-btn"><img src="images/edit.png" class="iconback1"></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
                   <div class="prf-tl-row prf-tl-row-drk">
                     <div class="cnt-top">
                     <div class="usr-set-exp">
