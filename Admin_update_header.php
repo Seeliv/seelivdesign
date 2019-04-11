@@ -71,7 +71,7 @@
         <li><a href=""><i class="fab fa-mizuni"></i>Content</a></li>
         <li><a href="d-charges.php"><i class="fa fa-comment-dollar"></i>D-charges</a></li>
         <li><a href="P-charges.php"><i class="fa fa-search-dollar"></i>P-charges</a></li>
-        <li><a href="d-tax.php"><i class="fa fa-percentage"></i>D-Tax</a></li>
+        <li><a href="d-tax.php"><i class="fab fa-bitcoin"></i>D-Tax</a></li>
         <li><a href="d-tax.php"><i class="fas fa-comments-dollar"></i>D-Paym</a></li>
         <li><a href="d-tax.php"><i class="fa fa-user-circle"></i>D-Account</a></li>
         <li><a href="General-Account-Restriction.php"><i class="fa fa-ban"></i>Restriction</a></li>
