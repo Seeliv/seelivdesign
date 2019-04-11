@@ -14,16 +14,10 @@
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-volume-up"></i></span>Accent</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Countries</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-map-marker"></i></span>States</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fa fa-map-marker"></i></span>States</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-envelope"></i></span>Postal Address</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-subway" ></i></span>Subway Address</a></li>
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fa fa-globe-asia"></i></span>Mother Tongue</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-layer-group"></i></span>Study level</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-palette"></i></span>Study Field</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-journal-whills"></i></span>Programs</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-book"></i></span>Subjects</a></li>
                           </ul>
                           </div>
   </div>
@@ -32,10 +26,10 @@
   <div class="content-data">
   <div class="content-in">
     <div class="content-fix-head">
-       <h1>Mother Tongue</h1>
+       <h1>States</h1>
        <div class="filter-form">
          <div class="form-fl form-3"><!--
-           <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Mother Tongue Search</p></div>-->
+           <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>State Search</p></div>-->
            <div class="t-b-one"><input type="text" placeholder="Mother tongue id" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one">
              <select>
