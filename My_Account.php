@@ -95,8 +95,8 @@
                   </div>
                   <div class="prf-tl-row">
                     <div class="prf-txt">
-                      <div class="prf-tx-icn"><img src="images/icon5.png" /></div>
-                      <div class="chng-txt-prf">05 August 1997</div>
+                      <div class="prf-tx-icn"><img src="images/Calendar1.png" /></div>
+                      <div class="chng-txt-prf">05 August 1990</div>
                     </div>
                     <div class="set-action">
                       <div class="sidebtn ">
@@ -108,7 +108,7 @@
                   </div>
                   <div class="prf-tl-row">
                     <div class="prf-txt">
-                      <div class="prf-tx-icn"><img src="images/icon11.png" /></div>
+                      <div class="prf-tx-icn"><img src="images/Language.png" /></div>
                       <div class="chng-txt-prf">English</div>
                     </div>
                     <div class="set-action">
@@ -121,8 +121,8 @@
                   </div>
                   <div class="prf-tl-row">
                     <div class="prf-txt">
-                      <div class="prf-tx-icn"><img src="images/icon11.png" /></div>
-                      <div class="chng-txt-prf">English</div>
+                      <div class="prf-tx-icn"><img src="images/Translation.png" /></div>
+                      <div class="chng-txt-prf">Hindi</div>
                     </div>
                     <div class="set-action">
                       <div class="sidebtn ">
@@ -138,7 +138,7 @@
                 <div class="set-prf-tl">
                   <div class="prf-tl-row">
                     <div class="prf-txt">
-                      <div class="prf-tx-icn"><img src="images/icon5.png" /></div>
+                      <div class="prf-tx-icn"><img src="images/Password.png" /></div>
                       <div class="chng-txt-prf">Password</div>
                     </div>
                     <div class="set-action">
@@ -152,7 +152,7 @@
                   </div>
                   <div class="prf-tl-row">
                     <div class="prf-txt">
-                      <div class="prf-tx-icn"><img src="images/icon5.png" /></div>
+                      <div class="prf-tx-icn"><img src="images/Password1.png" /></div>
                       <div class="chng-txt-prf">Security Pin</div>
                     </div>
                     <div class="set-action">
