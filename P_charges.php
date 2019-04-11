@@ -26,7 +26,7 @@
     <div class="content-data">
       <div class="content-in">
         <div class="content-fix-head">
-          <h1>Charges</h1>
+          <h1>Pakistan</h1>
           <div class="filter-form">
             <div class="mob-filt-btn">
               <button id="filter-open"><i class="fa fa-search"></i></button>
@@ -69,8 +69,8 @@
           <div class="charge-table">
             <div class="table-part">
               <div class="part-row roll-head-part">
-                <div>624 <strong>Bachelor</strong></div>
-                <div class="main-head-sctn">Bachelor Of Medicine & Bachelor of Surgery (MBBS)<strong>Medicine</strong></div>
+                <div>624 <strong>Study level</strong></div>
+                <div class="main-head-sctn">Bachelor Of Medicine & Bachelor of Surgery (MBBS)<strong>Study Field</strong></div>
                 <div class="set-action">
                   <div class="sidebtn ">
                     <ul>
