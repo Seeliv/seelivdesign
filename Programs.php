@@ -22,7 +22,7 @@
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-language"></i></span>Mother Tongue</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-compass"></i></span>Study Field</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-layer-group"></i></span>Study level</a></li>
-                                <li><aclass="active" href="#"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Programs</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Programs</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-book"></i></span>Subjects</a></li>
                                 
                           </ul>
