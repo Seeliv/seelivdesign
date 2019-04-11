@@ -14,7 +14,7 @@
       </div>
 </div>
 <div class="top-log">
-  <div class="lang"><a href="#">English</a><a href="#">中文</a><a href="#">Hindi</a></div>
+  <div class="lang"><a href="#">English</a><a href="#">中文</a><a href="#">русский</a></div><a href="#">Español</a></div><a href="#">हिंदी</a></div><a href="#">Português</a></div><a href="#">Deutsche</a></div><a href="#">Koreanisch</a></div><a href="#">français</a></div></div><a href="#">Türk</a></div>
   <div class="log-pg-hds">Account login</div>
   <div class="log-pg-optn"><a href="#"><i class="fa fa-question"></i><strong>Support</strong></a></div>
 </div>
