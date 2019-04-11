@@ -14,10 +14,16 @@
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-volume-up"></i></span>Accent</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Countries</a></li>
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fa fa-map-marker"></i></span>States</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-map-marker"></i></span>States</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-envelope"></i></span>Postal Address</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-subway" ></i></span>Subway Address</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-language"></i></span>Mother Tongue</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-compass"></i></span>Study Field</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-layer-group"></i></span>Study level</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Programs</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-book"></i></span>Subjects</a></li>
                           </ul>
                           </div>
   </div>
@@ -26,7 +32,7 @@
   <div class="content-data">
   <div class="content-in">
     <div class="content-fix-head">
-       <h1>States</h1>
+       <h1>Mother Tongue</h1>
        <div class="filter-form">
          <div class="form-fl form-3"><!--
            <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>State Search</p></div>-->
