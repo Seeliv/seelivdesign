@@ -67,13 +67,15 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fa fa-archive" ></i>Default Value</a></li>
-        <li><a href=""><i class="fa fa-lightbulb" aria-hidden="true"></i>Content</a></li>
-        <li><a href="d-charges.php"><i class="fa fa-money-bill"></i> D-charges</a></li>
-        <li><a href="P-charges.php"><i class="fas fa-file-invoice-dollar"></i> P-charges</a></li>
-        <li><a href="d-tax.php"> <i class="fa fa-dollar" aria-hidden="true"></i>D-Tax</a></li>
-        <li><a href="General-Account-Restriction.php"> <i class="fa  fa-minus-circle" aria-hidden="true"></i>Restriction</a></li>
-        <li><a href=""> <i class="fa fa-infinity" aria-hidden="true"></i>Limitations</a></li>
+        <li><a href=""><i class="fa fa-gg-circle"></i>Default Value</a></li>
+        <li><a href=""><i class="fa fa-copyright"></i>Content</a></li>
+        <li><a href="d-charges.php"><i class="fa fa-comment-dollar"></i>D-charges</a></li>
+        <li><a href="P-charges.php"><i class="fa fa-search-dollar"></i>P-charges</a></li>
+        <li><a href="d-tax.php"><i class="fa fa-percentage"></i>D-Tax</a></li>
+        <li><a href="d-tax.php"><i class="fa fa-google-wallet"></i>D-Paym</a></li>
+        <li><a href="d-tax.php"><i class="fa fa-user-circle"></i>D-Account</a></li>
+        <li><a href="General-Account-Restriction.php"><i class="fa fa-ban"></i>Restriction</a></li>
+        <li><a href=""><i class="fa fa-shield-alt"></i>Limitations</a></li>
       </ul>
   </div>
 </header>

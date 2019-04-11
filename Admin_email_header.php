@@ -67,8 +67,8 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fa fa-inbox" ></i>Inbox</a></li>
-        <li><a href=""><i class="fas fa-envelope"></i> Sent</a></li>
+        <li><a href=""><i class="fa fa-envelope"></i>Inbox</a></li>
+        <li><a href=""><i class="fa fa-envelope-open-text"></i>Sent</a></li>
         <li><a href=""><i class="fa fa-drafting-compass" ></i>Draft</a></li>
         <li><a href=""> <i class="fa fa-recycle" ></i>Junk</a></li>
         <li><a href=""> <i class="fa fa-trash" ></i>Delete</a></li>
