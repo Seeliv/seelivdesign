@@ -68,7 +68,7 @@
   <div class="header-bottom">
     <ul class="sub-menu">
         <li><a href=""><i class="fa fa-cog"></i>Default Value</a></li>
-        <li><a href=""><i class="fa fa-first-order"></i>Content</a></li>
+        <li><a href=""><i class="fab fa-first-order"></i>Content</a></li>
         <li><a href="d-charges.php"><i class="fa fa-comment-dollar"></i>D-charges</a></li>
         <li><a href="P-charges.php"><i class="fa fa-search-dollar"></i>P-charges</a></li>
         <li><a href="d-tax.php"><i class="fa fa-percentage"></i>D-Tax</a></li>
