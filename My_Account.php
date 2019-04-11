@@ -15,6 +15,7 @@
     <div class="sidebar-list">
     <ul class="fa-ul">
                                 <li><a class="active" href="Account-Name.php"><span class="fa-li"><img src="images/icon5.png"></span>Respective Content</a></li>
+                                <li><a class="active" href="Account-Name.php"><span class="fa-li"><img src="images/icon5.png"></span>Respective Content</a></li>
         </ul>
       </div>
     </div>
