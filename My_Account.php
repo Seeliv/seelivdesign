@@ -9,41 +9,12 @@
 <body>
 <?php include("Admin_update_header.php"); ?>
 <main>
-  <section class="side-bar">
-    <div class="side-bar-content">
-      <div class="search-list-item lft-side-sort">
-        <div class="sort-option option-sort-2">
-          <ul>
-            <li>
-              <button class="sort-button active">General Account</button>
-            </li>
-            <li>
-              <button class="sort-button">School Account</button>
-            </li>
-          </ul>
-        </div>
-        <div class="sort-option">
-          <ul>
-            <li>
-              <button class="sort-button">General</button>
-            </li>
-            <li>
-              <button class="sort-button">Country</button>
-            </li>
-            <li>
-              <button class="sort-button active">State</button>
-            </li>
-          </ul>
-        </div>
-        <input type="text" placeholder="Search here">
-      </div>
-      <div class="sidebar-list restct-cmd-list">
-        <ul class="lk-mn-list">
-          
-          <li><a href="#">
-            <div class="icon-r"><img src="images/icon2.png" /></div>
-            <strong>Respective content</strong></a></li>
-          </li>
+<section class="side-bar">
+  <div class="side-bar-content">
+    <div class="search-list-item"><input type="text" placeholder="Search here"></div>
+    <div class="sidebar-list">
+    <ul class="fa-ul">
+                                <li><a class="active" href="Account-Name.php"><span class="fa-li"><img src="images/icon5.png"></span>Respective Content</a></li>
         </ul>
       </div>
     </div>
