@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Accent</title>
+<title>Default Accent</title>
 <?php include("head.php") ?>
 </head>
 
@@ -16,7 +16,7 @@
     <ul class="fa-ul">
                                 <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-microphone"></i></span>Accent</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Countries</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-map-marked-alt"></i></span>States</a></li>
+                                <li><a href="#"> <span class="fa-li"><i class="fas fa-map-marked-alt"></i></span>States</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-search-location"></i></span>Postal Address</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-subway" ></i></span>Subway Address</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-microphone-alt"></i></span>Mother Tongue</a></li>
@@ -35,13 +35,23 @@
        <a class="orde-rev-bt">Order Review</a>
        <h1>Accent</h1>
        <div class="filter-form">
-         
+         <div class="form-fl form-4" ><!--
+           <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Subway Address Search</p></div>-->
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder=“Accent id" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Enter Accent name " ><button type="submit"><i class="fa fa-search"></i></button></div>
+         </div>
+         <div class="form-usr-option">
+           <a href="#" class="add-opn">Add As New</a>
+           <a href="#" class="rew-opn">Review Selected</a>
+           <a href="#" class="del-opn">Delete Selected</a>
+         </div>
        </div>   
-       <div class="table-options acnt-inline">
+       <div class="table-options">
          <div class="all-sel"><label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label> <a id="edit-mod">Edit</a></div>
          <div class="mob-page-tool">
            <ul>
              <li>
+               <button class="mob-fil-sh filt-click" id="filter-open"><i class="fa fa-search"></i></button>
              </li>
              
              <li>
@@ -64,11 +74,6 @@
              <li><button class="sort-button">Review Completed</button></li>
            </ul>
          </div>
-         <div class="form-usr-option">
-           <a href="#" class="add-opn">Add As New</a>
-           <a href="#" class="rew-opn">Review Selected</a>
-           <a href="#" class="del-opn">Delete Selected</a>
-         </div>
          <div class="table-pagging">
            <a href="#">&lt;</a>
            <a href="#">1</a>
@@ -79,50 +84,57 @@
        </div>
     </div>
     <div class="main-content">
-      <div class="table-list">
+      <div class="table-list country-table">
         <div class="table-row">
           <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
           <div class="cnt-top">
-          <div class="cnt-name">
+          <div class="country-name"> 
             <div>Native English Speaker</div>
             <div><a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a></div>
           </div>
           </div>
           <div class="cnt-btom tog-expand">
-          <div class="row-list">
+           <div class="row-list">
            <ul>
-                                                   <li><img src="images/icon19.png"><span>51 </span></li>
+                          <li><img src="images/icon19.png"><span>621 </span></li>
+                                                   <li><img src="images/icon25.png"><span>Pakistan  </span></li>
+                                                    <li><img src="images/icon17.png"><span>Punjab  </span> </li>
                                                    <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
                                                     <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
-                                                     <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
+                                                     <li><img src="images/icon30.png"><span>Review In PendingKamran Ali</span> </li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
                                              </ul>
           <div class="row-option"><a href="#">Edit</a></div>
-                                             </div>
           </div>
+          </div>
+          
         </div>
+        
         <div class="table-row">
           <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
           <div class="cnt-top">
-          <div class="country-name">
-            <div>Europian</div>
+          <div class="country-name"> 
+            <div>European</div>
             <div><a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a></div>
           </div>
           </div>
           <div class="cnt-btom tog-expand">
-          <div class="row-list">
+           <div class="row-list">
            <ul>
-                                                   <li><img src="images/icon19.png"><span>1 </span></li>
+                          <li><img src="images/icon19.png"><span>621 </span></li>
+                                                   <li><img src="images/icon25.png"><span>Pakistan  </span></li>
+                                                    <li><img src="images/icon17.png"><span>Punjab  </span> </li>
                                                    <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
                                                     <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
-                                                     <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
+                                                     <li><img src="images/icon30.png"><span>Review In PendingKamran Ali</span> </li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
                                              </ul>
           <div class="row-option"><a href="#">Edit</a></div>
-                                             </div>
           </div>
+          </div>
+          
         </div>
       </div>
     </div>
