@@ -94,7 +94,7 @@
           <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
           <div class="cnt-top">
           <div class="country-name">
-           <div>Punjab</div>
+           <div>Unverified User</div>
            <div><a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a></div>
           </div>
           </div>
