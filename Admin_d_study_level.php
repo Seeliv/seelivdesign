@@ -101,7 +101,7 @@
                                                     <li><img src="images/icon17.png"><span>Punjab  </span> </li>
                                                    <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
                                                     <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
-                                                     <li><img src="images/icon30.png"><span>Review In PendingKamran Ali</span> </li>
+                                                     <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
                                              </ul>
@@ -127,7 +127,7 @@
                                                     <li><img src="images/icon17.png"><span>Punjab  </span> </li>
                                                    <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
                                                     <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
-                                                     <li><img src="images/icon30.png"><span>Review In PendingKamran Ali</span> </li>
+                                                     <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
                                              </ul>
