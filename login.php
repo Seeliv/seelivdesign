@@ -25,6 +25,7 @@
       <div class="for-logo"><img src="" /></div>
       <div class="otr-log-otn">
       <div class="social-links active">
+        <a href="#" class="lIn"><i class="fas fa-user-cog"></i>Guest Login</a>
         <a href="#" class="qrLog qr-show"><i class="fa fa-qrcode"></i>Login With QR Code</a>
         <a href="#" class="wChat qr-show"><i class="fab fa-wechat"></i>Login With Linked Wechat</a>
         <a href="#" class="gPlus"><i class="fab fa-google"></i>Login With Linked Google</a>
