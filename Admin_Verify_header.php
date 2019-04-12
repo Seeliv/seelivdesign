@@ -66,8 +66,8 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
+        <li><a href=""><i class="fab fa-sellsy"></i>V-Content</a></li>
         <li><a href=""><i class="fas fa-users-cog"></i>V-Profile</a></li>
-        <li><a href=""><i class="fas fa-rss"></i>V-Content</a></li>
         <li><a href="d-charges.php"><i class="fas fa-school"></i>V-Ranking</a></li>
         <li><a href="P-charges.php"><i class="fas fa-print"></i>V-Documents</a></li>
       </ul>
