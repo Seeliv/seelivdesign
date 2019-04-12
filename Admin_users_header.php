@@ -30,7 +30,7 @@
       <div class="nn-MenuNav_Wrapper">
         <nav id="pnProductNav" class="nn-MenuNav">
           <div id="pnProductNavContents" class="nn-MenuNav_Contents"> 
-           <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fa fa-users"></i>Users</a>
+           <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fas fa-search"></i>Search</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-envelope-open"></i>Email</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-handshake-o" aria-hidden="true"></i>Verify</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-globe"></i>Review</a>
@@ -66,8 +66,8 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fas fa-search"></i>Search Users</a></li>
-        <li><a href=""><i class="fas fa-print"></i>Search Document</a></li>
+        <li><a href=""><i class="fas fa-users"></i>Users</a></li>
+        <li><a href=""><i class="fas fa-print"></i>Document</a></li>
       </ul>
   </div>
 </header>
