@@ -2,27 +2,19 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Verify Account Name</title>
+<title>Generate Documents</title>
 <?php include("head.php") ?>
 </head>
 
 <body>
-<?php include("Admin_Verify_header.php"); ?>
+<?php include("Admin_documents_header.php"); ?>
 <main>
 <section class="side-bar">
   <div class="side-bar-content">
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-user-edit"></i></span>Account Name</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-portrait"></i></span>Display Picture (dp)</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-image"></i></span>Cover Photo (cp)</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-newspaper"></i></span>Notice Board</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-pen-square"></i></span>School Introduction</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-images"></i></span>Slide Bar (1)</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="far fa-images"></i></span>Slide Bar (2)</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-book-dead"></i></span>Local Students' Rule Book</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-journal-whills"></i></span>Foreigner Students' Rule Book</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-user-edit"></i></span>Respective Content</a></li>
                           </ul>
                           </div>
   </div>
