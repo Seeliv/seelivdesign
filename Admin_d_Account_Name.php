@@ -2,21 +2,22 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Default Cover Photo</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/> 
+<title>Default Account Name</title>
 <?php include("head.php") ?>
 </head>
 
 <body>
-<?php include("Admin_D_Values_header.php"); ?>
+<?php include("Admin_d_Values_header.php"); ?>
 <main>
 <section class="side-bar">
   <div class="side-bar-content">
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-user-edit"></i></span>Account Name</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-user-edit"></i></span>Account Name</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-portrait"></i></span>Display Picture (dp)</a></li>
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-image"></i></span>Cover Photo (cp)</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-image"></i></span>Cover Photo (cp)</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-newspaper"></i></span>Notice Board</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-pen-square"></i></span>School Introduction</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-images"></i></span>Slide Bar (1)</a></li>
@@ -28,14 +29,15 @@
 <div class="content">
   <div class="content-data">
   <div class="content-in">
-    <div class="content-fix-head"><h1>Cover Photo (Cp)</h1></div>
+    <div class="content-fix-head"><h1>Account Name</h1></div>
     <div class="main-content">
       <div class="card-body noticeboard">
                 <div class="header_message sec2wrap btnwap">
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>General Account Default Cp</p>
+                         <p>Giv-Sch<br>
+                        <span class="mintext">Unverified</span></p>
                        </div>
                   </div>
                      <div class="card-option">
@@ -54,13 +56,13 @@
                        </div>
                   </div>
                     </div>
-                  <div class="cover-picture"><img src="images/banner1.png" /></div>
                    </div>
-                  <div class="header_message sec2wrap btnwap">
+                   <div class="header_message sec2wrap btnwap">
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>School Account Default Cp</p>
+                         <p>Sur-Abb<br>
+                        <span class="mintext">User</span></p>
                        </div>
                   </div>
                      <div class="card-option">
@@ -79,7 +81,6 @@
                        </div>
                   </div>
                     </div>
-                  <div class="cover-picture"><img src="images/banner1.png" /></div>
                    </div>
               </div>
     </div>
