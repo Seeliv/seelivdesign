@@ -66,8 +66,7 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fab fa-searchengin"></i>Search Users</a></li>
-        <li><a href=""><i class="fas fa-print"></i>Search Document</a></li>
+        <li><a href=""><i class="fas fa-search"></i>Search Users</a></li>
         <li><a href=""><i class="fas fa-print"></i>Search Document</a></li>
       </ul>
   </div>
