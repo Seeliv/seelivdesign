@@ -14,7 +14,15 @@
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-user-edit"></i></span>Respective Content</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-user-edit"></i></span>Account Name</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-portrait"></i></span>Display Picture (dp)</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-image"></i></span>Cover Photo (cp)</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-newspaper"></i></span>Notice Board</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-pen-square"></i></span>School Introduction</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-images"></i></span>Slide Bar (1)</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="far fa-images"></i></span>Slide Bar (2)</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-book-dead"></i></span>Local Students' Rule Book</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-journal-whills"></i></span>Foreigner Students' Rule Book</a></li>
                           </ul>
                           </div>
   </div>
