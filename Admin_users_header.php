@@ -40,7 +40,6 @@
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>Booking</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>Finance </a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-atom"></i>D-Values</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-search"></i>Searach</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-home"></i>Home</a>
             <span id="pnIndicator" class="nn-MenuNav_Indicator"></span> </div>
         </nav>
@@ -67,7 +66,9 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fas fa-search"></i>Search</a></li>
+        <li><a href=""><i class="fab fa-searchengin"></i>Search Users</a></li>
+        <li><a href=""><i class="fas fa-print"></i>Search Document</a></li>
+        <li><a href=""><i class="fas fa-print"></i>Search Document</a></li>
       </ul>
   </div>
 </header>
