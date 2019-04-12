@@ -36,8 +36,8 @@
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-globe"></i>Review</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-eye"></i>Monitor</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-bug"></i>Issues</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-print"></i>Documents</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>Booking</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-print" aria-hidden="true"></i>Documents</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane"></i>Booking</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>Finance </a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-atom"></i>D-Values</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-search"></i>Searach</a>

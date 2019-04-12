@@ -32,12 +32,12 @@
           <div id="pnProductNavContents" class="nn-MenuNav_Contents"> 
            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-users"></i>Users</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-envelope-open"></i>Email</a>
-            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fa fa-handshake-o" aria-hidden="true"></i>Verify</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-handshake-o" aria-hidden="true"></i>Verify</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-globe"></i>Review</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-eye"></i>Monitor</a>
+            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fa fa-eye" aria-hidden="true"></i>Monitor</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-bug"></i>Issues</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-print"></i>Documents</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>Booking</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane"></i>Booking</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>Finance </a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-atom"></i>D-Values</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-search"></i>Searach</a>
