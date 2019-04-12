@@ -66,7 +66,7 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fas fa-qrcode"></i>QR Code</a></li>
+        <li><a href=""><i class="fas fa-barcode-read"></i>QR Code</a></li>
         <li><a href=""><i class="fas fa-users"></i>Users</a></li>
         <li><a href=""><i class="fas fa-print"></i>Document</a></li>
       </ul>
