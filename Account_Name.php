@@ -15,14 +15,13 @@
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a class="active" href="Account-Name.php"><span class="fa-li"><img src="images/icon5.png"></span> Account Name</a></li>
-                                <li><a href="Display-Picture (dp).php"><span class="fa-li"><img src="images/icon1.png"></span> Display Picture (dp)</a></li>
-                                <li><a href="Cover-Photo(cp).php"><span class="fa-li"><img src="images/icon2.png"></span>Cover Photo (cp)</a></li>
-                                <li><a href="Notice-Board.php"><span class="fa-li"><img src="images/icon3.png"></span> Notice Board</a></li>
-                                <li><a href="SchoolNam &Abbreviation.php"><span class="fa-li"><img src="images/icon26.png"></span> School Introduction</a></li>
-                                <!--<li><a href="#"><span class="fa-li"><img src="images/icon5.png"></span> School Introduction</a></li>-->
-                                <li><a href="Slide-Bar1.php"><span class="fa-li"><img src="images/icon6.png"></span>Slide Bar (1)</a></li>
-                                <li><a href="Slide-Bar2.php"><span class="fa-li"><img src="images/icon7.png"></span> slide Bar (2)</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-user-edit"></i></span>Account Name</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-portrait"></i></span>Display Picture (dp)</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-image"></i></span>Cover Photo (cp)</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-newspaper"></i></span>Notice Board</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-pen-square"></i></span>School Introduction</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-images"></i></span>Slide Bar (1)</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="far fa-images"></i></span>Slide Bar (2)</a></li>
                           </ul>
                           </div>
   </div>
