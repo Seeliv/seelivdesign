@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Study field</title>
+<title>Subject List</title>
 <?php include("head.php") ?>
 </head>
 
 <body>
-<?php include("Admin_D_Values_header.php"); ?>
+<?php include("Admin_d_Values_header.php"); ?>
 <main>
 <section class="side-bar">
   <div class="side-bar-content">
@@ -20,10 +20,10 @@
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-search-location"></i></span>Postal Address</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-subway" ></i></span>Subway Address</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-microphone-alt"></i></span>Mother Tongue</a></li>
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-compass"></i></span>Study Field</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-compass"></i></span>Study Field</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-layer-group"></i></span>Study level</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Programs</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-book"></i></span>Subjects</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-book"></i></span>Subjects</a></li>
                           </ul>
                           </div>
   </div>
@@ -33,12 +33,12 @@
   <div class="content-in">
     <div class="content-fix-head">
        <a class="orde-rev-bt">Order Review</a>
-       <h1>Study field</h1>
+       <h1>Subject</h1>
        <div class="filter-form">
          <div class="form-fl form-4" ><!--
            <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Subway Address Search</p></div>-->
-           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Study field id" ><button type="submit"><i class="fa fa-search"></i></button></div>
-           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Enter Study field name " ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="subject id" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Enter subject name " ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
          <div class="form-usr-option">
            <a href="#" class="add-opn">Add As New</a>
@@ -101,7 +101,7 @@
                                                     <li><img src="images/icon17.png"><span>Punjab  </span> </li>
                                                    <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
                                                     <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
-                                                     <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
+                                                     <li><img src="images/icon30.png"><span>Review In PendingKamran Ali</span> </li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
                                              </ul>

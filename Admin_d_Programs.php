@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Study level</title>
+<title>Default Programs</title>
 <?php include("head.php") ?>
 </head>
 
 <body>
-<?php include("Admin_D_Values_header.php"); ?>
+<?php include("Admin_d_Values_header.php"); ?>
 <main>
 <section class="side-bar">
   <div class="side-bar-content">
@@ -21,9 +21,10 @@
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-subway" ></i></span>Subway Address</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-microphone-alt"></i></span>Mother Tongue</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-compass"></i></span>Study Field</a></li>
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-layer-group"></i></span>Study level</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Programs</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-layer-group"></i></span>Study level</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Programs</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-book"></i></span>Subjects</a></li>
+                                
                           </ul>
                           </div>
   </div>
@@ -33,12 +34,22 @@
   <div class="content-in">
     <div class="content-fix-head">
        <a class="orde-rev-bt">Order Review</a>
-       <h1>Study Level</h1>
-       <div class="filter-form">
-         <div class="form-fl form-4" ><!--
-           <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Subway Address Search</p></div>-->
-           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="study level id" ><button type="submit"><i class="fa fa-search"></i></button></div>
-           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Enter study level " ><button type="submit"><i class="fa fa-search"></i></button></div>
+       <h1>Programs</h1>
+       <div class="filter-form"><!--
+         <div class="mob-filt-btn"><button id="filter-open"><i class="fa fa-search"></i></button></div>-->
+         <div class="form-fl form-3"><!--
+           <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Programs Search</p></div>-->
+           <div class="t-b-one"><input type="text" placeholder="Program id" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="o-b-one">
+             <select>
+             <option>All Study Level</option>
+             <option>----</option>
+             <option>----</option>
+             </select>
+           </div>
+           <div class="t-b-one">
+             <input type="text" placeholder="Select Major" ><button type="submit"><i class="fa fa-search"></i></button>
+           </div>
          </div>
          <div class="form-usr-option">
            <a href="#" class="add-opn">Add As New</a>
@@ -86,15 +97,15 @@
     <div class="main-content">
       <div class="table-list country-table">
         <div class="table-row">
-          <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
+        <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
           <div class="cnt-top">
           <div class="country-name"> 
-            <div>Grade1</div>
+            <div>Bachelor of medicine and bachelor in surgery (MBBS)</div>
             <div><a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a></div>
           </div>
           </div>
           <div class="cnt-btom tog-expand">
-           <div class="row-list">
+          <div class="row-list">
            <ul>
                           <li><img src="images/icon19.png"><span>621 </span></li>
                                                    <li><img src="images/icon25.png"><span>Pakistan  </span></li>
@@ -105,36 +116,10 @@
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
                                              </ul>
+                                            
           <div class="row-option"><a href="#">Edit</a></div>
           </div>
           </div>
-          
-        </div>
-        
-        <div class="table-row">
-          <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
-          <div class="cnt-top">
-          <div class="country-name"> 
-            <div>Bachelor</div>
-            <div><a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a></div>
-          </div>
-          </div>
-          <div class="cnt-btom tog-expand">
-           <div class="row-list">
-           <ul>
-                          <li><img src="images/icon19.png"><span>621 </span></li>
-                                                   <li><img src="images/icon25.png"><span>Pakistan  </span></li>
-                                                    <li><img src="images/icon17.png"><span>Punjab  </span> </li>
-                                                   <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
-                                                    <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
-                                                     <li><img src="images/icon30.png"><span>Review In PendingKamran Ali</span> </li>
-                                                      <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
-                                                       <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
-                                             </ul>
-          <div class="row-option"><a href="#">Edit</a></div>
-          </div>
-          </div>
-          
         </div>
       </div>
     </div>
