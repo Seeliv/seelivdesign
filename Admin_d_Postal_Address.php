@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Default Postal Address</title>
+<title>default Postal Address</title>
 <?php include("head.php") ?>
 </head>
 

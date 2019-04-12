@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Subject List</title>
+<title>default Subject List</title>
 <?php include("head.php") ?>
 </head>
 

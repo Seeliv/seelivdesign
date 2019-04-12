@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Default Accent</title>
+<title>default Accent</title>
 <?php include("head.php") ?>
 </head>
 

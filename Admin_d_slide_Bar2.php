@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Default Slide Bar 2</title>
+<title>default slide Bar 2</title>
 <?php include("head.php") ?>
 </head>
 

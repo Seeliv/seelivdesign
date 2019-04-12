@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Default Charges</title>
+<title>default D-charges</title>
 <?php include("head.php") ?>
 </head>
 
