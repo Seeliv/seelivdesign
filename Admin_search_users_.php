@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<?php include("Admin_users_header.php"); ?>
+<?php include("Admin_search_header.php"); ?>
 <main>
 <section class="side-bar">
   <div class="side-bar-content">
