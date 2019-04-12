@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/> 
-<title>Account Name</title>
+<title>Default Account Name</title>
 <?php include("head.php") ?>
 </head>
 

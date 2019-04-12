@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Cover Photo</title>
+<title>Default Cover Photo</title>
 <?php include("head.php") ?>
 </head>
 
@@ -14,14 +14,13 @@
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a href="AccountHolderName.php"><span class="fa-li"><img src="images/icon5.png"></span> Account Name</a></li>
-                                <li><a href="DisplayPicture(dp).php"><span class="fa-li"><img src="images/icon1.png"></span> Display Picture (dp)</a></li>
-                                <li><a class="active" href="CoverPhoto(cp).php"><span class="fa-li"><img src="images/icon2.png"></span>Cover Photo (cp)</a></li>
-                                <li><a href="NoticeBoard.php"><span class="fa-li"><img src="images/icon3.png"></span> Notice Board</a></li>
-                                <li><a href="SchoolNam &Abbreviation.php"><span class="fa-li"><img src="images/icon26.png"></span> School Introduction</a></li>
-                                <!--<li><a href="#"><span class="fa-li"><img src="images/icon5.png"></span> School Introduction</a></li>-->
-                                <li><a href="#"><span class="fa-li"><img src="images/icon6.png"></span>Slide Bar (1)</a></li>
-                                <li><a href="#"><span class="fa-li"><img src="images/icon7.png"></span> slide Bar (2)</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-user-edit"></i></span>Account Name</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-portrait"></i></span>Display Picture (dp)</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-image"></i></span>Cover Photo (cp)</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-newspaper"></i></span>Notice Board</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-pen-square"></i></span>School Introduction</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-images"></i></span>Slide Bar (1)</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="far fa-images"></i></span>Slide Bar (2)</a></li>
                           </ul>
                           </div>
   </div>
