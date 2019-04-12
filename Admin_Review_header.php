@@ -68,8 +68,6 @@
     <ul class="sub-menu">
         <li><a href=""><i class="fab fa-sellsy"></i>R-Content</a></li>
         <li><a href=""><i class="fas fa-users-cog"></i>R-Profile</a></li>
-        <li><a href="d-charges.php"><i class="fas fa-school"></i>R-Ranking</a></li>
-        <li><a href="P-charges.php"><i class="fas fa-print"></i>R-Documents</a></li>
       </ul>
   </div>
 </header>
