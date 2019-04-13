@@ -14,7 +14,8 @@
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-user-edit"></i></span>Respective Content</a></li>
+          <li><a href="#"><span class="fa-li"><img src="images/icon33.png"/></span>India</a></li>
+          <li><a href="#"><span class="fa-li"><img src="images/icon32.png"/></span>Pakistan</a></li>
                           </ul>
                           </div>
   </div>
