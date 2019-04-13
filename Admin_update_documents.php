@@ -22,16 +22,12 @@
     <input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-microphone"></i></span>New Account Signup</a></li>
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Countries</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-map-marked-alt"></i></span>States</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-search-location"></i></span>Postal Address</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-subway" ></i></span>Subway Address</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-microphone-alt"></i></span>Mother Tongue</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-compass"></i></span>Study Field</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-layer-group"></i></span>Study level</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Programs</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-book"></i></span>Subjects</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Business card</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-microphone"></i></span>Letterhead</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-map-marked-alt"></i></span>Business visa template</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-search-location"></i></span>work visa template</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-subway" ></i></span>Pre-Admission Notice</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-microphone-alt"></i></span>Invitation letter</a></li>
       </ul>
     </div>
   </div>
@@ -40,7 +36,7 @@
   <div class="content-data">
   <div class="content-in">
     <div class="content-fix-head">
-       <h1>New Account Sign-up</h1>
+       <h1>Business card</h1>
        <div class="filter-form">
          
        </div>   
@@ -48,7 +44,7 @@
     </div>
     <div class="main-content">
       <div class="acc-set-tog">
-        <h4>This Action Will be applicable to all Accounts</h4>
+        <h4>Respective Conent</h4>
         <div class="set-sectn">
           <div class="set-sctn-row">
             <div class="set-scn-lbl">Restrict</div>
