@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<?php include("Admin_Review_header.php"); ?>
+<?php include("Admin_Update_header.php"); ?>
 <main>
 <section class="side-bar">
   <div class="side-bar-content">
