@@ -39,9 +39,6 @@
        <h1>Business card</h1>
        <div class="filter-form">
 
-       </div> 
-          <div class="set-sctn-row-cntr">Verify Identity <a href="#">Edit</a></div>
-        </div>
       </div>
     </div>
   </div>
