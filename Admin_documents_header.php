@@ -39,7 +39,7 @@
             <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fa fa-print"></i>Documents</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>Booking</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>Finance </a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-atom"></i>D-Values</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-atom"></i>Update</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-home"></i>Home</a>
             <span id="pnIndicator" class="nn-MenuNav_Indicator"></span> </div>
         </nav>
@@ -66,10 +66,10 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fas fa-users-cog"></i>V-Profile</a></li>
-        <li><a href=""><i class="fas fa-rss"></i>V-Content</a></li>
-        <li><a href="d-charges.php"><i class="fas fa-school"></i>V-Ranking</a></li>
-        <li><a href="P-charges.php"><i class="fas fa-print"></i>V-Documents</a></li>
+        <li><a href=""><i class="fas fa-users-cog"></i>Profile</a></li>
+        <li><a href=""><i class="fas fa-rss"></i>Content</a></li>
+        <li><a href="d-charges.php"><i class="fas fa-school"></i>Ranking</a></li>
+        <li><a href="P-charges.php"><i class="fas fa-print"></i>Documents</a></li>
       </ul>
   </div>
 </header>

@@ -39,7 +39,7 @@
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-print"></i>Documents</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>Booking</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>Finance </a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-atom"></i>D-Values</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-atom"></i>Update</a>
             <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fa fa-home"></i>Home</a>
             <span id="pnIndicator" class="nn-MenuNav_Indicator"></span> </div>
         </nav>
@@ -66,7 +66,7 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fa fa-briefcase" ></i>Summary</a></li>
+        <li><a href=""><i class="fa fa-briefcase" ></i>Basic Data</a></li>
       </ul>
   </div>
 </header>
