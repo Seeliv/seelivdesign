@@ -29,7 +29,6 @@
     <input type="text" placeholder="Search here"></div>
     <div class="sidebar-list restct-cmd-list">
       <ul class="lk-mn-list">
-
         <li><a href="#"><div class="icon-r"><img src="images/icon40.png" /></div><strong>New Account Sign-up</strong></a></li>
         <li><a href="#"><div class="icon-r"><img src="images/icon41.png" /></div><strong>Existing Account login</strong></a></li>
         <li><a href="#"><div class="icon-r"><img src="images/icon44.png" /></div><strong>Changing Coordinator</strong></a></li>

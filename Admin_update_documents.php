@@ -22,12 +22,7 @@
     <input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Business card</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-microphone"></i></span>Letterhead</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-map-marked-alt"></i></span>Business visa template</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-search-location"></i></span>work visa template</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-subway" ></i></span>Pre-Admission Notice</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-microphone-alt"></i></span>Invitation letter</a></li>
+                         <li><a href="#"><div class="icon-r"><img src="images/icon40.png" /></div><strong>Business Card</strong></a></li>
       </ul>
     </div>
   </div>
