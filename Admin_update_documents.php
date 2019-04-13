@@ -38,56 +38,8 @@
     <div class="content-fix-head">
        <h1>Business card</h1>
        <div class="filter-form">
-         
-       </div>   
-       
-    </div>
-    <div class="main-content">
-      <div class="acc-set-tog">
-        <h4>Respective Conent</h4>
-        <div class="set-sectn">
-          <div class="set-sctn-row">
-            <div class="set-scn-lbl">Restrict</div>
-            <div class="set-action">
-                  <div class="sidebtn ">
-                    <ul>
-                    <li> <a href="">
-                        <label class="switch">
-                          <input type="checkbox">
-                          <span class="slider round"></span> </label>
-                        </a> </li>
-                    </ul>
-                  </div> 
-                  </div>
-          </div>
-          <div class="set-sctn-row">
-            <div class="set-scn-lbl">Single Action Required</div>
-            <div class="set-action">
-                  <div class="sidebtn ">
-                    <ul>
-                    <li> <a href="">
-                        <label class="switch">
-                          <input type="checkbox">
-                          <span class="slider round"></span> </label>
-                        </a> </li>
-                    </ul>
-                  </div> 
-                  </div>
-          </div>
-          <div class="set-sctn-row">
-            <div class="set-scn-lbl">Multiple Action Required</div>
-            <div class="set-action">
-                  <div class="sidebtn ">
-                    <ul>
-                    <li> <a href="">
-                        <label class="switch">
-                          <input type="checkbox">
-                          <span class="slider round"></span> </label>
-                        </a> </li>
-                    </ul>
-                  </div> 
-                  </div>
-          </div>
+
+       </div> 
           <div class="set-sctn-row-cntr">Verify Identity <a href="#">Edit</a></div>
         </div>
       </div>
