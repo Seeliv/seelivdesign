@@ -18,11 +18,10 @@
              <li><button class="sort-button">Generate documents</button></li>
            </ul>
          </div>
-   
     <input type="text" placeholder="Search here"></div>
-    <div class="sidebar-list">
-    <ul class="fa-ul">
-                         <li><a href="#"><div class="icon-r"><img src="images/icon40.png" /></div><strong>Business Card</strong></a></li>
+    <div class="sidebar-list restct-cmd-list">
+      <ul class="lk-mn-list">
+        <li><a href="#"><div class="icon-r"><img src="images/icon40.png" /></div><strong>Business Card</strong></a></li>
       </ul>
     </div>
   </div>
