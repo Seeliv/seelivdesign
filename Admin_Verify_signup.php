@@ -14,8 +14,8 @@
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-school"></i></span>Kindergarten</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-school"></i></i></span>Training Center</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Kindergarten</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Training Center</a></li>
                           </ul>
                           </div>
   </div>
@@ -51,7 +51,6 @@
              <li>
                <button class="mob-fil-sh filt-click" id="filter-open"><i class="fa fa-search"></i></button>
              </li>
-             
              <li>
                <button class="mob-fil-sh filt-click" id="fill-optn"><i class="fa fa-filter"></i></button>
                <div class="filter-bt-bl"></div>
