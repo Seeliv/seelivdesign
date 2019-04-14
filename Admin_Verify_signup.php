@@ -64,6 +64,7 @@
              </li>
            </ul>
          </div>
+         <div class="sort-option">
              <li><button class="sort-button active">All</button></li>
              <li><button class="sort-button">Review In Pending</button></li>
              <li><button class="sort-button">Review Completed</button></li>
