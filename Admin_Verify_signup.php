@@ -9,15 +9,13 @@
 <body>
 <?php include("Admin_Verify_header.php"); ?>
 <main>
-  <section class="side-bar">
-    <div class="side-bar-content">
-      <div class="search-list-item">
-        <input type="text" placeholder="Search here">
-      </div>
-      <div class="sidebar-list">
-        <ul class="fa-ul">
-          <li><a href="#"><span class="fa-li"><img src="images/icon33.png"/></span>India</a></li>
-          <li><a href="#"><span class="fa-li"><img src="images/icon32.png"/></span>Pakistan</a></li>
+<section class="side-bar">
+  <div class="side-bar-content">
+    <div class="search-list-item"><input type="text" placeholder="Search here"></div>
+    <div class="sidebar-list">
+    <ul class="fa-ul">
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-user-edit"></i></span>Kindergarten</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-portrait"></i></span>Training Center</a></li>
                           </ul>
                           </div>
   </div>
@@ -26,14 +24,14 @@
   <div class="content-data">
   <div class="content-in">
     <div class="content-fix-head">
-       <h1>India</h1>
+       <h1>Kindergarten</h1>
        <div class="filter-form">
          <div class="form-fl form-3"><!--
            <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>State Search</p></div>-->
            <div class="t-b-one"><input type="text" placeholder=“Account id" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one">
              <select>
-             <option>All School Level</option>
+             <option>All Country</option>
              <option>----</option>
              <option>----</option>
              </select>
