@@ -65,7 +65,7 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fab fa-sellsy"></i>Content</a></li>
+        <li><a href=""><i class="fa fa-jsfiddle" aria-hidden="true"></i>Content</a></li>
         <li><a href=""><i class="fas fa-users-cog"></i>Profile</a></li>
         <li><a href="d-charges.php"><i class="fa fa-comment-dollar"></i>D-charges</a></li>
         <li><a href="P-charges.php"><i class="fa fa-search-dollar"></i>P-charges</a></li>
