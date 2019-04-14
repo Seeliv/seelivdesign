@@ -52,10 +52,14 @@
                <button class="mob-fil-sh filt-click" id="filter-open"><i class="fa fa-search"></i></button>
              </li>
              <li>
+               <button class="mob-fil-sh filt-click" id="fill-optn"><i class="fa fa-filter"></i></button>
+               <div class="filter-bt-bl"></div>
+             </li>
+             <li>
                <button class="mob-fil-sh filt-click" id="fill-sort"><i class="fas fa-random"></i></button>
              </li>
              <li>
-               <button class="mob-fil-sh filt-click" id="form-opt-open" ><i class="fa fa-cog"></i></button>
+               <button class="mob-fil-sh filt-click" id="form-opt-open" ><i class="fas fa-tools"></i></button>
              </li>
            </ul>
          </div>
