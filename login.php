@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Account login</title>
+<title>Untitled Document</title>
 <?php include("head.php") ?>
 </head>
 
@@ -14,7 +14,7 @@
       </div>
 </div>
 <div class="top-log">
-  <div class="lang"><a href="#">English</a><a href="#">中文</a></div>
+  <div class="lang"><a href="#">English</a><a href="#">中文</a> </div>
   <div class="log-pg-hds">Account login</div>
   <div class="log-pg-optn"><a href="#"><i class="fa fa-question"></i><strong>Support</strong></a></div>
 </div>
@@ -25,11 +25,11 @@
       <div class="for-logo"><img src="" /></div>
       <div class="otr-log-otn">
       <div class="social-links active">
-        <a href="#" class="qrLog qr-show"><i class="fa fa-qrcode"></i>Login With QR Code</a>
-        <a href="#" class="wChat qr-show"><i class="fab fa-wechat"></i>Login With Linked Wechat</a>
         <a href="#" class="gPlus"><i class="fab fa-google"></i>Login With Linked Google</a>
         <a href="#" class="fBook"><i class="fab fa-facebook-f"></i>Login With Linked Facebook</a>
+        <a href="#" class="wChat qr-show"><i class="fab fa-wechat"></i>Login With Linked Wechat</a>
         <a href="#" class="lIn"><i class="fab fa-twitter"></i>Login With Linked Twitter</a>
+        <a href="#" class="qrLog qr-show"><i class="fa fa-qrcode"></i>Login With QR Code</a>
       </div>
       </div>
     </div>

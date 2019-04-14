@@ -30,17 +30,20 @@
       <div class="nn-MenuNav_Wrapper">
         <nav id="pnProductNav" class="nn-MenuNav">
           <div id="pnProductNavContents" class="nn-MenuNav_Contents"> 
-           <a href="#" class="nn-MenuNav_Link"><i class="fa fa-users"></i>Users</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-envelope-open"></i>Email</a>
-            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fa fa-handshake-o" aria-hidden="true"></i>Verify</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-globe"></i>Review</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-eye"></i>Monitor</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-bug"></i>Issues</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-print"></i>Documents</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>Booking</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>Finance </a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-atom"></i>D-Values</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-search"></i>Searach</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-users"></i>Users</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-envelope-open"></i>email</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-handshake-o" aria-hidden="true"></i>Verify</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-allergies"></i>Review</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-desktop"></i>Monitor</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-sun-o" aria-hidden="true"></i>Complaints</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-book" aria-hidden="true"></i>issues</a><!--
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-check-square" aria-hidden="true"></i>permission</a>-->
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-file" aria-hidden="true"></i>document</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>booking</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>finance </a><!--
+            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-money-bill-alt"></i>tax </a>-->
+            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fas fa-exchange-alt"></i>update </a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-search"></i>Serach</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-home"></i>Home</a>
             <span id="pnIndicator" class="nn-MenuNav_Indicator"></span> </div>
         </nav>
@@ -67,10 +70,12 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fas fa-users-cog"></i>V-Profile</a></li>
-        <li><a href=""><i class="fas fa-rss"></i>V-Content</a></li>
-        <li><a href="d-charges.php"><i class="fas fa-school"></i>V-Ranking</a></li>
-        <li><a href="P-charges.php"><i class="fas fa-print"></i>V-Documents</a></li>
+        <li><a href=""><i class="fa fa-inbox" ></i>Inbox</a></li>
+        <li><a href=""><i class="fas fa-envelope"></i> Sent</a></li>
+        <li><a href=""><i class="fa fa-drafting-compass" ></i>Draft</a></li>
+        <li><a href=""> <i class="fa fa-recycle" ></i>Junk</a></li>
+        <li><a href=""> <i class="fa fa-trash" ></i>Delete</a></li>
       </ul>
+      <a class="compose-link" href="Compose-email.php">Compose</a>
   </div>
 </header>
