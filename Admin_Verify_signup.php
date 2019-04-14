@@ -28,7 +28,7 @@
        <div class="filter-form">
          <div class="form-fl form-3"><!--
            <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>State Search</p></div>-->
-           <div class="t-b-one"><input type="text" placeholder=“Account id" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one"><input type="text" placeholder="Account id" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one">
              <select>
              <option>All Country</option>
