@@ -26,15 +26,10 @@
     <div class="content-fix-head">
        <h1>Kindergarten</h1>
        <div class="filter-form">
-           <div class="t-b-one"><input type="text" placeholder="Account id" ><button type="submit"><i class="fa fa-search"></i></button></div>
-           <div class="o-b-one">
-             <select>
-             <option>All Country</option>
-             <option>----</option>
-             <option>----</option>
-             </select>
-           </div>
-           <div class="t-b-one"><input type="text" placeholder="Enter Account Name" ><button type="submit"><i class="fa fa-search"></i></button></div>
+         <div class="form-fl form-4" ><!--
+           <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Subway Address Search</p></div>-->
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="subject id" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Enter subject name " ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
          <div class="form-usr-option">
            <a href="#" class="add-opn">Add As New</a>
@@ -49,15 +44,16 @@
              <li>
                <button class="mob-fil-sh filt-click" id="filter-open"><i class="fa fa-search"></i></button>
              </li>
+             
              <li>
                <button class="mob-fil-sh filt-click" id="fill-optn"><i class="fa fa-filter"></i></button>
                <div class="filter-bt-bl"></div>
              </li>
              <li>
-               <button class="mob-fil-sh filt-click" id="fill-sort"><i class="fas fa-random"></i></button>
+               <button class="mob-fil-sh filt-click" id="fill-sort"><i class="fa fa-sort"></i></button>
              </li>
              <li>
-               <button class="mob-fil-sh filt-click" id="form-opt-open" ><i class="fas fa-tools"></i></button>
+               <button class="mob-fil-sh filt-click" id="form-opt-open" ><i class="fa fa-cog"></i></button>
              </li>
            </ul>
          </div>
