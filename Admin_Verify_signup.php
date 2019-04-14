@@ -14,8 +14,8 @@
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-user-edit"></i></span>Kindergarten</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-portrait"></i></span>Training Center</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-school"></i></span>Kindergarten</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-school"></i></i></span>Training Center</a></li>
                           </ul>
                           </div>
   </div>
@@ -64,9 +64,6 @@
              </li>
            </ul>
          </div>
-         <div class="sort-option">
-           <button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>
-           <ul>
              <li><button class="sort-button active">All</button></li>
              <li><button class="sort-button">Review In Pending</button></li>
              <li><button class="sort-button">Review Completed</button></li>
