@@ -14,8 +14,8 @@
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-school"></i></span>Kindergarten</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-school"></i></i></span>Training Center</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Kindergarten</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-building"></i></span>Training Center</a></li>
                           </ul>
                           </div>
   </div>
