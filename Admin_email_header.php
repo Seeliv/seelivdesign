@@ -31,10 +31,10 @@
         <nav id="pnProductNav" class="nn-MenuNav">
           <div id="pnProductNavContents" class="nn-MenuNav_Contents"> 
            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-search"></i>Search</a>
-            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fa fa-handshake-o" aria-hidden="true"></i>Verify</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-handshake-o" aria-hidden="true"></i>Verify</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-globe"></i>Review</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-eye"></i>Monitor</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-envelope-open"></i>Email</a>
+            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fa fa-envelope-open"></i>Email</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fas fa-question-circle"></i>Support</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>Booking</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>Finance </a>
@@ -65,11 +65,12 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fas fa-user-plus"></i>Signup</a></li>
-        <li><a href=""><i class="fab fa-sellsy"></i>Content</a></li>
-        <li><a href=""><i class="fas fa-users-cog"></i>Profile</a></li>
-        <li><a href="d-charges.php"><i class="fas fa-school"></i>Ranking</a></li>
-        <li><a href="P-charges.php"><i class="fas fa-print"></i>Documents</a></li>
+        <li><a href=""><i class="fa fa-envelope"></i>Inbox</a></li>
+        <li><a href=""><i class="fa fa-envelope-open-text"></i>Sent</a></li>
+        <li><a href=""><i class="fa fa-drafting-compass" ></i>Draft</a></li>
+        <li><a href=""> <i class="fa fa-recycle" ></i>Junk</a></li>
+        <li><a href=""> <i class="fa fa-trash" ></i>Delete</a></li>
       </ul>
+      <a class="compose-link" href="Compose-email.php">Compose</a>
   </div>
 </header>
