@@ -97,9 +97,10 @@
          <div class="sort-option">
            <button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>
            <ul>
-             <li><button class="sort-button active">All</button></li>
-             <li><button class="sort-button">Review In Pending</button></li>
+             <li><button class="sort-button active">Review In Pending</button></li>
              <li><button class="sort-button">Review Completed</button></li>
+             <li><button class="sort-button">Overall Requests</button></li>
+
            </ul>
          </div>
          <div class="table-pagging">
@@ -139,7 +140,7 @@
                                                     <li><img src="images/icon20.png"><span>23 March 2018 10:10:20</span></li>
                                                      <li><img src="images/icon30.png"><span>in Pending</span> </li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
-                                                       <li><img src="images/icon22.png"><span>36363636</span></li>
+                                                       <li><img src="images/icon22.png"><span>3636363642323423</span></li>
                                              </ul>
                                              
           
