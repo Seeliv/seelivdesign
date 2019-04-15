@@ -66,11 +66,10 @@
            <input type="text" class="select-date datepicker-here" placeholder="Enter Date" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="t-b-one">
            <div class="for-lbl">
-             <!--<label><input type="radio" name="lbl-id-for" />All</label>
-             <label><input type="radio" name="lbl-id-for" />Acc-ID</label>
-             <label><input type="radio" name="lbl-id-for" />AP-ID</label>
+             <label><input type="radio" name="lbl-id-for" />All</label>
+             <label><input type="radio" name="lbl-id-for" />Ac,Ap-ID</label>
              <label><input type="radio" name="lbl-id-for" />Email</label>
-             <label><input type="radio" name="lbl-id-for" />Phone</label>-->
+             <label><input type="radio" name="lbl-id-for" />Phone</label>
            </div>
            <input type="text" placeholder="Search here" ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
