@@ -68,8 +68,7 @@
            <div class="t-b-one">
            <div class="for-lbl for-lbl-4">
              <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>All</label>
-             <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>Acc-ID</label>
-             <!--<label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>AP-ID</label>-->
+             <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>Ac,Ap-ID</label>
              <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>Email</label>
              <label><input type="radio" name="lbl-id-for" id="srch-tog-0" /><i class="roll-chk-show"></i>Phone</label>
            </div>
@@ -101,7 +100,7 @@
          <div class="sort-option">
            <button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>
            <ul>
-             <li><button class="sort-button">Review In Pending</button></li>
+             <li><button class="sort-button active">Review In Pending</button></li>
              <li><button class="sort-button">Review Completed</button></li>
              <li><button class="sort-button">Overall Requests</button></li>
            </ul>
@@ -137,14 +136,14 @@
            <div class="row-list">
            <ul>
                                 
-                                                   <li><img src="images/icon19.png"><span>Punjab, India </span></li>
-                                                   <li><img src="images/icon17.png"><span>Geo Stamp  </span></li>
-                                                   <li><img src="images/icon29.png"><span>Last Login Location </span></li>
-                                                    <li><img src="images/icon20.png"><span>23 March 2018 10:10:20</span></li>
-                                                     <li><img src="images/icon30.png"><span>in Pending</span> </li>
+                                                   <li><img src="images/icon19.png"><span>Punjab, India</span></li>
+                                                   <li><img src="images/Geostamp.png"><span>Geo Stamp</span></li>
+                                                   <li><img src="images/icon65.png"><span>Last Login Location</span></li>
+                                                    <li><img src="images/calendar.png"><span>23 March 2018  10:10:20</span></li>
+                                                     <li><img src="images/Verify.png"><span>Verification in Pending</span> </li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
-                                                       <li><img src="images/icon22.png"><span>36363636</span></li>
-                                                    <li><img src="images/icon20.png"><span>24 March 2018 10:10:20</span></li>
+                                                       <li><img src="images/icon22.png"><span>36363636763746</span></li>
+                                                    <li><img src="images/icon53.png"><span>24 March 2018 10:10:20</span></li>
                                              </ul>
                                              
           
