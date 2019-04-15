@@ -139,7 +139,7 @@
                                                    <li><img src="images/icon19.png"><span>Punjab, India</span></li>
                                                    <li><img src="images/Geostamp.png"><span>Geo Stamp</span></li>
                                                    <li><img src="images/icon65.png"><span>Last Login Location</span></li>
-                                                    <li><img src="images/calendar.png"><span>23 March 2018  10:10:20</span></li>
+                                                    <li><img src="images/calendar2.png"><span>23 March 2018  10:10:20</span></li>
                                                      <li><img src="images/Verify.png"><span>Verification in Pending</span> </li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>36363636763746</span></li>
