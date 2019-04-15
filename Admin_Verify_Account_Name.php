@@ -60,7 +60,7 @@
              </select>
            </div>
            <div class="t-b-one">
-           <div class="for-lbl"><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Requested On</label><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Varified On</label></div>
+           <div class="for-lbl"><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>All</label><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Requested On</label><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Varified On</label></div>
            <input type="text" data-range="true" data-multiple-dates-separator=" - " placeholder="Select Date Range" class="from-date datepicker-here" data-language='en' ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="t-b-one">
            <div class="for-lbl"><label><input type="radio" name="lbl-sel-for" /><i class="roll-chk-show"></i>Requested On</label><label><input type="radio" name="lbl-sel-for" /><i class="roll-chk-show"></i>Varified On</label></div>
