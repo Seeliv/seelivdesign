@@ -141,9 +141,9 @@
                                                    <li><img src="images/lastlogin.png"><span>Last Login Location</span></li>
                                                     <li><img src="images/calendar2.png"><span>23 March 2018  10:10:20</span></li>
                                                      <li><img src="images/Verify.png"><span>Verification in Pending</span> </li>
+                                                    <li><img src="images/icon53.png"><span>24 March 2018 10:10:20</span></li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>36363636763746</span></li>
-                                                    <li><img src="images/icon53.png"><span>24 March 2018 10:10:20</span></li>
                                              </ul>
                                              
           
