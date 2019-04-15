@@ -66,7 +66,8 @@
   <div class="header-bottom">
     <ul class="sub-menu">
         <li><a href=""><i class="fa fa-question-circle"></i>G-inquiry</a></li>
-        <li><a href=""><i class="fa fa-user-shield"></i>Signup/Login</a></li>
+        <li><a href=""><i class="fas fa-thumbs-up"></i>Suggestion</a></li>
+        <li><a href=""><i class="fa fa-user-shield"></i>Login-Signup</a></li>
         <li><a href=""><i class="fa fa-user-secret"></i>Reported User</a></li>
       </ul>
   </div>

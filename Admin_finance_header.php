@@ -68,7 +68,7 @@
         <li><a href=""><i class="fas fa-history"></i>Transaction History</a></li>
         <li><a href=""><i class="fas fa-chevron-circle-left"></i>Refund Applied</a></li>
         <li><a href=""><i class="fas fa-house-damage"></i>Reported Transaction</a></li>
-        <li><a href=""><i class="fas fa-money-check-alt"></i>Income</a></li>
+        <li><a href=""><i class="fas fa-money-check-alt"></i>Company Income</a></li>
       </ul>
   </div>
 </header>

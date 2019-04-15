@@ -66,9 +66,9 @@
   <div class="header-bottom">
     <ul class="sub-menu">
         <li><a href=""><i class="fas fa-user-plus"></i>Signup</a></li>
+        <li><a href="d-charges.php"><i class="fas fa-school"></i>Ranking</a></li>
         <li><a href=""><i class="fab fa-sellsy"></i>Content</a></li>
         <li><a href=""><i class="fas fa-users-cog"></i>Profile</a></li>
-        <li><a href="d-charges.php"><i class="fas fa-school"></i>Ranking</a></li>
         <li><a href="P-charges.php"><i class="fas fa-print"></i>Documents</a></li>
       </ul>
   </div>
