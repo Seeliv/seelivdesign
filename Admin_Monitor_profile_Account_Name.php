@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Monitor Account Name,</title>
+<title>Monitor Account Name</title>
 <?php include("head.php") ?>
 </head>
 
@@ -33,8 +33,7 @@
     <div class="content-fix-head">
        <h1>Account Name</h1>
        <div class="filter-form">
-         <div class="form-fl form-3"><!--
-           <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>State Search</p></div>-->
+         <div class="form-fl form-3">
            <div class="t-b-one"><input type="text" placeholder="State id" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one">
              <select>
@@ -60,7 +59,7 @@
              </li>
              
              <li>
-              <!—-<button class="mob-fil-sh filt-click" id="fill-optn"><i class="fa fa-filter"></i></button>
+              <!--<button class="mob-fil-sh filt-click" id="fill-optn"><i class="fa fa-filter"></i></button>
                <div class="filter-bt-bl"></div>—->
              </li>
              <li>
@@ -72,7 +71,7 @@
            </ul>
          </div>
          <div class="sort-option">
-           <!—-<button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>—->
+           <!--<button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>-->
            <ul>
              <li><button class="sort-button active">All</button></li>
              <li><button class="sort-button">Review In Pending</button></li>
