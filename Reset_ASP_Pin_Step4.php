@@ -20,7 +20,7 @@
   <input type="text" placeholder="Retype 4 digit New ASP PIN" />
   </div>
   <div class="form-field">
-    <input type="button" value="Update ASP PIN" class="roll-btn full-btn" />
+    <button type="submit" class="roll-btn full-btn" >Update ASP PIN</button>
   </div>
   <p><a href="#" >Return To Login</a></p>
 </div>

@@ -1,7 +1,20 @@
 $(document).ready(function(){
 	//$("body").fadeIn(400);
 	setTop();
-	setChatCntht()
+	setChatCntht();
+	$(".for-lbl > label").click(function(){
+		if($("#srch-tog-0").is(":checked")){
+			$("#srch-tog-2").show();
+			$("#srch-tog-1").hide();
+			}
+		else if($("#srch-tog-0").is(":not(:checked)")){
+			$("#srch-tog-1").show();
+			$("#srch-tog-2").hide();
+			}
+		});
+	$("#srch-tog-0").change(function(){
+		$("#srch-tog-1,#srch-tog-2").toggle();
+		});
 	$("button#mob-menu-tog").on("click",function(){
 		$(".sidebar_one").toggleClass("open");
 		});

@@ -41,7 +41,8 @@
                             Auto Approve</label>
        </div>
        <div class="filter-form">
-         <div class="form-fl form-fl-full form-5">
+         <div class="form-fl form-fl-full form-5"><!--
+           <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>State Search</p></div>-->
            <div class="o-b-one">
              <div class="for-lbl">Location</div>
              <select>
@@ -59,19 +60,22 @@
              </select>
            </div>
            <div class="t-b-one">
-           <div class="for-lbl"><label><input type="radio" name="lbl-dte-for" />Updated On</label><label><input type="radio" name="lbl-dte-for" />Varified On</label></div>
+           <div class="for-lbl"><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Updated On</label><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Varified On</label></div>
            <input type="text" data-range="true" data-multiple-dates-separator=" - " placeholder="Select Date Range" class="from-date datepicker-here" data-language='en' ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="t-b-one">
-           <div class="for-lbl"><label><input type="radio" name="lbl-sel-for" />Updated On</label><label><input type="radio" name="lbl-sel-for" />Varified On</label></div>
+           <div class="for-lbl"><label><input type="radio" name="lbl-sel-for" /><i class="roll-chk-show"></i>Updated On</label><label><input type="radio" name="lbl-sel-for" /><i class="roll-chk-show"></i>Varified On</label></div>
            <input type="text" class="select-date datepicker-here" placeholder="Enter Date" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="t-b-one">
-           <div class="for-lbl">
-             <label><input type="radio" name="lbl-id-for" />All</label>
-             <label><input type="radio" name="lbl-id-for" />Ac,Ap-ID</label>
-             <label><input type="radio" name="lbl-id-for" />Email</label>
-             <label><input type="radio" name="lbl-id-for" />Phone</label>
+           <div class="for-lbl for-lbl-4">
+             <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>All</label>
+             <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>Acc-ID</label>
+             <!--<label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>AP-ID</label>-->
+             <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>Email</label>
+             <label><input type="radio" name="lbl-id-for" id="srch-tog-0" /><i class="roll-chk-show"></i>Phone</label>
            </div>
-           <input type="text" placeholder="Search here" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <input type="text" placeholder="Search here" id="srch-tog-1" >
+           <input type="text" placeholder="+86" id="srch-tog-2" >
+           <button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
        </div>   
        <div class="table-options opt-wth-chks">
@@ -97,10 +101,9 @@
          <div class="sort-option">
            <button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>
            <ul>
-             <li><button class="sort-button active">Review In Pending</button></li>
+             <li><button class="sort-button active">All</button></li>
+             <li><button class="sort-button">Review In Pending</button></li>
              <li><button class="sort-button">Review Completed</button></li>
-             <li><button class="sort-button">Overall Requests</button></li>
-
            </ul>
          </div>
          <div class="table-pagging">
@@ -140,7 +143,8 @@
                                                     <li><img src="images/icon20.png"><span>23 March 2018 10:10:20</span></li>
                                                      <li><img src="images/icon30.png"><span>in Pending</span> </li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
-                                                       <li><img src="images/icon22.png"><span>3636363642323423</span></li>
+                                                       <li><img src="images/icon22.png"><span>36363636</span></li>
+                                                    <li><img src="images/icon20.png"><span>24 March 2018 10:10:20</span></li>
                                              </ul>
                                              
           

@@ -57,7 +57,7 @@
       <a href="#" class="fl-r-lnk">Forget Password</a>
     </div>
     <div class="log-btn">
-      <input type="submit" class="btn" value="Login" />
+      <button type="submit" class="btn" >Login</button>
     </div>
     <p>
       Don't have an account? <a href="#">Create account</a>

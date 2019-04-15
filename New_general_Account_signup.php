@@ -15,13 +15,13 @@
 <div class="general-form">
   <div class="form-field">
     <div class="cnt-sort field-75"><input type="text" /><div class="cnt-optn"></div></div>
-    <input type="button" class="roll-btn field-25" value="SEND OTP" />
+    <button type="submit" class="roll-btn field-25" >SEND OTP</button>
   </div>
   <div class="form-field">
   <input type="text" placeholder="Enter OTP received on Phone" />
   </div>
   <div class="form-field">
-    <input type="button" value="Next" class="roll-btn full-btn" />
+    <button type="submit" class="roll-btn full-btn" >Next</button>
   </div>
   <p>Already have an account? <a href="#" >Login</a></p>
 </div>

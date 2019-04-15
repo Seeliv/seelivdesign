@@ -25,7 +25,7 @@
 <a href="#">Forget ASP Pin</a>
   </p>
   <div class="form-field">
-    <input type="button" value="Next" class="roll-btn full-btn" />
+    <button type="submit" class="roll-btn full-btn" >Next</button>
   </div>
   <p><a href="#" >Return To Login</a></p>
 </div>

@@ -24,7 +24,7 @@
   <a href="#" class="send-log-mod">Reset Via Email / IDs</a>
   </p>
   <div class="form-field">
-    <input type="button" value="Next" class="roll-btn full-btn" />
+    <button type="submit" class="roll-btn full-btn" >Next</button>
   </div>
   <p><a href="#" >Return To Login</a></p>
 </div>

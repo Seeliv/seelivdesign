@@ -21,7 +21,7 @@
   <input type="text" placeholder="Retype New Password" />
   </div>
   <div class="form-field">
-    <input type="button" value="Update Password" class="roll-btn full-btn" />
+    <button type="submit" class="roll-btn full-btn" >Update Password</button>
   </div>
   <p><a href="#" >Return To Login</a></p>
 </div>
