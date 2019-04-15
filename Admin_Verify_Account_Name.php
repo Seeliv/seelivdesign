@@ -128,7 +128,7 @@
            <div class="usr-img-unvr">
              <img src="images/22.png" />
            </div>
-           <div>Unverified User<br/><span class="unv-usrNm"><img src="images/New.png">Kamran Ali</span></div>
+           <div>Unverified User<br/><span class="unv-usrNm"><img src="images/Plus.png">Kamran Ali</span></div>
            <div><a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a></div>
           </div>
           </div>
@@ -136,7 +136,7 @@
            <div class="row-list">
            <ul>
                                 
-                                                   <li><img src="images/icon19.png"><span>Punjab, India</span></li>
+                                                   <li><img src="images/flag1.png"><span>Punjab, India</span></li>
                                                    <li><img src="images/Geostamp.png"><span>Geo Stamp</span></li>
                                                    <li><img src="images/icon65.png"><span>Last Login Location</span></li>
                                                     <li><img src="images/calendar2.png"><span>23 March 2018  10:10:20</span></li>
