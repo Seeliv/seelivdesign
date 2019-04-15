@@ -67,9 +67,7 @@
     <ul class="sub-menu">
         <li><a href=""><i class="fa fa-question-circle"></i>G-inquiry</a></li>
         <li><a href=""><i class="fa fa-user-shield"></i>Signup/Login</a></li>
-        <li><a href=""><i class="fa fa-wallet"></i>Transaction</a></li>
         <li><a href=""><i class="fa fa-user-secret"></i>Reported User</a></li>
-        <li><a href=""><i class="fa fa-adjust"></i>Contract</a></li>
       </ul>
   </div>
 </header>
