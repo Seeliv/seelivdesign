@@ -14,8 +14,23 @@
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-users"></i></span>General Account</a></li>
                                 <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Kindergarten</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Training Center</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Primary school</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Middle School</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Secondary school</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Junior Secondary School</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Senior Secondary School</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Vocational School</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Post-secondary school</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>High school</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Junior high school</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Senior high school</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>College</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Tertiary School</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>University</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-landmark"></i></span>Higher Authority</a></li>
                           </ul>
                           </div>
   </div>
