@@ -141,7 +141,6 @@
                                                      <li><img src="images/icon30.png"><span>in Pending</span> </li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>36363636</span></li>
-                                                    <li><img src="images/icon20.png"><span>24 March 2018 10:10:20</span></li>
                                              </ul>
                                              
           

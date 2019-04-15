@@ -72,7 +72,7 @@
         <li><a href=""><i class="fas fa-business-time"></i>Jobs</a></li>
         <li><a href=""><i class="fas fa-graduation-cap"></i>Scholarships</a></li>
         <li><a href=""><i class="fas fa-book"></i>Programs</a></li>
-        <li><a href=""><i class="fas fa-school"></i>School</a></li>
+        <li><a href=""><i class="fas fa-school"></i>Schools</a></li>
       </ul>
   </div>
 </header>
