@@ -36,7 +36,6 @@
        <h1>Countries</h1>
        <div class="filter-form">
          <div class="form-fl form-3">
-           <!--<div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Country Search</p></div>-->
            <div class="t-b-one"><input type="text" placeholder="Country id" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one">
              <select id="accent-sel">

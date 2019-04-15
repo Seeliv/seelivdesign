@@ -35,9 +35,7 @@
        <a class="orde-rev-bt">Order Review</a>
        <h1>Postal Address</h1>
        <div class="filter-form">
-         <!--<div class="mob-filt-btn"><button id="filter-open"><i class="fa fa-search"></i></button></div>-->
-         <div class="form-fl form-4"><!--
-           <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Postal Address Search</p></div>-->
+         <div class="form-fl form-4">
            <div class="t-b-one"><input type="text" placeholder="Postal id" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one">
              <select>
