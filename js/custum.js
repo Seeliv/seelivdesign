@@ -79,6 +79,7 @@ $(document).ready(function(){
 			$(this).children("span").text("Show more")
 			}
 		$(this).parents(".cnt-top").siblings(".tog-expand").children(".row-list").toggleClass("open");
+		$(".for-usr-wt-img").toggleClass("open");
 		});
 		
 	$("#edit-mod").click(function(){
