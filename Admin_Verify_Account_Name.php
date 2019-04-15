@@ -128,7 +128,7 @@
            <div class="usr-img-unvr">
              <img src="images/22.png" />
            </div>
-           <div>Unverified User<br/><span class="unv-usrNm"><img src="images/icon29.png">Kamran Ali</span></div>
+           <div>Unverified User<br/><span class="unv-usrNm"><img src="images/New.png">Kamran Ali</span></div>
            <div><a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a></div>
           </div>
           </div>
