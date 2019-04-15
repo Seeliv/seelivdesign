@@ -41,8 +41,7 @@
                             Auto Approve</label>
        </div>
        <div class="filter-form">
-         <div class="form-fl form-fl-full form-5"><!--
-           <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>State Search</p></div>-->
+         <div class="form-fl form-fl-full form-5">
            <div class="o-b-one">
              <div class="for-lbl">Location</div>
              <select>

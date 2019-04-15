@@ -51,8 +51,6 @@
              </li>
              
              <li>
-               <button class="mob-fil-sh filt-click" id="fill-optn"><i class="fa fa-filter"></i></button>
-               <div class="filter-bt-bl"></div>
              </li>
              <li>
                <button class="mob-fil-sh filt-click" id="fill-sort"><i class="fa fa-sort"></i></button>
@@ -63,7 +61,6 @@
            </ul>
          </div>
          <div class="sort-option">
-           <button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>
            <ul>
              <li><button class="sort-button active">All</button></li>
              <li><button class="sort-button">Review In Pending</button></li>
