@@ -36,7 +36,7 @@
             <a href="#" class="nn-MenuNav_Link"><i class="fas fa-bell"></i>Study</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fas fa-bell"></i></i>Booking</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fas fa-bell"></i>Transaction</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-bell"></i>support</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-question-circle"></i>support</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fas fa-sign-out-alt"></i>Sign Out</a>
             <span id="pnIndicator" class="nn-MenuNav_Indicator"></span> </div>
         </nav>
