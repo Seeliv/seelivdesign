@@ -71,8 +71,8 @@
         <li><a href=""><i class="fas fa-book"></i>Programs Ads</a></li>
         <li><a href=""><i class="fas fa-business-time"></i>Jobs Ads</a></li>
         <li><a href=""><i class="fas fa-mouse-pointer"></i>Exams Links</a></li>
-        <li><a href=""><i class="fas fa-chalkboard-teacher"></i>Search Teacher</a></li>
         <li><a href=""><i class="fas fa-print"></i>Documents</a></li>
+        <li><a href=""><i class="fas fa-chalkboard-teacher"></i>Search Teacher</a></li>
         <li><a href=""><i class="fas fa-plane"></i>Booking</a></li>
         <li><a href=""><i class="fas fa-wallet"></i>Wallet</a></li>
         <li><a href=""><i class="fas fa-globe"></i>My Website</a></li>
