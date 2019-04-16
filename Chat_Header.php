@@ -1,6 +1,8 @@
 <header>
   <div class="mob-header">
-    <div class="mob-menu"><a id="mob-usr-menu" href="#"><img src="images/22.png" /></a></div>
+    <div class="mob-menu"><a id="mob-usr-menu" href="#"><img src="images/chat.png" /></a></div>
+    <div class="mob-menu"><a id="mob-usr-menu" href="#"><img src="images/contact.png" /></a></div>
+    <div class="mob-menu"><a id="mob-usr-menu" href="#"><img src="images/Calendar.png" /></a></div>
     <div class="mob-menu"><a id="mob-usr-submenu" href="#"><i class="fa fa-bars"></i></a></div>
     <div class="mob-menu"><a id="mob-usr-panel" href="#"><i class="fa fa-list"></i></a></div>
     <div class="mob-menu"><a id="mob-usr-optn" href="#"><img src="images/22.png" /></a></div>
@@ -8,7 +10,7 @@
   <div class="header-top">
     <div class="menu-block">
     <div class="school-info">
-      <div class="profile-pic"> <img src="images/22.png" /> </div>
+      <div class="profile-pic"> <img src="images/school.png" /> </div>
       <div class="school-name">
         <div>global institute</div>
         <div>school: R932749380310</div>
