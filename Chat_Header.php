@@ -65,10 +65,10 @@
     <ul class="sub-menu">
         <li><a href=""><i class="fas fa-comment-dots"></i>Chat</a></li>
         <li><a href=""><i class="fas fa-users"></i>Contact</a></li>
-        <li><a href=""><i class="fas fa-calendar-alt"></i>Schedule</a></li>
+        <li><a href=""><i class="fa fa-calendar-check-o" aria-hidden="true"></i>Schedule</a></li>
         <li><a href=""><i class="fas fa-school"></i>Profile</a></li>
-        <li><a href=""><i class="fas fa-calculator"></i>Processing Session</a></li>
-        <li><a href=""><i class="fas fa-server"></i>Students’ Data</a></li>
+        <li><a href=""><i class="fab fa-fort-awesome-alt"></i>New Application</a></li>
+        <li><a href=""><i class="fas fa-server"></i>Data Center</a></li>
       </ul>
   </div>
 </header>
