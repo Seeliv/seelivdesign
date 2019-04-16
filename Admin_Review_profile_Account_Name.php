@@ -74,9 +74,9 @@
          <div class="sort-option">
            <button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>
            <ul>
-             <li><button class="sort-button active">Overall Input</button></li>
-             <li><button class="sort-button">Review In Pending</button></li>
+             <li><button class="sort-button active">Review In Pending</button></li>
              <li><button class="sort-button">Review Completed</button></li>
+             <li><button class="sort-button">Overall Requests</button></li>
            </ul>
          </div>
          <div class="table-pagging">
