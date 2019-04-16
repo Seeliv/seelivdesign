@@ -68,7 +68,8 @@
            <div class="t-b-one">
            <div class="for-lbl for-lbl-4">
              <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>All</label>
-             <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>Ac,Ap-ID</label>
+             <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>Ac-ID</label>
+             <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>Ap-ID</label>
              <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>Email</label>
              <label><input type="radio" name="lbl-id-for" id="srch-tog-0" /><i class="roll-chk-show"></i>Phone</label>
            </div>
