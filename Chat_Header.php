@@ -65,9 +65,9 @@
     <ul class="sub-menu">
         <li><a href=""><i class="fas fa-comment-dots"></i>Chat</a></li>
         <li><a href=""><i class="fas fa-users"></i>Contact</a></li>
-        <li><a href=""><i class="fal fa-calendar-check"></i>Schedule</a></li>
+        <li><a href=""><i class="fas fa-calendar-alt"></i>Schedule</a></li>
         <li><a href=""><i class="fas fa-school"></i>Profile</a></li>
-        <li><a href=""><i class="fab fa-fort-awesome-alt"></i>New Session</a></li>
+        <li><a href=""><i class="fas fa-store"></i>New Session</a></li>
         <li><a href=""><i class="fas fa-server"></i>Data Center</a></li>
       </ul>
   </div>
