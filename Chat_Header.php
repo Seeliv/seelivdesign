@@ -68,6 +68,15 @@
         <li><a href=""><i class="fas fa-calendar-alt"></i>Schedule</a></li>
         <li><a href=""><i class="fas fa-store"></i>New Session</a></li>
         <li><a href=""><i class="fas fa-server"></i>Data Center</a></li>
+        <li><a href=""><i class="fas fa-book"></i>Programs Ads</a></li>
+        <li><a href=""><i class="fas fa-mouse-pointer"></i>Exams Links</a></li>
+        <li><a href=""><i class="fas fa-business-time"></i>Jobs Ads</a></li>
+        <li><a href=""><i class="fas fa-chalkboard-teacher"></i>Search Teacher</a></li>
+        <li><a href=""><i class="fas fa-print"></i>Documents</a></li>
+        <li><a href=""><i class="fas fa-ticket-alt"></i>Booking</a></li>
+        <li><a href=""><i class="fas fa-wallet"></i>Wallet</a></li>
+        <li><a href=""><i class="fas fa-calendar-alt"></i>My Profile</a></li>
+        <li><a href=""><i class="fas fa-user-cog"></i>My Account</a></li>
       </ul>
   </div>
 </header>
