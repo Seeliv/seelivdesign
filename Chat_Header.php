@@ -30,7 +30,7 @@
       <div class="nn-MenuNav_Wrapper">
         <nav id="pnProductNav" class="nn-MenuNav">
           <div id="pnProductNavContents" class="nn-MenuNav_Contents"> 
-            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-search"></i>Verify</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-check-circle"></i>Verify</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fas fa-qrcode"></i>QR Code</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fas fa-bell"></i>Account</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fas fa-bell"></i>Study</a>
@@ -69,13 +69,13 @@
         <li><a href=""><i class="fas fa-store"></i>New Session</a></li>
         <li><a href=""><i class="fas fa-server"></i>Data Center</a></li>
         <li><a href=""><i class="fas fa-book"></i>Programs Ads</a></li>
-        <li><a href=""><i class="fas fa-mouse-pointer"></i>Exams Links</a></li>
         <li><a href=""><i class="fas fa-business-time"></i>Jobs Ads</a></li>
+        <li><a href=""><i class="fas fa-mouse-pointer"></i>Exams Links</a></li>
         <li><a href=""><i class="fas fa-chalkboard-teacher"></i>Search Teacher</a></li>
         <li><a href=""><i class="fas fa-print"></i>Documents</a></li>
         <li><a href=""><i class="fas fa-ticket-alt"></i>Booking</a></li>
         <li><a href=""><i class="fas fa-wallet"></i>Wallet</a></li>
-        <li><a href=""><i class="fas fa-calendar-alt"></i>My Profile</a></li>
+        <li><a href=""><i class="fas fa-school"></i>My Profile</a></li>
         <li><a href=""><i class="fas fa-user-cog"></i>My Account</a></li>
       </ul>
   </div>
