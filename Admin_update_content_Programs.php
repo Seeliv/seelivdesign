@@ -33,12 +33,12 @@
   <div class="content-in">
     <div class="content-fix-head">
        <a class="orde-rev-bt">Order Review</a>
-       <h1>Study field</h1>
+       <h1>Programs</h1>
        <div class="filter-form">
          <div class="form-fl form-4" ><!--
            <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Subway Address Search</p></div>-->
-           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Study field id" ><button type="submit"><i class="fa fa-search"></i></button></div>
-           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Study field name " ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Program id" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Program name " ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
          <div class="form-usr-option">
            <a href="#" class="add-opn">Add As New</a>
