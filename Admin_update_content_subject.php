@@ -37,7 +37,7 @@
        <div class="filter-form">
          <div class="form-fl form-4" ><!--
            <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Subway Address Search</p></div>-->
-           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="subject id" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Subject id" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Subject name " ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
          <div class="form-usr-option">
