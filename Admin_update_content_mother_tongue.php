@@ -15,7 +15,7 @@
     <div class="sidebar-list">
     <ul class="fa-ul">
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-microphone"></i></span>Accent</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Countries</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-globe-americas"></i></span>Countries</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-map-marked-alt"></i></span>States</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-search-location"></i></span>Postal Address</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-subway" ></i></span>Subway Address</a></li>
