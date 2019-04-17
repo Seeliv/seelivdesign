@@ -74,7 +74,7 @@
         <li><a href="d-tax.php"><i class="fa fa-user-circle"></i>D-Account</a></li>
         <li><a href="General-Account-Restriction.php"><i class="fa fa-ban"></i>Restriction</a></li>
         <li><a href=""><i class="fa fa-shield-alt"></i>Limitations</a></li>
-        <li><a href=""><i class="fas fa-print"></i>Document</a></li>
+        <li><a href=""><i class="fas fa-print"></i>cDocument</a></li>
       </ul>
   </div>
 </header>
