@@ -107,12 +107,12 @@
           <div class="cnt-btom tog-expand">
           <div class="row-list">
            <ul>
-                          <li><img src="images/icon19.png"><span>621 </span></li>
+                                                   <li><img src="images/icon19.png"><span>620</span></li>
                                                    <li><img src="images/compass.png"><span>Medicine</span></li>
-                                                   <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
+                                                   <li><img src="images/icon29.png"><span>Kamran Ali</span></li>
                                                     <li><img src="images/icon20.png"><span>GH21343345332343</span></li>
                                                      <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
-                                                      <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
+                                                      <li><img src="images/icon10.png"><span>Kamran Ali</span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
                                              </ul>
                                             
