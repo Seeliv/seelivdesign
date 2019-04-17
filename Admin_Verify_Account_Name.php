@@ -112,8 +112,8 @@
            <a href="#" class="last-btn-pg">&gt;</a>
            <div class="pagging-opt">
              
-              <a class="chk-icn" href="#"><img src="images/icon68.png" /></a>
-              <a class="rmv-icn" href="#"><img src="images/icon68.png" /></a>
+              <a class="chk-icn" href="#"><img src="images/verify.png" /></a>
+              <a class="rmv-icn" href="#"><img src="images/Reject.png" /></a>
               <!--<a class="chk-icn" href="#"><i class="fa fa-check-circle"></i></a>
               <a class="rmv-icn" href="#"><i class="fa fa-remove"></i></a>-->
            </div>
@@ -160,8 +160,8 @@
               <li><a class="p-icn" href="#"><img src="images/icon13.png" /></a></li>
               <li><a class="n-icn" href="#"><img src="images/icon13.png" /></a></li>
               <li><a class="imgs-icn" href="#"><img src="images/icon13.png" /></a></li>
-              <li><a class="chk-icn" href="#"><img src="images/icon13.png" /></a></li>
-              <li><a class="rmv-icn" href="#"><img src="images/icon13.png" /></a></li>
+              <li><a class="chk-icn" href="#"><img src="images/verify.png" /></a></li>
+              <li><a class="rmv-icn" href="#"><img src="images/Reject.png" /></a></li>
             </ul>
           </div>
           </div>
