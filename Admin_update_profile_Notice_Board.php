@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>default Notice Board</title>
+<title>update Notice Board</title>
 <?php include("head.php") ?>
 </head>
 

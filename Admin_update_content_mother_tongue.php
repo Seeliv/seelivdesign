@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>default mother tongue.php</title>
+<title>update mother tongue.php</title>
 <?php include("head.php") ?>
 </head>
 

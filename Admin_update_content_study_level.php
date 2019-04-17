@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>default study level</title>
+<title>update study level</title>
 <?php include("head.php") ?>
 </head>
 

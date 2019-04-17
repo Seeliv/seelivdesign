@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>default states</title>
+<title>update states</title>
 <?php include("head.php") ?>
 </head>
 
