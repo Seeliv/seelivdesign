@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<?php include("Admin_Update_header.php"); ?>
+<?php include("Admin_Verify_header.php"); ?>
 <main>
 <section class="side-bar">
   <div class="side-bar-content">
