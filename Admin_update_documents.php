@@ -12,7 +12,7 @@
 <section class="side-bar">
   <div class="side-bar-content">
     <div class="search-list-item lft-side-sort">
-    <div class="sort-option option-sort-2">
+    <div class="sort-option option-sort-5”>
            <ul>
              <li><button class="sort-button active">Pending</button></li>
              <li><button class="sort-button">Verified</button></li>
