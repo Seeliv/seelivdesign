@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Verify Account Name</title>
+<title>Verify Postal Code</title>
 <link href="css/datepicker.min.css" rel="stylesheet" type="text/css">
 <?php include("head.php") ?>
 </head>
@@ -26,9 +26,9 @@
 <div class="content">
   <div class="content-data">
   <div class="content-in">
-    <div class="content-fix-head with-lf-rgt">
-       <button id="tog-more-all">Show more</button>
-       <h1>Account Name</h1>
+    <div class="content-fix-head">
+       <a class="orde-rev-bt">Order Review</a>
+       <h1>Postal Address</h1>
        <div class="fix-tog-top">
        <label>
          <label class="switch">
