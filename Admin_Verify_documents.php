@@ -15,14 +15,14 @@
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-user-edit"></i></span>Passport Size Picture</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-portrait"></i></span>Account Owner Id Card Picture</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-image"></i></span>Introduction Video</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-newspaper"></i></span>Academic Degrees</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-pen-square"></i></span>Teaching Certificate</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-images"></i></span>Police Character Certificate</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="far fa-images"></i></span>Medical / Physical Report</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-book-dead"></i></span>School License Picture</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-passport"></i></span>Passport Size Picture</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-id-card-alt"></i></span>Account Owner Id Card Picture</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="far fa-play-circle"></i></span>Introduction Video</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-medal"></i></span>Academic Degrees</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-certificate"></i></span>Teaching Certificate</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-shield-alt"></i></span>Police Character Certificate</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-notes-medical"></i></span>Medical / Physical Report</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-file-alt"></i></span>School License Picture</a></li>
                           </ul>
                           </div>
   </div>
