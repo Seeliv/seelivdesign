@@ -159,6 +159,7 @@
             <ul>
               <li><a class="p-icn" href="#"><img src="images/ReplaceP.png" /></a></li>
               <li><a class="n-icn" href="#"><img src="images/ReplaceN.png" /></a></li>
+              <li><a class="n-icn" href="#"><img src="images/ReplaceN.png" /></a></li>
               <li><a class="imgs-icn" href="#"><img src="images/icon13.png" /></a></li>
               <li><a class="chk-icn" href="#"><img src="images/verify.png" /></a></li>
               <li><a class="rmv-icn" href="#"><img src="images/Reject.png" /></a></li>
