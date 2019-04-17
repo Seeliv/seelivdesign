@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Verify Postal Address</title>
+<title>Verify Postal Code</title>
 <link href="css/datepicker.min.css" rel="stylesheet" type="text/css">
 <?php include("head.php") ?>
 </head>
