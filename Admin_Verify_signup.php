@@ -40,7 +40,7 @@
   <div class="content-data">
   <div class="content-in">
     <div class="content-fix-head">
-       <h1>Kindergarten</h1>
+       <h1>General Account</h1>
        <div class="fix-tog-top">
        <label>
          <label class="switch">
