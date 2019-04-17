@@ -337,7 +337,7 @@ help you at any time.</pre>
             <div class="chat-text-field">
               <input type="text" placeholder="Type your Message" id="txt-chat-msg"  />
               <div class="chat-audio-msg"><a id="cancel-record">Cancle</a><i class="fa fa-microphone"></i>00:00</div>
-              <button id="Press-Enter/Click-to-record" >Click To Record</button>
+              <button id="click-to-record" >Click To Record</button>
             </div>
             <div class="chat-right-field">
               <a href="#" class="cht-lnk-optn keypad-show" id="chat-keypad-open" ><i class="fa fa-keyboard"></i></a>
