@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>default Programs</title>
+<title>update Programs</title>
 <?php include("head.php") ?>
 </head>
 
@@ -16,15 +16,14 @@
     <ul class="fa-ul">
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-microphone"></i></span>Accent</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Countries</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-map-marked-alt"></i></span>States</a></li>
+                                <li><a href="#"> <span class="fa-li"><i class="fas fa-map-marked-alt"></i></span>States</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-search-location"></i></span>Postal Address</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-subway" ></i></span>Subway Address</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-microphone-alt"></i></span>Mother Tongue</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-compass"></i></span>Study Field</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-compass"></i></span>Study Field</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-layer-group"></i></span>Study level</a></li>
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Programs</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Programs</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-book"></i></span>Subjects</a></li>
-                                
                           </ul>
                           </div>
   </div>
@@ -35,21 +34,11 @@
     <div class="content-fix-head">
        <a class="orde-rev-bt">Order Review</a>
        <h1>Programs</h1>
-       <div class="filter-form"><!--
-         <div class="mob-filt-btn"><button id="filter-open"><i class="fa fa-search"></i></button></div>-->
-         <div class="form-fl form-3"><!--
-           <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Programs Search</p></div>-->
-           <div class="t-b-one"><input type="text" placeholder="Program id" ><button type="submit"><i class="fa fa-search"></i></button></div>
-           <div class="o-b-one">
-             <select>
-             <option>All Study Level</option>
-             <option>----</option>
-             <option>----</option>
-             </select>
-           </div>
-           <div class="t-b-one">
-             <input type="text" placeholder="Select Major" ><button type="submit"><i class="fa fa-search"></i></button>
-           </div>
+       <div class="filter-form">
+         <div class="form-fl form-4" ><!--
+           <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Subway Address Search</p></div>-->
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Program id" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Program name " ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
          <div class="form-usr-option">
            <a href="#" class="add-opn">Add As New</a>
@@ -80,7 +69,7 @@
          <div class="sort-option">
            <button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>
            <ul>
-             <li><button class="sort-button active">All</button></li>
+             <li><button class="sort-button active">Overall Input</button></li>
              <li><button class="sort-button">Review In Pending</button></li>
              <li><button class="sort-button">Review Completed</button></li>
            </ul>
@@ -107,13 +96,11 @@
           <div class="cnt-btom tog-expand">
           <div class="row-list">
            <ul>
-                          <li><img src="images/icon19.png"><span>621 </span></li>
-                                                   <li><img src="images/icon25.png"><span>Pakistan  </span></li>
-                                                    <li><img src="images/icon17.png"><span>Punjab  </span> </li>
+                                                   <li><img src="images/icon19.png"><span>621</span></li>
                                                    <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
                                                     <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
-                                                     <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
-                                                      <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
+                                                     <li><img src="images/icon30.png"><span>Review In Pending</span></li>
+                                                      <li><img src="images/icon10.png"><span>Kamran Ali</span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
                                              </ul>
                                             

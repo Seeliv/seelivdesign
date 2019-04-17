@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>default Cover Photo</title>
+<title>update cover Photo</title>
 <?php include("head.php") ?>
 </head>
 

@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>default D-charges</title>
+<title>update D-charges</title>
 <?php include("head.php") ?>
 </head>
 

@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>default Postal Address</title>
+<title>update Postal Address</title>
 <?php include("head.php") ?>
 </head>
 
@@ -53,7 +53,7 @@
              <option>----</option>
              </select>
            </div>
-           <div class="t-b-one"><input type="text" placeholder="Enter Zip Code,Postal Code " ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one"><input type="text" placeholder="Zip Code,Street Address" ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
          <div class="form-usr-option">
            <a href="#" class="add-opn">Add As New</a>
@@ -84,7 +84,7 @@
          <div class="sort-option">
            <button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>
            <ul>
-             <li><button class="sort-button active">All</button></li>
+             <li><button class="sort-button active">Overall Input</button></li>
              <li><button class="sort-button">Review In Pending</button></li>
              <li><button class="sort-button">Review Completed</button></li>
            </ul>

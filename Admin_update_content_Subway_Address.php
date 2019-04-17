@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>default Subway Address</title>
+<title>update Subway Address</title>
 <?php include("head.php") ?>
 </head>
 
@@ -83,7 +83,7 @@
          <div class="sort-option">
            <button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>
            <ul>
-             <li><button class="sort-button active">All</button></li>
+             <li><button class="sort-button active">Overall Input</button></li>
              <li><button class="sort-button">Review In Pending</button></li>
              <li><button class="sort-button">Review Completed</button></li>
            </ul>

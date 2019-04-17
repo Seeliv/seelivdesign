@@ -66,13 +66,13 @@
   <div class="header-bottom">
     <ul class="sub-menu">
         <li><a href=""><i class="fas fa-users"></i>Users</a></li>
-        <li><a href=""><i class="fas fa-print"></i>Document</a></li>
         <li><a href=""><i class="fas fa-comments"></i>E-Chat</a></li>
         <li><a href=""><i class="fas fa-address-card"></i>Resume</a></li>
         <li><a href=""><i class="fas fa-business-time"></i>Jobs</a></li>
-        <li><a href=""><i class="fas fa-graduation-cap"></i>Scholarships</a></li>
         <li><a href=""><i class="fas fa-book"></i>Programs</a></li>
+        <li><a href=""><i class="fas fa-graduation-cap"></i>Scholarships</a></li>
         <li><a href=""><i class="fas fa-school"></i>Schools</a></li>
+        <li><a href=""><i class="fas fa-print"></i>Document</a></li>
       </ul>
   </div>
 </header>
