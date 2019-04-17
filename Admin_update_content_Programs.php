@@ -42,7 +42,7 @@
            <div class="t-b-one"><input type="text" placeholder="Program id" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one">
              <select>
-             <option>All Study field</option>
+             <option>All study field</option>
              <option>----</option>
              <option>----</option>
              </select>
