@@ -14,6 +14,8 @@
     <div class="search-list-item lft-side-sort">
     <div class="sort-option option-sort-5”>
            <ul>
+<div class="sort-option">
+           <ul>
              <li><button class="sort-button active">Pending</button></li>
              <li><button class="sort-button">Verified</button></li>
              <li><button class="sort-button">Send Now</button></li>
