@@ -30,14 +30,16 @@
       <div class="nn-MenuNav_Wrapper">
         <nav id="pnProductNav" class="nn-MenuNav">
           <div id="pnProductNavContents" class="nn-MenuNav_Contents"> 
-            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-qrcode"></i>QR Code</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-check-circle"></i>Verify</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-bell"></i>Account</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-bell"></i>Study</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-bell"></i></i>Booking</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-bell"></i>Transaction</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-question-circle"></i>support</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-sign-out-alt"></i>Sign Out</a>
+           <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fas fa-search"></i>Search</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-handshake-o" aria-hidden="true"></i>Verify</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-globe"></i>Review</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-eye"></i>Monitor</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-envelope-open"></i>Email</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-question-circle"></i>Support</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>Booking</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>Finance </a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-atom"></i>Update</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-home"></i>Home</a>
             <span id="pnIndicator" class="nn-MenuNav_Indicator"></span> </div>
         </nav>
         <button id="pnAdvancerLeft" class="pn-Advancer pn-Advancer_Left" type="button">
@@ -63,20 +65,14 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fas fa-comment-dots"></i>Chat</a></li>
-        <li><a href=""><i class="fas fa-users"></i>Contact</a></li>
-        <li><a href=""><i class="fas fa-calendar-alt"></i>Schedule</a></li>
-        <li><a href=""><i class="fas fa-store"></i>New Session</a></li>
-        <li><a href=""><i class="fas fa-server"></i>Data Center</a></li>
-        <li><a href=""><i class="fas fa-book"></i>Programs Ads</a></li>
-        <li><a href=""><i class="fas fa-business-time"></i>Jobs Ads</a></li>
-        <li><a href=""><i class="fas fa-mouse-pointer"></i>Exams Links</a></li>
-        <li><a href=""><i class="fas fa-print"></i>Documents</a></li>
-        <li><a href=""><i class="fas fa-chalkboard-teacher"></i>Search Teacher</a></li>
-        <li><a href=""><i class="fas fa-plane"></i>Booking</a></li>
-        <li><a href=""><i class="fas fa-wallet"></i>Wallet</a></li>
-        <li><a href=""><i class="fas fa-globe"></i>My Website</a></li>
-        <li><a href=""><i class="fas fa-user-cog"></i>My Account</a></li>
+        <li><a href=""><i class="fas fa-users"></i>Users</a></li>
+        <li><a href=""><i class="fas fa-print"></i>Document</a></li>
+        <li><a href=""><i class="fas fa-comments"></i>E-Chat</a></li>
+        <li><a href=""><i class="fas fa-address-card"></i>Resume</a></li>
+        <li><a href=""><i class="fas fa-business-time"></i>Jobs</a></li>
+        <li><a href=""><i class="fas fa-graduation-cap"></i>Scholarships</a></li>
+        <li><a href=""><i class="fas fa-book"></i>Programs</a></li>
+        <li><a href=""><i class="fas fa-school"></i>Schools</a></li>
       </ul>
   </div>
 </header>

@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>update countries</title>
+<title>default Countries</title>
 <?php include("head.php") ?>
 </head>
 
@@ -45,7 +45,7 @@
              <option>----</option>
              </select>
            </div>
-           <div class="t-b-one"><input type="text" placeholder="Country Name, Phone, Sortname"><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one"><input type="text" placeholder="Enter country Name" ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
          <div class="form-usr-option">
            <a href="#" class="add-opn">Add As New</a>
@@ -76,7 +76,7 @@
          <div class="sort-option">
            <button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>
            <ul>
-             <li><button class="sort-button active">Overall Input</button></li>
+             <li><button class="sort-button active">All</button></li>
              <li><button class="sort-button">Review In Pending</button></li>
              <li><button class="sort-button">Review Completed</button></li>
            </ul>
@@ -104,14 +104,14 @@
           <div class="cnt-btom tog-expand">
           <div class="row-list">
            <ul>
-                                                   <li><img src="images/icon19.png"><span>621</span></li>
-                                                   <li><img src="images/icon4.png"><span>IN</span></li>
-                                                   <li><img src="images/Phone.png"><span>+92</span></li>
-                                                   <li><img src="images/accent.png"><span>European</span></li>
+                                                   <li><img src="images/icon19.png"><span>1 </span></li>
+                                                   <li><img src="images/icon16.png"><span>Native English speaker </span></li>
+                                                   <li><img src="images/icon4.png"><span>IN </span></li>
+                                                   <li><img src="images/icon24.png"><span>+92 </span></li>
                                                    <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
-                                                    <li><img src="images/icon20.png"><span>GH2134334533245343</span></li>
+                                                    <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
                                                      <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
-                                                      <li><img src="images/icon10.png"><span>Kamran Ali</span></li>
+                                                      <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
                                              </ul>
           <div class="row-option"><a href="#">Edit</a></div>
@@ -130,14 +130,14 @@
           <div class="cnt-btom tog-expand">
           <div class="row-list">
            <ul>
-                                                   <li><img src="images/icon19.png"><span>621</span></li>
-                                                   <li><img src="images/icon4.png"><span>IN</span></li>
-                                                   <li><img src="images/Phone.png"><span>+92</span></li>
-                                                   <li><img src="images/accent.png"><span>Native English Speaker</span></li>
+                                                   <li><img src="images/icon19.png"><span>1 </span></li>
+                                                   <li><img src="images/icon16.png"><span>Native English speaker </span></li>
+                                                   <li><img src="images/icon4.png"><span>IN </span></li>
+                                                   <li><img src="images/icon24.png"><span>+92 </span></li>
                                                    <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
-                                                    <li><img src="images/icon20.png"><span>GH2134334533245343</span></li>
+                                                    <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
                                                      <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
-                                                      <li><img src="images/icon10.png"><span>Kamran Ali</span></li>
+                                                      <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
                                              </ul>
           <div class="row-option"><a href="#">Edit</a></div>

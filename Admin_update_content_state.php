@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>update states</title>
+<title>default states</title>
 <?php include("head.php") ?>
 </head>
 
@@ -44,7 +44,7 @@
              <option>----</option>
              </select>
            </div>
-           <div class="t-b-one"><input type="text" placeholder="State Name" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one"><input type="text" placeholder="Enter State Name" ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
          <div class="form-usr-option">
            <a href="#" class="add-opn">Add As New</a>
@@ -75,7 +75,7 @@
          <div class="sort-option">
            <button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>
            <ul>
-             <li><button class="sort-button active">Overall Input</button></li>
+             <li><button class="sort-button active">All</button></li>
              <li><button class="sort-button">Review In Pending</button></li>
              <li><button class="sort-button">Review Completed</button></li>
            </ul>
@@ -104,7 +104,7 @@
            <ul>
                                 
                                                    <li><img src="images/icon19.png"><span>621 </span></li>
-                                                   <li><img src="images/icon25.png"><span>India  </span></li>
+                                                   <li><img src="images/icon17.png"><span>India  </span></li>
                                                    <li><img src="images/icon29.png"><span>Name of person </span></li>
                                                     <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
                                                      <li><img src="images/icon30.png"><span>Review In Pending</span></li>

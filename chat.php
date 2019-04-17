@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/> 
 <title>Chat</title>
 <?php include("head.php") ?>
 </head>
@@ -15,13 +14,9 @@
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-user-edit"></i></span>Account Name</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-portrait"></i></span>Display Picture (dp)</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-image"></i></span>Cover Photo (cp)</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-newspaper"></i></span>Notice Board</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-pen-square"></i></span>School Introduction</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-images"></i></span>Slide Bar (1)</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="far fa-images"></i></span>Slide Bar (2)</a></li>
+        <li><a href="#"><div class="icon-r"><img src="images/icon40.png" /></div><strong>Kamran Ali</strong></a></li>
+        <li><a href="#"><div class="icon-r"><img src="images/icon41.png" /></div><strong>Abdul Aziz</strong></a></li>
+        <li><a href="#"><div class="icon-r"><img src="images/icon44.png" /></div><strong>Ali Raza</strong></a></li>
                           </ul>
                           </div>
   </div>
@@ -29,15 +24,14 @@
 <div class="content">
   <div class="content-data">
   <div class="content-in">
-    <div class="content-fix-head"><h1>Account Name</h1></div>
+    <div class="content-fix-head"><h1>Kamran Ali</h1></div>
     <div class="main-content">
       <div class="card-body noticeboard">
                 <div class="header_message sec2wrap btnwap">
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>Giv-Sch<br>
-                        <span class="mintext">Unverified</span></p>
+                         <p>General Account Default Cp</p>
                        </div>
                   </div>
                      <div class="card-option">
@@ -56,13 +50,13 @@
                        </div>
                   </div>
                     </div>
+                  <div class="cover-picture"><img src="images/banner1.png" /></div>
                    </div>
-                   <div class="header_message sec2wrap btnwap">
+                  <div class="header_message sec2wrap btnwap">
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>Sur-Abb<br>
-                        <span class="mintext">User</span></p>
+                         <p>School Account Default Cp</p>
                        </div>
                   </div>
                      <div class="card-option">
@@ -81,6 +75,7 @@
                        </div>
                   </div>
                     </div>
+                  <div class="cover-picture"><img src="images/banner1.png" /></div>
                    </div>
               </div>
     </div>

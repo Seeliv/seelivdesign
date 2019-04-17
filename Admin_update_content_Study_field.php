@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>update study field</title>
+<title>default study field</title>
 <?php include("head.php") ?>
 </head>
 
@@ -38,7 +38,7 @@
          <div class="form-fl form-4" ><!--
            <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Subway Address Search</p></div>-->
            <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Study field id" ><button type="submit"><i class="fa fa-search"></i></button></div>
-           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Study field name " ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Enter Study field name " ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
          <div class="form-usr-option">
            <a href="#" class="add-opn">Add As New</a>
@@ -69,7 +69,7 @@
          <div class="sort-option">
            <button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>
            <ul>
-             <li><button class="sort-button active">Overall Input</button></li>
+             <li><button class="sort-button active">All</button></li>
              <li><button class="sort-button">Review In Pending</button></li>
              <li><button class="sort-button">Review Completed</button></li>
            </ul>
@@ -89,18 +89,20 @@
           <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
           <div class="cnt-top">
           <div class="country-name"> 
-            <div>Arts</div>
+            <div>Biology</div>
             <div><a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a></div>
           </div>
           </div>
           <div class="cnt-btom tog-expand">
            <div class="row-list">
            <ul>
-                                                   <li><img src="images/icon19.png"><span>621</span></li>
+                          <li><img src="images/icon19.png"><span>621 </span></li>
+                                                   <li><img src="images/icon25.png"><span>Pakistan  </span></li>
+                                                    <li><img src="images/icon17.png"><span>Punjab  </span> </li>
                                                    <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
                                                     <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
-                                                     <li><img src="images/icon30.png"><span>Review In Pending</span></li>
-                                                      <li><img src="images/icon10.png"><span>Kamran Ali</span></li>
+                                                     <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
+                                                      <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
                                              </ul>
           <div class="row-option"><a href="#">Edit</a></div>
@@ -120,11 +122,13 @@
           <div class="cnt-btom tog-expand">
            <div class="row-list">
            <ul>
-                                                   <li><img src="images/icon19.png"><span>621</span></li>
+                          <li><img src="images/icon19.png"><span>621 </span></li>
+                                                   <li><img src="images/icon25.png"><span>Pakistan  </span></li>
+                                                    <li><img src="images/icon17.png"><span>Punjab  </span> </li>
                                                    <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
                                                     <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
-                                                     <li><img src="images/icon30.png"><span>Review In Pending</span></li>
-                                                      <li><img src="images/icon10.png"><span>Kamran Ali</span></li>
+                                                     <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
+                                                      <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
                                              </ul>
           <div class="row-option"><a href="#">Edit</a></div>

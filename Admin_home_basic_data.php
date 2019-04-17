@@ -35,9 +35,9 @@
              <option>----</option>
              </select>
            </div>
-           <div class="t-b-one"><input type="text" data-range="true" data-multiple-dates-separator=" - " placeholder="From - To" class="from-date datepicker-here" data-language='en' ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one"><input type="text" readonly="readonly" data-range="true" data-multiple-dates-separator=" - " placeholder="From - To" class="from-date datepicker-here" data-language='en' ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="t-b-one tbtn-t"><button type="submit" class="ovrall-bt">Overall</button><button type="submit" class="today-bt">Today</button></div>
-           <div class="t-b-one"><input type="text" class="from-date datepicker-here" placeholder="Enter Date" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one"><input type="text" readonly="readonly" class="select-date datepicker-here" placeholder="Enter Date" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one wth-dwn">
            <select>
              <option>Select From Past</option>
@@ -116,11 +116,15 @@
 <script src="js/datepicker.min.js"></script>
 <script src="js/datepicker.en.js"></script>
 <script>
-$('.from-date,.to-date').datepicker({
+$('.from-date').datepicker({
     language: 'en',
     maxDate: new Date(), // Now can select only dates, which goes after today
 	range: true
-})
+});
+$('.select-date').datepicker({
+    language: 'en',
+    maxDate: new Date(), // Now can select only dates, which goes after today
+});
 </script>
 </body>
 </html>

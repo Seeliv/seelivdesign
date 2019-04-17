@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>update P-charges</title>
+<title>Default P-charges</title>
 <?php include("head.php") ?>
 </head>
 

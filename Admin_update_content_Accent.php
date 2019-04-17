@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>update Accent</title>
+<title>default Accent</title>
 <?php include("head.php") ?>
 </head>
 
@@ -69,7 +69,7 @@
          <div class="sort-option">
            <button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>
            <ul>
-             <li><button class="sort-button active">Overall Input</button></li>
+             <li><button class="sort-button active">All</button></li>
              <li><button class="sort-button">Review In Pending</button></li>
              <li><button class="sort-button">Review Completed</button></li>
            </ul>
@@ -96,11 +96,13 @@
           <div class="cnt-btom tog-expand">
            <div class="row-list">
            <ul>
-                                                   <li><img src="images/icon19.png"><span>621</span></li>
+                          <li><img src="images/icon19.png"><span>621 </span></li>
+                                                   <li><img src="images/icon25.png"><span>Pakistan  </span></li>
+                                                    <li><img src="images/icon17.png"><span>Punjab  </span> </li>
                                                    <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
                                                     <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
-                                                     <li><img src="images/icon30.png"><span>Review In Pending</span></li>
-                                                      <li><img src="images/icon10.png"><span>Kamran Ali</span></li>
+                                                     <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
+                                                      <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
                                              </ul>
           <div class="row-option"><a href="#">Edit</a></div>
@@ -120,11 +122,13 @@
           <div class="cnt-btom tog-expand">
            <div class="row-list">
            <ul>
-                                                   <li><img src="images/icon19.png"><span>621</span></li>
+                          <li><img src="images/icon19.png"><span>621 </span></li>
+                                                   <li><img src="images/icon25.png"><span>Pakistan  </span></li>
+                                                    <li><img src="images/icon17.png"><span>Punjab  </span> </li>
                                                    <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
                                                     <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
-                                                     <li><img src="images/icon30.png"><span>Review In Pending</span></li>
-                                                      <li><img src="images/icon10.png"><span>Kamran Ali</span></li>
+                                                     <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
+                                                      <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
                                              </ul>
           <div class="row-option"><a href="#">Edit</a></div>

@@ -12,8 +12,25 @@ $(document).ready(function(){
 			$("#srch-tog-2").hide();
 			}
 		});
-	$("#srch-tog-0").change(function(){
-		$("#srch-tog-1,#srch-tog-2").toggle();
+	$(".for-usr-wt-img .chk-bx").click(function(){
+		$(".for-usr-wt-img .chk-bx").each(function(){
+			if($(this).children("input[type=checkbox]").is(":checked")){
+				$(".pagging-opt").show();
+				}
+			else{
+				$(".pagging-opt").hide();
+				}
+			});
+		});
+	$("#tog-more-all").click(function(){
+		if($(this).text()=="Show more"){
+			$(this).text("Show less")
+			}
+		else{
+			$(this).text("Show more")
+			}
+		//$(".for-usr-wt-img").children(".tog-expand").children(".row-list").toggleClass("open");
+		$(".for-usr-wt-img").toggleClass("open");
 		});
 	$("button#mob-menu-tog").on("click",function(){
 		$(".sidebar_one").toggleClass("open");
