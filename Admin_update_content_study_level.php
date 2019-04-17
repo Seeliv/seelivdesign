@@ -37,8 +37,8 @@
        <div class="filter-form">
          <div class="form-fl form-4" ><!--
            <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Subway Address Search</p></div>-->
-           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="study level id" ><button type="submit"><i class="fa fa-search"></i></button></div>
-           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Enter study level " ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Study level id" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Study level " ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
          <div class="form-usr-option">
            <a href="#" class="add-opn">Add As New</a>
