@@ -105,9 +105,9 @@
           <div class="row-list">
            <ul>
                                                    <li><img src="images/icon19.png"><span>621</span></li>
-                                                   <li><img src="images/accent.png"><span>European</span></li>
                                                    <li><img src="images/icon4.png"><span>IN</span></li>
                                                    <li><img src="images/icon24.png"><span>+92</span></li>
+                                                   <li><img src="images/accent.png"><span>European</span></li>
                                                    <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
                                                     <li><img src="images/icon20.png"><span>GH2134334533245343</span></li>
                                                      <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
@@ -131,9 +131,9 @@
           <div class="row-list">
            <ul>
                                                    <li><img src="images/icon19.png"><span>621</span></li>
-                                                   <li><img src="images/accent.png"><span>European</span></li>
                                                    <li><img src="images/icon4.png"><span>IN</span></li>
                                                    <li><img src="images/icon24.png"><span>+92</span></li>
+                                                   <li><img src="images/accent.png"><span>European</span></li>
                                                    <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
                                                     <li><img src="images/icon20.png"><span>GH2134334533245343</span></li>
                                                      <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
