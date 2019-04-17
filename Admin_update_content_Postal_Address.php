@@ -53,7 +53,7 @@
              <option>----</option>
              </select>
            </div>
-           <div class="t-b-one"><input type="text" placeholder="Enter Zip Code,Postal Code " ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one"><input type="text" placeholder="Zip Code,Street Address" ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
          <div class="form-usr-option">
            <a href="#" class="add-opn">Add As New</a>
