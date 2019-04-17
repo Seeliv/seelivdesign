@@ -42,13 +42,13 @@
            <div class="t-b-one"><input type="text" placeholder="Program id" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one">
              <select>
-             <option>All Study Level</option>
+             <option>All Study field</option>
              <option>----</option>
              <option>----</option>
              </select>
            </div>
            <div class="t-b-one">
-             <input type="text" placeholder="Select Major" ><button type="submit"><i class="fa fa-search"></i></button>
+             <input type="text" placeholder="Program Name"><button type="submit"><i class="fa fa-search"></i></button>
            </div>
          </div>
          <div class="form-usr-option">
@@ -108,10 +108,9 @@
           <div class="row-list">
            <ul>
                           <li><img src="images/icon19.png"><span>621 </span></li>
-                                                   <li><img src="images/icon25.png"><span>Pakistan  </span></li>
-                                                    <li><img src="images/icon17.png"><span>Punjab  </span> </li>
+                                                   <li><img src="images/compass.png"><span>Medicine</span></li>
                                                    <li><img src="images/icon29.png"><span>Kamran Ali </span></li>
-                                                    <li><img src="images/icon20.png"><span>GH213433453324532343</span></li>
+                                                    <li><img src="images/icon20.png"><span>GH21343345332343</span></li>
                                                      <li><img src="images/icon30.png"><span>Review In Pending</span> </li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
