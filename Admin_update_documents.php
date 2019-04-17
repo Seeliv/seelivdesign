@@ -16,6 +16,8 @@
            <ul>
              <li><button class="sort-button active">My documents</button></li>
              <li><button class="sort-button">Generate documents</button></li>
+             <li><button class="sort-button">Generate documents</button></li>
+             <li><button class="sort-button">Generate documents</button></li>
            </ul>
          </div>
     <input type="text" placeholder="Search here"></div>
