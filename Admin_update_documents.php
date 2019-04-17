@@ -14,10 +14,11 @@
     <div class="search-list-item lft-side-sort">
     <div class="sort-option option-sort-2">
            <ul>
-             <li><button class="sort-button active">My documents</button></li>
-             <li><button class="sort-button">Generate documents</button></li>
-             <li><button class="sort-button">Generate documents</button></li>
-             <li><button class="sort-button">Generate documents</button></li>
+             <li><button class="sort-button active">Pending</button></li>
+             <li><button class="sort-button">Verified</button></li>
+             <li><button class="sort-button">Send Now</button></li>
+             <li><button class="sort-button">Template</button></li>
+             <li><button class="sort-button">Create New</button></li>
            </ul>
          </div>
     <input type="text" placeholder="Search here"></div>
