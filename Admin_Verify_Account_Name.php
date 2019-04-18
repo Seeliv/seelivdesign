@@ -39,7 +39,7 @@
          <label class="switch">
                             <input type="checkbox">
                             <span class="slider round"></span> </label>
-                            Auto Approve</label>
+                            Auto Verify</label>
        </div>
        <div class="filter-form">
          <div class="form-fl form-fl-full form-5"><!--
