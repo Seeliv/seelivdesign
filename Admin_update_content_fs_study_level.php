@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>update ls study level</title>
+<title>update Fs study level</title>
 <?php include("head.php") ?>
 </head>
 
@@ -21,8 +21,8 @@
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-subway" ></i></span>Subway Address</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-microphone-alt"></i></span>Mother Tongue</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-compass"></i></span>Study field</a></li>
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-layer-group"></i></span>Ls study level</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-layer-group"></i></span>Fs study level</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-layer-group"></i></span>Ls study level</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-layer-group"></i></span>Fs study level</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Programs</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-book"></i></span>Subjects</a></li>
                           </ul>
@@ -34,7 +34,7 @@
   <div class="content-in">
     <div class="content-fix-head">
        <a class="orde-rev-bt">Order Review</a>
-       <h1>Ls study level</h1>
+       <h1>Fs study level</h1>
        <div class="filter-form">
          <div class="form-fl form-3">
            <!--<div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Country Search</p></div>-->
@@ -42,35 +42,35 @@
            <div class="o-b-one">
              <select>
              <option>All ls study level</option>
-             <option>001</option>
-             <option>003</option>
-             <option>004</option>
-             <option>005</option>
-             <option>006</option>
-             <option>007</option>
-             <option>008</option>
-             <option>009</option>
-             <option>010</option>
-             <option>011</option>
-             <option>012</option>
-             <option>013</option>
-             <option>014</option>
-             <option>015</option>
-             <option>016</option>
-             <option>017</option>
-             <option>018</option>
-             <option>019</option>
-             <option>020</option>
-             <option>021</option>
-             <option>022</option>
-             <option>023</option>
-             <option>024</option>
-             <option>025</option>
-             <option>026</option>
-             <option>027</option>
-             <option>028</option>
-             <option>029</option>
-             <option>030</option>
+             <option>0001</option>
+             <option>0003</option>
+             <option>0004</option>
+             <option>0005</option>
+             <option>0006</option>
+             <option>0007</option>
+             <option>0008</option>
+             <option>0009</option>
+             <option>0010</option>
+             <option>0011</option>
+             <option>0012</option>
+             <option>0013</option>
+             <option>0014</option>
+             <option>0015</option>
+             <option>0016</option>
+             <option>0017</option>
+             <option>0018</option>
+             <option>0019</option>
+             <option>0020</option>
+             <option>0021</option>
+             <option>0022</option>
+             <option>0023</option>
+             <option>0024</option>
+             <option>0025</option>
+             <option>0026</option>
+             <option>0027</option>
+             <option>0028</option>
+             <option>0029</option>
+             <option>0030</option>
              </select>
            </div>
            <div class="t-b-one"><input type="text" placeholder="Study level Name" ><button type="submit"><i class="fa fa-search"></i></button></div>
