@@ -63,8 +63,9 @@
            <div class="for-lbl"><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>All</label><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Requested On</label><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Varified On</label></div>
            <input type="text" readonly="readonly" data-range="true" data-multiple-dates-separator=" - " placeholder="Select Date Range" class="from-date datepicker-here" data-language='en' ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="t-b-one">
-            <div class="for-lbl"><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>All</label><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Requested On</label><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Varified On</label></div>
-           <input type="text" readonly="readonly" data-range="true" data-multiple-dates-separator=" - " placeholder="Select Date Range" class="from-date datepicker-here" data-language='en' ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="for-lbl"><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>All</label><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Requested On</label><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Varified On</label></div>
+           <input type="text" readonly="readonly" class="select-date datepicker-here" placeholder="Enter Date" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one">
            <div class="for-lbl for-lbl-4">
              <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>All</label>
              <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>AC-ID</label>
