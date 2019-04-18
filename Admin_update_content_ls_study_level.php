@@ -33,11 +33,12 @@
   <div class="content-data">
   <div class="content-in">
     <div class="content-fix-head">
+       <a class="orde-rev-bt">Order Review</a>
        <h1>Ls study level</h1>
        <div class="filter-form">
-         <div class="form-fl form-3"><!--
-           <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>State Search</p></div>-->
-           <div class="t-b-one"><input type="text" placeholder="State id" ><button type="submit"><i class="fa fa-search"></i></button></div>
+         <div class="form-fl form-3">
+           <!--<div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Country Search</p></div>-->
+           <div class="t-b-one"><input type="text" placeholder="Study level id" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one">
              <select>
              <option>All ls study level</option>
@@ -72,7 +73,7 @@
              <option>030</option>
              </select>
            </div>
-           <div class="t-b-one"><input type="text" placeholder="State Name" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one"><input type="text" placeholder="Study level Name" ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
          <div class="form-usr-option">
            <a href="#" class="add-opn">Add As New</a>
