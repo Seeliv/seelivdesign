@@ -111,6 +111,7 @@
            <a href="#" class="last-btn-pg">&gt;</a>
            <div class="pagging-opt">
              
+              <a class="rmv-icn" href="#"><img src="images/time.png" /></a>
               <a class="chk-icn" href="#"><img src="images/Verify.png" /></a>
               <a class="rmv-icn" href="#"><img src="images/Reject.png" /></a>
               <!--<a class="chk-icn" href="#"><i class="fa fa-check-circle"></i></a>
