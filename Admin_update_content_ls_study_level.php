@@ -41,7 +41,7 @@
            <div class="t-b-one"><input type="text" placeholder="Study level id" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one">
              <select>
-             <option>All ls study level</option>
+             <option>All study level</option>
              <option>001</option>
              <option>003</option>
              <option>004</option>
@@ -133,7 +133,7 @@
            <ul>
                                 
                                                    <li><img src="images/icon19.png"><span>621 </span></li>
-                                                   <li><img src="images/level.png"><span>001</span></li>
+                                                   <li><img src="images/level.png"><span>0001</span></li>
                                                    <li><img src="images/icon25.png"><span>India</span></li>
                                                      <li><img src="images/icon30.png"><span>Review In Pending</span></li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>

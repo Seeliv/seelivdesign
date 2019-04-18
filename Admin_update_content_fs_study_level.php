@@ -41,7 +41,7 @@
            <div class="t-b-one"><input type="text" placeholder="Study level id" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one">
              <select>
-             <option>All ls study level</option>
+             <option>All study level</option>
              <option>0001</option>
              <option>0003</option>
              <option>0004</option>

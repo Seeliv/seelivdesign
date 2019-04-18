@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>update study level</title>
+<title>update study field</title>
 <?php include("head.php") ?>
 </head>
 
@@ -16,12 +16,13 @@
     <ul class="fa-ul">
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-microphone"></i></span>Accent</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-globe-americas"></i></span>Countries</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-map-marked-alt"></i></span>States</a></li>
+                                <li><a href="#"> <span class="fa-li"><i class="fas fa-map-marked-alt"></i></span>States</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-search-location"></i></span>Postal Address</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-subway" ></i></span>Subway Address</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-microphone-alt"></i></span>Mother Tongue</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-compass"></i></span>Study Field</a></li>
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-layer-group"></i></span>Study level</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-compass"></i></span>Study Field</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-layer-group"></i></span>Ls study level</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-layer-group"></i></span>Fs study level</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Programs</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-book"></i></span>Subjects</a></li>
                           </ul>
@@ -33,12 +34,12 @@
   <div class="content-in">
     <div class="content-fix-head">
        <a class="orde-rev-bt">Order Review</a>
-       <h1>Study Level</h1>
+       <h1>Study field</h1>
        <div class="filter-form">
          <div class="form-fl form-4" ><!--
            <div class="mob-filter-head"><button id="filter-close"><i class="fa fa-arrow-left"></i></button><p>Subway Address Search</p></div>-->
-           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Study level id" ><button type="submit"><i class="fa fa-search"></i></button></div>
-           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Study level Name " ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Study field id" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one" style="width:50%;"><input type="text" placeholder="Study field name " ><button type="submit"><i class="fa fa-search"></i></button></div>
          </div>
          <div class="form-usr-option">
            <a href="#" class="add-opn">Add As New</a>
@@ -89,7 +90,7 @@
           <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
           <div class="cnt-top">
           <div class="country-name"> 
-            <div>Grade1</div>
+            <div>Arts</div>
             <div><a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a></div>
           </div>
           </div>
@@ -111,7 +112,7 @@
           <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
           <div class="cnt-top">
           <div class="country-name"> 
-            <div>Bachelor</div>
+            <div>Medicine</div>
             <div><a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a></div>
           </div>
           </div>
