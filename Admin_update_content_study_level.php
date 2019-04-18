@@ -133,7 +133,6 @@
                                 
                                                    <li><img src="images/icon19.png"><span>621 </span></li>
                                                    <li><img src="images/level.png"><span>0001</span></li>
-                                                   <li><img src="images/icon25.png"><span>India</span></li>
                                                      <li><img src="images/icon30.png"><span>Review In Pending</span></li>
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>GH213433453324532343</span></li>
