@@ -59,7 +59,7 @@
       <a href="#"><img src="images/22.png" /></a>
       <div class="user-log">
         <a href="myAccount.php"><i class="fa fa-user"></i> My Account</a>
-        <a href="#"><i class="fa fa-sign-out-alt"></i> Sign Out</a>
+        <a href="#"><i class="fas fa-power-off"></i> Sign Out</a>
       </div>
     </div>
   </div>
