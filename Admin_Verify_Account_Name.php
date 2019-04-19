@@ -145,8 +145,8 @@
                                                       <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>36363636763746</span></li>
                                              </ul>
-                                             
-          
+          <div class="row-option"><a href="#">Edit</a></div>
+          </div>
           </div>
           <div class="row-fix-optn">
             <!--<ul>
