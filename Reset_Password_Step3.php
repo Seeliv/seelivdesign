@@ -8,7 +8,17 @@
 
 <body >
 <div class="top-log">
-  <div class="lang"><a href="#">English</a><a href="#">中文</a> </div>
+  <div class="lang"><a id="langSelBtn" href="#">English</a>
+    <div class="lang-selection">
+      <ul>
+       <li><label data-lang="English"><input type="radio" name="langSelct"/>English</label></li>
+       <li><label data-lang="Hindi"><input type="radio" name="langSelct"/>Hindi</label></li>
+       <li><label data-lang="中文"><input type="radio" name="langSelct"/>中文</label></li>
+       <li><label data-lang="Urdu"><input type="radio" name="langSelct"/>Urdu</label></li>
+       <li><label data-lang="Other"><input type="radio" name="langSelct"/>Other</label></li>
+      </ul>
+    </div>
+  </div>
   <div class="log-pg-hds">Reset Password</div>
   <div class="log-pg-optn"><a href="#"><i class="fa fa-question"></i><strong>Support</strong></a></div>
 </div>

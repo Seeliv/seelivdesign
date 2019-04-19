@@ -61,14 +61,14 @@
              </select>
            </div>
            <div class="t-b-one">
-           <div class="for-lbl"><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>All</label><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Requested On</label><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Varified On</label></div>
-           <input type="text" readonly="readonly" data-range="true" data-multiple-dates-separator=" - " placeholder="Select Date Range" class="from-date datepicker-here" data-language='en' ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="for-lbl"><label><input checked="checked" type="radio" name="lbl-dte-for-rng" /><i class="roll-chk-show"></i>All</label><label><input type="radio"  name="lbl-dte-for-rng" /><i class="roll-chk-show"></i>Requested On</label><label><input type="radio" name="lbl-dte-for-rng" /><i class="roll-chk-show"></i>Varified On</label></div>
+           <input type="text" readonly="readonly" data-date-format="yyyy-mm-dd" data-range="true" data-multiple-dates-separator=" - " placeholder="Select Date Range" class="from-date datepicker-here" data-language='en' ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="t-b-one">
-           <div class="for-lbl"><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>All</label><label><input type="radio" name="lbl-sel-for" /><i class="roll-chk-show"></i>Requested On</label><label><input type="radio" name="lbl-sel-for" /><i class="roll-chk-show"></i>Varified On</label></div>
-           <input type="text" readonly="readonly" class="select-date datepicker-here" placeholder="Enter Date" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="for-lbl"><label><input checked="checked" type="radio" name="lbl-sel-for" /><i class="roll-chk-show"></i>All</label><label><input type="radio" name="lbl-sel-for" /><i class="roll-chk-show"></i>Requested On</label><label><input type="radio" name="lbl-sel-for" /><i class="roll-chk-show"></i>Varified On</label></div>
+           <input type="text" readonly="readonly" data-date-format="yyyy-mm-dd" class="select-date datepicker-here" placeholder="Enter Date" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="t-b-one">
            <div class="for-lbl for-lbl-4">
-             <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>All</label>
+             <label><input checked="checked" type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>All</label>
              <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>AC-ID</label>
              <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>AP-ID</label>
              <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>Email</label>
@@ -112,6 +112,7 @@
            <a href="#" class="last-btn-pg">&gt;</a>
            <div class="pagging-opt">
              
+              <a class="chk-icn" href="#"><img src="images/time.png" /></a>
               <a class="chk-icn" href="#"><img src="images/Verify.png" /></a>
               <a class="rmv-icn" href="#"><img src="images/Reject.png" /></a>
               <!--<a class="chk-icn" href="#"><i class="fa fa-check-circle"></i></a>
@@ -121,6 +122,7 @@
        </div>
     </div>
     <div class="main-content">
+      <div class="result-number">512 Result Appeared</div>
       <div class="table-list country-table for-usr-wt-img">
         <div class="table-row">
           <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
@@ -142,11 +144,11 @@
                                                     <li><img src="images/icon53.png"><span>23 March 2018  10:10:20</span></li>
                                                      <li><img src="images/Verify1.png"><span>Verification in Pending</span> </li>
                                                     <li><img src="images/icon53.png"><span>24 March 2018 10:10:20</span></li>
-                                                      <li><img src="images/icon10.png"><span>Kamran  </span></li>
+                                                      <li><img src="images/icon10.png"><span>Kamran Ali </span></li>
                                                        <li><img src="images/icon22.png"><span>36363636763746</span></li>
                                              </ul>
-          <div class="row-option"><a href="#">Edit</a></div>
-          </div>
+                                             
+          
           </div>
           <div class="row-fix-optn">
             <!--<ul>

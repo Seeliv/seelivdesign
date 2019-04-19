@@ -148,7 +148,7 @@
   <div class="content-data">
   <div class="content-in">
     <div class="content-fix-head">
-       <h1>Kamran Ali From Pakistan</h1> 
+       <h1><span>Kamran Ali From Pakistan</span></h1> 
        <div class="chat-hds-opt">
          <a href="#" class="chat-hds-tog"> <label class="switch">
                             <input type="checkbox">
@@ -337,7 +337,7 @@ help you at any time.</pre>
             <div class="chat-text-field">
               <input type="text" placeholder="Type your Message" id="txt-chat-msg"  />
               <div class="chat-audio-msg"><a id="cancel-record">Cancle</a><i class="fa fa-microphone"></i>00:00</div>
-              <button id="click-to-record" >Click To Record</button>
+              <button id="click-to-record" >Press enter or click to record</button>
             </div>
             <div class="chat-right-field">
               <a href="#" class="cht-lnk-optn keypad-show" id="chat-keypad-open" ><i class="fa fa-keyboard"></i></a>

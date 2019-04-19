@@ -2,6 +2,14 @@ $(document).ready(function(){
 	//$("body").fadeIn(400);
 	setTop();
 	setChatCntht();
+	setMobileFilters();
+	$("#langSelBtn").click(function(){
+		$(".lang-selection").toggle();
+		});
+	$(".lang-selection > ul > li > label").click(function(){
+		$("#langSelBtn").text($(this).attr("data-lang"));
+		$(".lang-selection").hide();
+		});
 	$(".for-lbl > label").click(function(){
 		if($("#srch-tog-0").is(":checked")){
 			$("#srch-tog-2").show();
@@ -156,9 +164,8 @@ $(document).ready(function(){
 			$("#chat-keypad-open,#chat-roll-send,.chat-audio-msg").show();
 			});
 		$("#cancel-record").click(function(){
-			
-			$("div.chat-text-field input[type='text'],.chat-right-field .emoji-link,#chat-aud-open").show();
-			$("#chat-keypad-open,#chat-roll-send,#click-to-record,.chat-audio-msg").hide();
+			$("div.chat-text-field input[type='text'],.chat-right-field .emoji-link,#chat-aud-open,.chat-audio-msg").hide();
+			$("#chat-keypad-open,#chat-roll-send,#click-to-record").show();
 			});
 			
 			/*
@@ -193,6 +200,7 @@ $(document).ready(function(){
 			$(".scan-qr-wrap").show();
 			});
 		$(document).on("click",function(e){
+			setMobileFilters();
 			if(!($(e.target).closest(".qr-show,.scan-qr").length > 0)){
 				$(".scan-qr-wrap").hide();
 				}
@@ -201,6 +209,7 @@ $(document).ready(function(){
 $(window).resize(function(){
 	setTop();
 	setChatCntht();
+	setMobileFilters();
 	});
 function setTop(){
 	$(".sidebar-list").css("top",$('.search-list-item').innerHeight());
@@ -209,6 +218,13 @@ function setTop(){
 function setChatCntht(){
 	$hts = $(".main-content > .chat-boat").innerHeight() - ($(".main-content > .chat-boat > .chat-bot-top").innerHeight() + $(".main-content > .chat-boat > .chat-bot-send").innerHeight());
 	$(".main-content > .chat-boat > .chat-bot-cnt").css({"height":$hts + "px","top":$(".main-content > .chat-boat > .chat-bot-top").innerHeight() });
+	}
+function setMobileFilters(){
+	$wdth = $(".table-options > .all-sel").innerWidth() + $(".table-pagging").innerWidth();
+	$wdth = $(".table-options").innerWidth() - $wdth - 10;
+	if($(window).innerWidth() < 800){
+		$(".mob-page-tool").css("width",$wdth+"px");
+		}
 	}
 	
 /*-------Script for Menu---------*/
