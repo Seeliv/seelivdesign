@@ -131,7 +131,7 @@
            <div class="usr-img-unvr">
              <img src="images/22.png" />
            </div>
-           <div>Unverified User<br/><span class="unv-usrNm"><img src="images/Plus.png">Kamran Ali</span></div>
+           <div>Unverified User<br/><span class="unv-usrNm"><img src="images/triplearrow.png">Kamran Ali</span></div>
           </div>
           </div>
           <div class="cnt-btom tog-expand">
