@@ -331,7 +331,7 @@ help you at any time.</pre>
         <div class="chat-bot-send">
           <div class="chat-fields">
             <div class="chat-left-field">
-              <a href="#" class="cht-lnk-optn"><img src="images/calendar.png" /></a>
+              <a href="#" class="cht-lnk-optn"><img src="images/icon53.png" /></a>
               <a href="#" class="cht-lnk-optn" id="ex-optn-open"><i class="fa fa-plus-circle"></i></a>
             </div>
             <div class="chat-text-field">
