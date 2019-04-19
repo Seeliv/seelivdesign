@@ -25,7 +25,10 @@
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-book-dead"></i></span>Local Students' Rule Book</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-journal-whills"></i></span>Foreigner Students' Rule Book</a></li>
                           </ul>
-                          </div>
+                                             
+          <div class="row-option"><a href="#">Edit</a></div>
+          </div>
+       </div>
   </div>
 </section>
 <div class="content">
