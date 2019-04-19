@@ -60,7 +60,7 @@
        <input type="text" placeholder="Email / Account ID / Approval ID" />
     </div>
     <div class="field">
-      <input type="password" placeholder="password" />
+      <input type="password" placeholder="Password" />
     </div>
     <div class="txt-lnk">
       <a href="#" class="chng-log-mod">Change Login Mode</a>
