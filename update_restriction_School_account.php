@@ -22,8 +22,8 @@
      
     <div class="sort-option">
            <ul>
-             <li><button class="sort-button active">General</button></li>
-             <li><button class="sort-button">Country</button></li>
+             <li><button class="sort-button">General</button></li>
+             <li><button class="sort-button active">Country</button></li>
              <li><button class="sort-button">State</button></li>
            </ul>
          </div>
