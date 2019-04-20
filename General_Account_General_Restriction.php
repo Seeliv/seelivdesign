@@ -36,28 +36,28 @@
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Being Guardian</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Being Coordinator</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Top-up Fund</strong></a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Withdraw Fund</strong></a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>National fund Transfer</strong></a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>International fund Transfer</strong></a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>National fund Collection</strong></a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>International fund Collection</strong></a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Adding New Friends</strong></a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Broadcast Service</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon53.png" /></div><strong>1-on-1 Chat Calendar Access</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon54.png" /></div><strong>1-on-1 Chat Microphone Access</strong></a></li>
-        <li><a href="#"><div class="icon-r"><img src="images/icon55.png" /></div><strong>1-on-1 Chat Gallery Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon56.png" /></div><strong>1-on-1 Chat Camera Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon57.png" /></div><strong>1-on-1 Chat Documents Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon58.png" /></div><strong>1-on-1 Chat Outgoing message</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon59.png" /></div><strong>1-on-1 Chat Incoming message</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon60.png" /></div><strong>1-on-1 Chat Outgoing Audio call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon61.png" /></div><strong>1-on-1 Chat Incoming audio call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon62.png" /></div><strong>1-on-1 Chat Outgoing video call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon63.png" /></div><strong>1-on-1 Chat Incoming video call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon64.png" /></div><strong>1-on-1 Chat Favorite Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon65.png" /></div><strong>1-on-1 Chat Location Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon66.png" /></div><strong>1-on-1 Chat Contact Card Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon67.png" /></div><strong>Creating New Group</strong></a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Withdraw Fund</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>National fund Transfer</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>International fund Transfer</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>National fund Collection</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>International fund Collection</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Adding New Friends</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Broadcast Service</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Calendar Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Microphone Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Gallery Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Camera Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Documents Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Outgoing message</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Incoming message</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Outgoing Audio call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Incoming audio call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Outgoing video call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Incoming video call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Favorite Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Location Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Contact Card Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Creating New Group</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon53.png" /></div><strong>Group chat Calendar Access</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon54.png" /></div><strong>Group chat Microphone Access</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon55.png" /></div><strong>Group chat Gallery Access</strong></a></li>
