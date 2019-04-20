@@ -54,10 +54,10 @@
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-phone-volume"></i></i></span>1-on-1 Chat Incoming audio call</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-video"></i></span>1-on-1 Chat Outgoing video call</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-video"></i></span>1-on-1 Chat Incoming video call</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Favorite Sharing</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Location Sharing</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Contact Card Sharing</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Creating New Group</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-heart"></i></span>1-on-1 Chat Favorite Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-map-marker-alt"></i></span>1-on-1 Chat Location Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-address-book"></i></span>1-on-1 Chat Contact Card Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-users"></i></span>Creating New Group</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Calendar Access</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Microphone Access</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Gallery Access</a></li>
