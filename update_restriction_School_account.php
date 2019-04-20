@@ -82,7 +82,8 @@
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-video"></i></span>Enrollment Chat Outgoing video call</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-video"></i></span>Enrollment Chat Incoming video call</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-heart"></i></span>Enrollment Chat Favorite Sharing</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-heart"></i></span>Enrollment Favorite Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-heart"></i></span>Enrollment Location Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-address-book"></i></span>Enrollment Chat Contact Card Sharing</a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon75.png" /></div><strong>New Session Creation</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon69.png" /></div><strong>Scholarship Posting</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon70.png" /></div><strong>Program Posting</strong></a></li>
