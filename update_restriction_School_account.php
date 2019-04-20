@@ -14,8 +14,8 @@
     <div class="search-list-item lft-side-sort">
     <div class="sort-option option-sort-2">
             <ul>
-             <li><button class="sort-button active">General Account</button></li>
-             <li><button class="sort-button">School Account</button></li>
+             <li><button class="sort-button">General Account</button></li>
+             <li><button class="sort-button active">School Account</button></li>
              <li><button class="sort-button">Attendant Account</button></li>
            </ul>
          </div>
