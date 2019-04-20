@@ -28,8 +28,8 @@
            </ul>
          </div>
     <input type="text" placeholder="Search here"></div>
-    <div class="sidebar-list restct-cmd-list">
-      <ul class="lk-mn-list">
+    <div class="sidebar-list">
+    <ul class="fa-ul">
                                 <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-user-plus"></i></span>New Account Sign-up</strong></a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-sign-in-alt"></i></span>Existing Account login</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-user-md"></i></span>Changing Coordinator</a></li>
@@ -82,6 +82,8 @@
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-video"></i></span>Enrollment Chat Outgoing video call</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-video"></i></span>Enrollment Chat Incoming video call</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-heart"></i></span>Enrollment Chat Favorite Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-heart"></i></span>Enrollment Location Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-address-book"></i></span>Enrollment Chat Contact Card Sharing</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-heart"></i></span>Enrollment Location Sharing</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-address-book"></i></span>Enrollment Chat Contact Card Sharing</a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon75.png" /></div><strong>New Session Creation</strong></a></li>
