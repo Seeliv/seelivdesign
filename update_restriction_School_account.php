@@ -86,12 +86,12 @@
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-address-book"></i></span>Enrollment Chat Contact Card Sharing</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-heart"></i></span>Enrollment Location Sharing</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-address-book"></i></span>Enrollment Chat Contact Card Sharing</a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon75.png" /></div><strong>New Session Creation</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon69.png" /></div><strong>Scholarship Posting</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon70.png" /></div><strong>Program Posting</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon71.png" /></div><strong>Creating, Posting & Releasing Test</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon68.png" /></div><strong>Job Posting & Teacher Hiring</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon74.png" /></div><strong>Classes Schedule & Attendance</strong></a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-file"></i></span>Job Posting & Teacher Hiring</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Scholarship Posting</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-book"></i></span>Program Posting</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-poll"></i></span>Creating, Posting & Releasing Test</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-chalkboard-teacher"></i></span>New Session Creation</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-calendar-check"></i></span>Classes Schedule & Attendance</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-ticket-alt"></i></span>Ticket Booking</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-trash-alt"></i></span>Auto-Deleting Message</a></li>
         </li>
