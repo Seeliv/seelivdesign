@@ -122,7 +122,7 @@
        </div>
     </div>
     <div class="main-content">
-      <div class="result-number">512 Result Appeared</div>
+      <div class="result-number">512 Result</div>
       <div class="table-list country-table for-usr-wt-img">
         <div class="table-row">
           <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
