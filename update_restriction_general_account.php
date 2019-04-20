@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>General Account General Restriction</title>
+<title>General Account Restriction</title>
 <?php include("head.php") ?>
 </head>
 
