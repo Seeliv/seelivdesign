@@ -13,16 +13,17 @@
   <div class="side-bar-content">
     <div class="search-list-item lft-side-sort">
     <div class="sort-option option-sort-2">
-           <ul>
-             <li><button class="sort-button">General Account</button></li>
-             <li><button class="sort-button active">School Account</button></li>
+            <ul>
+             <li><button class="sort-button active">General Account</button></li>
+             <li><button class="sort-button">School Account</button></li>
+             <li><button class="sort-button">Attendant Account</button></li>
            </ul>
          </div>
      
     <div class="sort-option">
            <ul>
-             <li><button class="sort-button">General</button></li>
-             <li><button class="sort-button active">Country</button></li>
+             <li><button class="sort-button active">General</button></li>
+             <li><button class="sort-button">Country</button></li>
              <li><button class="sort-button">State</button></li>
            </ul>
          </div>
