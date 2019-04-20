@@ -35,25 +35,25 @@
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-user-circle"></i></span>Changing Guardian</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-user-circle"></i></span>Being Guardian</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-user-md"></i></span>Being Coordinator</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Top-up Fund</strong></a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Withdraw Fund</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>National fund Transfer</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>International fund Transfer</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>National fund Collection</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>International fund Collection</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Adding New Friends</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Broadcast Service</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Calendar Access</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Microphone Access</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Gallery Access</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Camera Access</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Documents Access</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Outgoing message</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Incoming message</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Outgoing Audio call</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Incoming audio call</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Outgoing video call</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Incoming video call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-wallet"></i></span>Top-up Fund</strong></a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-money-check-alt"></i></span>Withdraw Fund</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-comments-dollar"></i></span>National fund Transfer</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-comments-dollar"></i></span>International fund Transfer</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-hand-holding-usd"></i></span>National fund Collection</a></li>
+                                <li><a href="#"><span class="fa-li"><<i class="fas fa-hand-holding-usd"></i></span>International fund Collection</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-user-plus"></i></span>Adding New Friends</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-podcast"></i></span>Broadcast Service</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-calendar-alt"></i></span>1-on-1 Chat Calendar Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-microphone"></i></span>1-on-1 Chat Microphone Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="far fa-images"></i></span>1-on-1 Chat Gallery Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-camera"></i></span>1-on-1 Chat Camera Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-print"></i></span>1-on-1 Chat Documents Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-comment-dots"></i></span>1-on-1 Chat Outgoing message</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-comment-dots"></i></span>1-on-1 Chat Incoming message</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-phone-volume"></i></span>1-on-1 Chat Outgoing Audio call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-phone-volume"></i></i></span>1-on-1 Chat Incoming audio call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-video"></i></span>1-on-1 Chat Outgoing video call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-video"></i></span>1-on-1 Chat Incoming video call</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Favorite Sharing</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Location Sharing</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Contact Card Sharing</a></li>
