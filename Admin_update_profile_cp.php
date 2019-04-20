@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>update cover Photo</title>
+<title>default Cover Photo</title>
 <?php include("head.php") ?>
 </head>
 
@@ -35,7 +35,7 @@
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>General Account Cover Photo (CP)</p>
+                         <p>General Account Default Cp</p>
                        </div>
                   </div>
                      <div class="card-option">
@@ -60,7 +60,7 @@
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>School Account Cover Photo (CP)</p>
+                         <p>School Account Default Cp</p>
                        </div>
                   </div>
                      <div class="card-option">
