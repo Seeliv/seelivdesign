@@ -40,7 +40,7 @@
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-comments-dollar"></i></span>National fund Transfer</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-comments-dollar"></i></span>International fund Transfer</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-hand-holding-usd"></i></span>National fund Collection</a></li>
-                                <li><a href="#"><span class="fa-li"><<i class="fas fa-hand-holding-usd"></i></span>International fund Collection</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-hand-holding-usd"></i></span>International fund Collection</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-user-plus"></i></span>Adding New Friends</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-podcast"></i></span>Broadcast Service</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-calendar-alt"></i></span>1-on-1 Chat Calendar Access</a></li>
