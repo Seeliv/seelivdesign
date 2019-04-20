@@ -92,8 +92,8 @@
 <li><a href="#"><div class="icon-r"><img src="images/icon71.png" /></div><strong>Creating, Posting & Releasing Test</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon68.png" /></div><strong>Job Posting & Teacher Hiring</strong></a></li>
 <li><a href="#"><div class="icon-r"><img src="images/icon74.png" /></div><strong>Classes Schedule & Attendance</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon72.png" /></div><strong>Ticket Booking</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon73.png" /></div><strong>Auto-Deleting Message</strong></a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-ticket-alt"></i></span>Ticket Booking</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-trash-alt"></i></span>Auto-Deleting Message</a></li>
         </li>
       </ul>
     </div>
