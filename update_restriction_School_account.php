@@ -12,7 +12,7 @@
 <section class="side-bar">
   <div class="side-bar-content">
     <div class="search-list-item lft-side-sort">
-    <div class="sort-option option-sort-2">
+    <div class="sort-option option-sort-3">
             <ul>
              <li><button class="sort-button">General Account</button></li>
              <li><button class="sort-button active">School Account</button></li>
