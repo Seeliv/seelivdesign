@@ -35,7 +35,7 @@
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>General Account Cp</p>
+                         <p>General Account Cover Photo (CP)</p>
                        </div>
                   </div>
                      <div class="card-option">
@@ -60,7 +60,7 @@
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>School Account Cp</p>
+                         <p>School Account Cover Photo (CP)</p>
                        </div>
                   </div>
                      <div class="card-option">
