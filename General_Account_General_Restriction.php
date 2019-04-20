@@ -14,9 +14,9 @@
     <div class="search-list-item lft-side-sort">
     <div class="sort-option option-sort-3">
            <ul>
-             <li><button class="sort-button active">General Panel</button></li>
-             <li><button class="sort-button">School Panel</button></li>
-             <li><button class="sort-button">Attendant Panel</button></li>
+             <li><button class="sort-button active">General Account</button></li>
+             <li><button class="sort-button">School Account</button></li>
+             <li><button class="sort-button">Attendant Account</button></li>
            </ul>
          </div>
      
