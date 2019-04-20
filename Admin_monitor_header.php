@@ -30,12 +30,12 @@
       <div class="nn-MenuNav_Wrapper">
         <nav id="pnProductNav" class="nn-MenuNav">
           <div id="pnProductNavContents" class="nn-MenuNav_Contents"> 
-            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-search"></i>Search</a>
+          <a href="#" class="nn-MenuNav_Link"><i class="fas fa-search"></i>Search</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fas fa-check-circle"></i>Verify</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-globe"></i>Review</a>
-            <a href="#" class="nn-MenuNav_Link"><i class="fa fa-eye"></i>Monitor</a>
+            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fa fa-eye"></i>Monitor</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-envelope-open"></i>Email</a>
-            <a href="#" class="nn-MenuNav_Link" aria-selected="true"><i class="fas fa-question-circle"></i>Support</a>
+            <a href="#" class="nn-MenuNav_Link"><i class="fas fa-question-circle"></i>Support</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-plane" aria-hidden="true"></i>Booking</a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-briefcase"></i>Finance </a>
             <a href="#" class="nn-MenuNav_Link"><i class="fa fa-atom"></i>Update</a>
@@ -65,10 +65,8 @@
   </div>
   <div class="header-bottom">
     <ul class="sub-menu">
-        <li><a href=""><i class="fa fa-question-circle"></i>G-inquiry</a></li>
-        <li><a href=""><i class="fas fa-thumbs-up"></i>Suggestion</a></li>
-        <li><a href=""><i class="fa fa-user-shield"></i>Login-Signup</a></li>
-        <li><a href=""><i class="fa fa-user-secret"></i>Reported User</a></li>
+        <li><a href=""><i class="fab fa-sellsy"></i>Content</a></li>
+        <li><a href=""><i class="fas fa-users-cog"></i>Profile</a></li>
       </ul>
   </div>
 </header>
