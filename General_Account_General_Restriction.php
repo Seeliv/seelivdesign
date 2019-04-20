@@ -57,41 +57,41 @@
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Favorite Sharing</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Location Sharing</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>1-on-1 Chat Contact Card Sharing</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Creating New Group</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon53.png" /></div><strong>Group chat Calendar Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon54.png" /></div><strong>Group chat Microphone Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon55.png" /></div><strong>Group chat Gallery Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon56.png" /></div><strong>Group chat Camera Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon57.png" /></div><strong>Group chat Documents Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon58.png" /></div><strong>Group chat Outgoing message</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon59.png" /></div><strong>Group chat Incoming message</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon60.png" /></div><strong>Group chat Outgoing Audio call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon61.png" /></div><strong>Group chat Incoming audio call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon62.png" /></div><strong>Group chat Outgoing video call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon63.png" /></div><strong>Group chat Incoming video call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon64.png" /></div><strong>Group chat Favorite Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon65.png" /></div><strong>Group chat Location Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon66.png" /></div><strong>Group chat Contact Card Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon53.png" /></div><strong>Enrollment Chat Calendar Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon54.png" /></div><strong>Enrollment Chat Microphone Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon55.png" /></div><strong>Enrollment Chat Gallery Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon56.png" /></div><strong>Enrollment Chat Camera Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon57.png" /></div><strong>Enrollment Chat Documents Access</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon58.png" /></div><strong>Enrollment Chat Outgoing message</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon59.png" /></div><strong>Enrollment Chat Incoming message</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon60.png" /></div><strong>Enrollment Chat Outgoing Audio call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon61.png" /></div><strong>Enrollment Chat Incoming audio call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon62.png" /></div><strong>Enrollment Chat Outgoing video call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon63.png" /></div><strong>Enrollment Chat Incoming video call</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon64.png" /></div><strong>Enrollment Chat Favorite Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon65.png" /></div><strong>Enrollment Chat Location Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon66.png" /></div><strong>Enrollment Chat Contact Card Sharing</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon68.png" /></div><strong>Posting Resume & Applying for Jobs</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon69.png" /></div><strong>Applying for scholarships</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon70.png" /></div><strong>Applying for Programs</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon71.png" /></div><strong>Applying & attempting Exams</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon72.png" /></div><strong>Ticket Booking</strong></a></li>
-<li><a href="#"><div class="icon-r"><img src="images/icon73.png" /></div><strong>Auto-Deleting Message</strong></a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Creating New Group</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Calendar Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Microphone Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Gallery Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Camera Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Documents Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Outgoing message</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Incoming message</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Outgoing Audio call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Incoming audio call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Outgoing video call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Incoming video call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Favorite Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Location Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Group chat Contact Card Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Enrollment Chat Calendar Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Enrollment Chat Microphone Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Enrollment Chat Gallery Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Enrollment Chat Camera Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Enrollment Chat Documents Access</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Enrollment Chat Outgoing message</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Enrollment Chat Incoming message</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Enrollment Chat Outgoing Audio call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Enrollment Chat Incoming audio call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Enrollment Chat Outgoing video call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Enrollment Chat Incoming video call</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Enrollment Chat Favorite Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Enrollment Chat Location Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Enrollment Chat Contact Card Sharing<</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Posting Resume & Applying for Jobs</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Applying for scholarships</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Applying for Programs</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Applying & attempting Exams</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Ticket Booking</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Auto-Deleting Message</a></li>
   </div>
 </section>
 <div class="content">
