@@ -84,7 +84,7 @@
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-video"></i></span>Enrollment Chat Outgoing video call</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-video"></i></span>Enrollment Chat Incoming video call</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-heart"></i></span>Enrollment Chat Favorite Sharing</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-heart"></i></span>1-on-1 Chat Favorite Sharing</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-heart"></i></span>Enrollment Favorite Sharing</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-address-book"></i></span>Enrollment Chat Contact Card Sharing</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-file"></i></span>Posting Resume & Applying for Jobs</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Applying for scholarships</a></li>
