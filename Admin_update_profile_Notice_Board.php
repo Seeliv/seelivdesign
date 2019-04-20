@@ -35,7 +35,7 @@
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>Dnbt1<br>
+                         <p>dnbt1<br>
                         <span class="mintext">''An Investment In Knowledge Pays The Best Interest''.</span></p>
                        </div>
                   </div>
@@ -60,7 +60,7 @@
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>Dnbt2<br>
+                         <p>dnbt2<br>
                         <span class="mintext">''An Investment In Knowledge Pays The Best Interest''.</span></p>
                        </div>
                   </div>
@@ -85,7 +85,7 @@
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>Dnbt3<br>
+                         <p>dnbt3<br>
                         <span class="mintext">''An Investment In Knowledge Pays The Best Interest''.</span></p>
                        </div>
                   </div>
@@ -110,7 +110,7 @@
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>Dnbt4<br>
+                         <p>dnbt4<br>
                         <span class="mintext">''An Investment In Knowledge Pays The Best Interest''.</span></p>
                        </div>
                   </div>
@@ -135,7 +135,7 @@
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>Dnbt5<br>
+                         <p>dnbt5<br>
                         <span class="mintext">''An Investment In Knowledge Pays The Best Interest''.</span></p>
                        </div>
                   </div>
@@ -160,7 +160,7 @@
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>Dnbt6<br>
+                         <p>dnbt6<br>
                         <span class="mintext">''An Investment In Knowledge Pays The Best Interest''.</span></p>
                        </div>
                   </div>
