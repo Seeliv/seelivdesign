@@ -54,7 +54,7 @@
                 <div class="set-prf-tl">
                   <div class="prf-tl-row">
                     <div class="prf-txt">
-                      <div class="prf-tx-icn"><img src="images/icon1.png" /></div>
+                      <div class="prf-tx-icn"><img src="images/username.png" /></div>
                       <div class="chng-txt-prf">Abdul Aziz</div>
                     </div>
                     <div class="set-action">
@@ -67,7 +67,7 @@
                   </div>
                   <div class="prf-tl-row">
                     <div class="prf-txt">
-                      <div class="prf-tx-icn"><img src="images/Calendar1.png" /></div>
+                      <div class="prf-tx-icn"><img src="images/icon53.png" /></div>
                       <div class="chng-txt-prf">05 August 1990</div>
                     </div>
                     <div class="set-action">
