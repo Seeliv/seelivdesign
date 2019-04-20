@@ -30,11 +30,11 @@
     <input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                                <li><a class="active" href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>New Account Sign-up</strong></a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Existing Account login</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Changing Guardian</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Being Guardian</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Being Coordinator</a></li>
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-user-plus"></i></span>New Account Sign-up</strong></a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-sign-in-alt"></i></span>Existing Account login</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-user-circle"></i></span>Changing Guardian</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-user-circle"></i></span>Being Guardian</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-user-md"></i></span>Being Coordinator</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Top-up Fund</strong></a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>Withdraw Fund</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fa fa-globe"></i></span>National fund Transfer</a></li>
