@@ -35,7 +35,7 @@
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>General Account Default Cp</p>
+                         <p>General Account Cp</p>
                        </div>
                   </div>
                      <div class="card-option">
@@ -60,7 +60,7 @@
                     <div class="card-wrap">
                      <div class="card-message">
                     <div class="message">
-                         <p>School Account Default Cp</p>
+                         <p>School Account Cp</p>
                        </div>
                   </div>
                      <div class="card-option">

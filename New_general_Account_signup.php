@@ -12,12 +12,13 @@
     <div class="lang-selection">
       <ul>
        <li><label data-lang="English"><input type="radio" name="langSelct"/>English</label></li>
-       <li><label data-lang="Hindi"><input type="radio" name="langSelct"/>中文</label></li>
-       <li><label data-lang="中文"><input type="radio" name="langSelct"/>русский</label></li>
-       <li><label data-lang="Urdu"><input type="radio" name="langSelct"/>Português</label></li>
-       <li><label data-lang="Other"><input type="radio" name="langSelct"/>Deutsche</label></li>
-       <li><label data-lang="Other"><input type="radio" name="langSelct"/>français</label></li>
-       <li><label data-lang="Other"><input type="radio" name="langSelct"/>Türk</label></li>
+       <li><label data-lang="中文"><input type="radio" name="langSelct"/>中文</label></li>
+       <li><label data-lang="русский"><input type="radio" name="langSelct"/>русский</label></li>
+       <li><label data-lang="Español"><input type="radio" name="langSelct"/>Español</label></li>
+       <li><label data-lang="Português"><input type="radio" name="langSelct"/>Português</label></li>
+       <li><label data-lang="Deutsche"><input type="radio" name="langSelct"/>Deutsche</label></li>
+       <li><label data-lang="français"><input type="radio" name="langSelct"/>français</label></li>
+       <li><label data-lang="Türk"><input type="radio" name="langSelct"/>Türk</label></li>
       </ul>
     </div>
   </div>
