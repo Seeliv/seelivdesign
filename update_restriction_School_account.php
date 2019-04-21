@@ -87,6 +87,8 @@
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-file"></i></span>Job Posting & Teacher Hiring</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Scholarship Posting</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-book"></i></span>Program Posting</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-signature"></i></span>Show of scholarships’ School Name</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-globe-asia"></i></span>Show of scholarships’ School website</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-poll"></i></span>Creating, Posting & Releasing Test</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-chalkboard-teacher"></i></span>New Session Creation</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-calendar-check"></i></span>Classes Schedule & Attendance</a></li>
