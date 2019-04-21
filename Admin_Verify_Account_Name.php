@@ -118,12 +118,14 @@
               <!--<a class="chk-icn" href="#"><i class="fa fa-check-circle"></i></a>
               <a class="rmv-icn" href="#"><i class="fa fa-remove"></i></a>-->
            </div>
-         </div>
-       </div>
+       </div>   
+       
     </div>
     <div class="main-content">
       <div class="acc-set-tog">
         <h4>150 results</h4>
+    <div class="main-content">
+      <div class="result-number">512 Result</div>
       <div class="table-list country-table for-usr-wt-img">
         <div class="table-row">
           <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
