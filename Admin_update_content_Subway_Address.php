@@ -95,8 +95,11 @@
            <a href="#">3</a>
            <a href="#">&gt;</a>
          </div>
-       </div>
+       </div> 
     </div>
+    <div class="main-content">
+      <div class="acc-set-tog">
+        <h4>150 results</h4>
     <div class="main-content">
       <div class="table-list country-table">
         <div class="table-row">
