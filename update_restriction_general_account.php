@@ -88,6 +88,8 @@
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-address-book"></i></span>Enrollment Chat Contact Card Sharing</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-file"></i></span>Posting Resume & Applying for Jobs</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>Applying for scholarships</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-signature"></i></span>Show of scholarships’ School Name</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-globe-asia"></i></span>Show of scholarships’ School website</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-book"></i></span>Applying for Programs</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-poll"></i></span>Applying & attempting Exams</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-ticket-alt"></i></span>Ticket Booking</a></li>
