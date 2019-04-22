@@ -336,7 +336,7 @@ help you at any time.</pre>
             </div>
             <div class="chat-text-field">
               <input type="text" placeholder="Type your Message" id="txt-chat-msg"  />
-              <div class="chat-audio-msg"><a id="cancel-record">Cancle</a><i class="fa fa-microphone"></i>00:00</div>
+              <div class="chat-audio-msg"><a id="cancel-record">Cancle</a><i class="fa fa-microphone"></i>00:60</div>
               <button id="click-to-record" >Click to record</button>
             </div>
             <div class="chat-right-field">
