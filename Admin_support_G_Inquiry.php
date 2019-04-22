@@ -163,7 +163,7 @@
         <div class="chat-bot-top">
         <div class="chat-title">Subject</div>
         <div class="chat-tit-opt">
-          <a href="#"><i class="fa fa-angle-down"></i>Show more</a>
+          <a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a>
           <a href="#"><img src="images/Translation.png" /></a>
           <a href="#"><img src="images/icon13.png" /></a>
         </div>
