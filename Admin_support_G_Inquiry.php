@@ -332,7 +332,7 @@ help you at any time.</pre>
           <div class="chat-fields">
             <div class="chat-left-field">
               <a href="#" class="cht-lnk-optn"><img src="images/icon53.png" /></a>
-              <a href="#" class="cht-lnk-optn" id="ex-optn-open"><img src="images/plusicon.png" /></a>
+              <a href="#" class="cht-lnk-optn" id="ex-optn-open"><img src="images/plusiconc.png" /></a>
             </div>
             <div class="chat-text-field">
               <input type="text" placeholder="Type your Message" id="txt-chat-msg"  />
@@ -340,9 +340,9 @@ help you at any time.</pre>
               <button id="click-to-record" >Press start,enter or click to record</button>
             </div>
             <div class="chat-right-field">
-              <a href="#" class="cht-lnk-optn keypad-show" id="chat-keypad-open"><img src="images/roundkeyboard.png" /></a>
+              <a href="#" class="cht-lnk-optn keypad-show" id="chat-keypad-open"><img src="images/roundkeyboardc.png" /></a>
               <a href="#" class="cht-lnk-optn emoji-link"><img src="images/emoji.png" /></a>
-              <a href="#" class="cht-lnk-optn open-aud-link" id="chat-aud-open"><img src="images/microphone.png" /></a>
+              <a href="#" class="cht-lnk-optn open-aud-link" id="chat-aud-open"><img src="images/microphonec.png" /></a>
               <a href="#" class="cht-lnk-optn send-cht-link" id="chat-roll-send"><img src="images/send.png" /></a>
             </div>
           </div>
