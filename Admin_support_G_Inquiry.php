@@ -153,7 +153,7 @@
          <a href="#" class="chat-hds-tog"> <label class="switch">
                             <input type="checkbox">
                             <span class="slider round"></span> </label></a>
-         <a href="#" class="chat-hds-rund chat-hds-chks"><img src="images/microphone.png" /></a>
+         <a href="#" class="chat-hds-rund chat-hds-chks"><i class="fas fa-check-circle"></i></a>
          <a href="#" class="chat-hds-trsh"><i class="fas fa-trash"></i></a>
          <a href="#" class="chat-hds-rund chat-hds-usrs"><i class="fa fa-users"></i></a>
        </div> 
@@ -332,7 +332,7 @@ help you at any time.</pre>
           <div class="chat-fields">
             <div class="chat-left-field">
               <a href="#" class="cht-lnk-optn"><img src="images/icon53.png" /></a>
-              <a href="#" class="cht-lnk-optn" id="ex-optn-open"><img src="images/microphone.png" /></a>
+              <a href="#" class="cht-lnk-optn" id="ex-optn-open"><img src="images/plusicon.png" /></a>
             </div>
             <div class="chat-text-field">
               <input type="text" placeholder="Type your Message" id="txt-chat-msg"  />
