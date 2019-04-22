@@ -286,6 +286,7 @@ help you at any time.</pre>
               </div>
               </a>
               <div class="msg-chat-by-dt">Kamran - 10:22:00 AM <i class="fa fa-check"></i></div>
+              <div class="msg-chat-by-dt">10:22:00 AM <i class="fa fa-check"></i></div>
               <div class="chat-optn-lst-usr">
                 <button><i class="fa fa-angle-down"></i></button>
                 <ul>
