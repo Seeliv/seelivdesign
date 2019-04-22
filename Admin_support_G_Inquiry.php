@@ -163,18 +163,11 @@
         <div class="chat-bot-top">
         <div class="chat-title">Subject</div>
         <div class="chat-tit-opt">
-          <a class="fr-expnd"><i class="fa fa-angle-down"></i> <span>Show more</span></a>
+          <a href="#"><i class="fa fa-angle-down"></i>Show more</a>
           <a href="#"><img src="images/Translation.png" /></a>
-          <a href="#"><img src="images/icon13.png" /></a>
+          <a href="#"><img src="images/download.png" /></a>
         </div>
         </div>
-          <div class="cnt-btom tog-expand">
-           <div class="row-list">
-           <ul>
-                                
-                                                   <li><img src="images/icon19.png"><span>621 </span></li>
-                                                   
-                                             </ul>
         <div class="chat-bot-cnt">
           <div class="chat-bot-cnt-inner">
             <div class="chat-row recieved">
