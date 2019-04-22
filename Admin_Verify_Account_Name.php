@@ -124,7 +124,7 @@
     <div class="main-content">
       <div class="acc-set-tog">
         <h4>150 results</h4>
-      <div class="table-list country-table for-usr-wt-img">
+        <div class="table-list country-table for-usr-wt-img">
         <div class="table-row">
           <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>
           <div class="cnt-top">

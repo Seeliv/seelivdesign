@@ -144,7 +144,7 @@
     <div class="main-content">
       <div class="acc-set-tog">
         <h4>150 results</h4>
-   <div class="set-sectn">
+        <div class="set-sectn">
           <div class="set-sctn-row set-bold-txt">
             <div class="set-scn-lbl">India</div>
             <div class="set-cnt-code">631</div>
