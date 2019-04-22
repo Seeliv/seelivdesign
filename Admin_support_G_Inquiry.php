@@ -343,7 +343,7 @@ help you at any time.</pre>
               <a href="#" class="cht-lnk-optn keypad-show" id="chat-keypad-open" ><i class="fa fa-keyboard"></i></a>
               <a href="#" class="cht-lnk-optn emoji-link"><img src="images/emoji.png" /></a>
               <a href="#" class="cht-lnk-optn open-aud-link" id="chat-aud-open"><i class="fa fa-microphone"></i></a>
-              <a href="#" class="cht-lnk-optn send-cht-link" id="chat-roll-send"><i class="fa fa-send"></i></a>
+              <a href="#" class="cht-lnk-optn send-cht-link" id="chat-roll-send"><img src="images/send.png" /></a>
             </div>
           </div>
           <div class="chat-opt-list">
