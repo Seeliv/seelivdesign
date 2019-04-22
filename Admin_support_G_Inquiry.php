@@ -37,9 +37,10 @@
              <strong class="chat-count">2</strong>
              <div class="chat-option">
                <button class="chat-option-open"><i class="fa fa-angle-down"></i></button>
-                <ul>
-                  <li><button>Copy</button></li>
-                  <li><button>Untranslate</button></li>
+               <div class="chat-option-list">
+                 <ul>
+                   <li><button class="chat-opt-action">Mark Unread</button></li>
+                   <li><button class="chat-opt-action">Select</button></li>
                    <li><button class="chat-opt-action">Delete</button></li>
                  </ul>
                </div>
@@ -182,7 +183,7 @@ help you at any time.</pre>
 </div>
 
               <div class="msg-chat-by-dt">Kamran - 10:22:00 AM</div>
-<div class="trans-copy"><a href="#"><i class="fa fa-copy"></i></a></div>
+<div class="trans-copy"><a href="#"><i class="far fa-clone"></i></a></div>
 <div class="trans-cnts">
 नमकार! आप इस UI के बारेमया सोचतेह?
 मुझेलगता हैक यह अा है।
