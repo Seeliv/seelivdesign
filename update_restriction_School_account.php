@@ -109,16 +109,15 @@
            <div class="t-b-one"><input type="text" placeholder="Country id" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one">
              <select>
-             <option>All Countries</option>
-             <option>Pakistan</option>
-             <option>India</option>
+             <option>All</option>
+             <option>No Restriction Applied</option>
+             <option>Under Restriction</option>
              </select>
            </div>
            <div class="o-b-one">
              <select>
              <option>All</option>
-             <option>No Restriction Applied</option>
-             <option>Under Restriction</option>
+             <option>No action required</option>
              <option>Single action required</option>
              <option>Multiple action required</option>
              </select>
