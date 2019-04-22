@@ -164,8 +164,8 @@
         <div class="chat-title">Subject</div>
         <div class="chat-tit-opt">
           <a href="#"><i class="fa fa-angle-down"></i>Show more</a>
-          <a href="#"><img src="images/icon11.png" /></a>
-          <a href="#"><i class="fas fa-cloud-download-alt"></i></a>
+          <a href="#"><img src="images/Translation.png" /></a>
+          <a href="#"><img src="images/icon13.png" /></a>
         </div>
         </div>
         <div class="chat-bot-cnt">
