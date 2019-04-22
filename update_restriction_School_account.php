@@ -138,8 +138,7 @@
            <a href="#">3</a>
            <a href="#">&gt;</a>
          </div>
-       </div>   
-       
+       </div> 
     </div>
     <div class="main-content">
       <div class="acc-set-tog">
