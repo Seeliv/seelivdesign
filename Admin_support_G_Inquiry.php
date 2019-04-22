@@ -286,7 +286,6 @@ help you at any time.</pre>
               </div>
               </a>
               <div class="msg-chat-by-dt">Kamran - 10:22:00 AM <i class="fa fa-check"></i></div>
-              <div class="msg-chat-by-dt">10:22:00 AM <i class="fa fa-check"></i></div>
               <div class="chat-optn-lst-usr">
                 <button><i class="fa fa-angle-down"></i></button>
                 <ul>
@@ -338,7 +337,7 @@ help you at any time.</pre>
             <div class="chat-text-field">
               <input type="text" placeholder="Type your Message" id="txt-chat-msg"  />
               <div class="chat-audio-msg"><a id="cancel-record">Cancle</a><i class="fa fa-microphone"></i>00:00</div>
-              <button id="click-to-record" >Press enter or click to record</button>
+              <button id="click-to-record" >Press start,enter or click to record</button>
             </div>
             <div class="chat-right-field">
               <a href="#" class="cht-lnk-optn keypad-show" id="chat-keypad-open" ><i class="fa fa-keyboard"></i></a>
