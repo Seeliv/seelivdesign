@@ -37,10 +37,9 @@
              <strong class="chat-count">2</strong>
              <div class="chat-option">
                <button class="chat-option-open"><i class="fa fa-angle-down"></i></button>
-               <div class="chat-option-list">
-                 <ul>
-                   <li><button class="chat-opt-action">Mark Unread</button></li>
-                   <li><button class="chat-opt-action">Select</button></li>
+                <ul>
+                  <li><button>Copy</button></li>
+                  <li><button>Untranslate</button></li>
                    <li><button class="chat-opt-action">Delete</button></li>
                  </ul>
                </div>
@@ -165,7 +164,7 @@
         <div class="chat-tit-opt">
           <a href="#"><i class="fa fa-angle-down"></i>Show more</a>
           <a href="#"><img src="images/Translation.png" /></a>
-          <a href="#"><img src="images/download.png" /></a>
+          <a href="#"><img src="images/icon13.png" /></a>
         </div>
         </div>
         <div class="chat-bot-cnt">
