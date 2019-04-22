@@ -20,7 +20,9 @@
              <li><button class="sort-button">Blocked</button></li>
            </ul>
          </div>
-    </div>
+    </div>   
+       <div class="table-options opt-wth-chks">
+         <div class="all-sel"><label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label> <a id="edit-mod">Edit</a></div>
     <div class="sidebar-list">
      <div class="chat-message">
        <ul class="chat-list">
