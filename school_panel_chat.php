@@ -13,12 +13,11 @@
   <div class="side-bar-content">
     <div class="search-list-item lft-side-sort">
     <input class="chat-srch-blc" type="text" placeholder="Search here">
-    <div class="sort-option option-sort-4”>
+    <div class="sort-option option-sort-3">
            <ul>
              <li><button class="sort-button active">All</button></li>
              <li><button class="sort-button">1-on-1</button></li>
-             <li><button class="sort-button">group Chat</button></li>
-             <li><button class="sort-button">Enrollment Chat</button></li>
+             <li><button class="sort-button">group</button></li>
            </ul>
          </div>
     </div>
