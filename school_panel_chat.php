@@ -153,7 +153,6 @@
         <ul>
           <li><a title="Delete" href="#"><i class="fas fa-comment"></i></a></li>
           <li><a title="Reply" href="#"><i class="fas fa-user"></i></a></li>
-          <li><a title="Reply" href="#"><i class="fas fa-user"></i></a></li>
         </ul>
        </div> 
     </div>
