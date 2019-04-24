@@ -100,6 +100,7 @@
            <ul>
              <li><button class="sort-button active">Jobs For Local Teachers</button></li>
              <li><button class="sort-button">Jobs For Foreigner Teachers</button></li>
+             <li><button class="sort-button">Jobs For Foreigner Teachers</button></li>
            </ul>
          </div>
          <div class="table-pagging">
