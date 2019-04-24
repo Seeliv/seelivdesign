@@ -151,10 +151,9 @@
        <h1><span>Kamran Ali From Pakistan</span></h1> 
        <div class="usr-mail-tool">
         <ul>
+          <li><a title=“Verify” href="#"><i class="fas fa-check-circle"></i></a></li>
           <li><a title="Delete" href="#"><i class="fa fa-trash"></i></a></li>
-          <li><a title="Reply" href="#"><i class="fa fa-reply"></i></a></li>
-          <li><a title="Forward" href="#"><i class="fa fa-mail-forward"></i></a></li>
-          <li><a title="Refresh" href="#"><i class="fa fa-repeat"></i></a></li>
+          <li><a title=“Assign” href="#"><i class="fas fa-users"></i></a></li>
         </ul>
        </div> 
     </div>
