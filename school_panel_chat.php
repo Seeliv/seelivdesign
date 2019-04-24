@@ -148,8 +148,6 @@
   <div class="content-data">
   <div class="content-in">
     <div class="content-fix-head">
-    <div class="content-fix-head with-lf-rgt">
-       <button id="tog-more-all">Back To Chat</button>
        <h1><span>Kamran Ali From Pakistan</span></h1> 
       <div class="usr-mail-tool">
         <ul>
