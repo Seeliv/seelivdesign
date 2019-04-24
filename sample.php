@@ -14,7 +14,7 @@
     <div class="search-list-item"><input type="text" placeholder="Search here"></div>
     <div class="sidebar-list">
     <ul class="fa-ul">
-                               
+                                <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-user-edit"></i></span>Respective Content</a></li>
                           </ul>
                           </div>
   </div>
