@@ -13,12 +13,11 @@
   <div class="side-bar-content">
     <div class="search-list-item lft-side-sort">
     <input class="chat-srch-blc" type="text" placeholder="Search here">
-    <div class="sort-option option-sort-4">
+    <div class="sort-option option-sort-3">
            <ul>
              <li><button class="sort-button active">All</button></li>
-             <li><button class="sort-button">1-On-1</button></li>
-             <li><button class="sort-button">Group Chat</button></li>
-             <li><button class="sort-button">Enrollment Chat</button></li>
+             <li><button class="sort-button">1-on-1</button></li>
+             <li><button class="sort-button">group</button></li>
            </ul>
          </div>
     </div>
@@ -155,7 +154,18 @@
           <li><a title="Delete" href="#"><i class="fas fa-comment"></i></a></li>
           <li><a title="Reply" href="#"><i class="fas fa-user"></i></a></li>
         </ul>
-       </div>
+       </div> 
+    </div>
+    <div class="main-content">
+      <div class="chat-boat">
+        <div class="chat-bot-top">
+        <div class="chat-title">Subject</div>
+        <div class="chat-tit-opt">
+          <a href="#"><i class="fa fa-angle-down"></i>Show more</a>
+          <a href="#"><img src="images/Translation.png" /></a>
+          <a href="#"><img src="images/icon13.png" /></a>
+        </div>
+        </div>
         <div class="chat-bot-cnt">
           <div class="chat-bot-cnt-inner">
             <div class="chat-row recieved">
