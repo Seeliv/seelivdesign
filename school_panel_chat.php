@@ -148,12 +148,13 @@
   <div class="content-data">
   <div class="content-in">
     <div class="content-fix-head">
+    <div class="content-fix-head with-lf-rgt">
+       <button id="tog-more-all">Back To Chat</button>
        <h1><span>Kamran Ali From Pakistan</span></h1> 
-       <div class="chat-hds-opt">
+      <div class="usr-mail-tool">
         <ul>
-          <li><a title="Verify" href="#"><i class="fas fa-check"></i></a></li>
-          <li><a title="Delete" href="#"><i class="fa fa-trash"></i></a></li>
-          <li><a title="Assign" href="#"><i class="fas fa-user-friends"></i></a></li>
+          <li><a title="Delete" href="#"><i class="fas fa-comment"></i></a></li>
+          <li><a title="Reply" href="#"><i class="fas fa-user"></i></a></li>
         </ul>
        </div> 
     </div>
