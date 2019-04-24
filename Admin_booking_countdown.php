@@ -30,7 +30,7 @@
            <div class="t-b-one"><input type="text" placeholder="State id" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one">
              <select>
-             <option>All Country</option>
+             <option>All Countries</option>
              <option>----</option>
              <option>----</option>
              </select>
