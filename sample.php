@@ -34,6 +34,11 @@
   <div class="content-in">
     <div class="content-fix-head">
        <h1>Global Institute</h1>
+      <div class="usr-mail-tool">
+        <ul>
+          <li><a title=“Share” href="#"><i class="fas fa-share-alt"></i></a></li>
+        </ul>
+      </div>
        <div class="filter-form">
 
       </div>
