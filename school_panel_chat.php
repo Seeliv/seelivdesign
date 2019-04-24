@@ -153,9 +153,11 @@
          <a href="#" class="chat-hds-tog"> <label class="switch">
                             <input type="checkbox">
                             <span class="slider round"></span> </label></a>
-         <a href="#" class="chat-hds-rund chat-hds-chks"><i class="fas fa-check-circle"></i></a>
-         <a href="#" class="chat-hds-trsh"><i class="fas fa-trash"></i></a>
-         <a href="#" class="chat-hds-rund chat-hds-usrs"><i class="fa fa-users"></i></a>
+         
+          <li><a title="Delete" href="#"><i class="fa fa-trash"></i></a></li>
+          <li><a title="Reply" href="#"><i class="fa fa-reply"></i></a></li>
+          <li><a title="Forward" href="#"><i class="fa fa-mail-forward"></i></a></li>
+          <li><a title="Refresh" href="#"><i class="fa fa-repeat"></i></a></li>
        </div> 
     </div>
     <div class="main-content">
