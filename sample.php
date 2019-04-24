@@ -24,6 +24,7 @@
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-poll"></i></span>Exam Centres</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-tty"></i></span>Office Management</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-building"></i></span>School Basic Data</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-building"></i></span>School Basic Data</a></li>
                           </ul>
                           </div>
   </div>
