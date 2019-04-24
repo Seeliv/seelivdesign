@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<?php include("sample_header.php"); ?>
+<?php include("mywebsite_header.php"); ?>
 <main>
 <section class="side-bar">
   <div class="side-bar-content">
@@ -35,8 +35,8 @@
        <h1>Global Institute</h1>
       <div class="usr-mail-tool">
         <ul>
-          <li><a title="Share" href="#"><i class="fas fa-share-alt"></i></a></li>
           <li><a title="Expend" href="#"><i class="fas fa-arrows-alt"></i></a></li>
+          <li><a title="Share" href="#"><i class="fas fa-share-alt"></i></a></li>
         </ul>
       </div>
        <div class="filter-form">

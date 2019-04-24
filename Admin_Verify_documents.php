@@ -98,9 +98,8 @@
          <div class="sort-option">
            <!--<button class="sort-button roll-filter"><i class="fa fa-filter"></i></button>-->
            <ul>
-             <li><button class="sort-button active">Verification In Pending</button></li>
-             <li><button class="sort-button">Verification Completed</button></li>
-             <li><button class="sort-button">Overall Requests</button></li>
+             <li><button class="sort-button active">Jobs For Local Teachers</button></li>
+             <li><button class="sort-button">Jobs For Foreigner Teachers</button></li>
            </ul>
          </div>
          <div class="table-pagging">
