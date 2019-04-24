@@ -17,14 +17,13 @@
                                 <li><a class="active" href="#"><span class="fa-li"><i class="fas fa-globe"></i></span>Website Preview</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-newspaper"></i></span>Notice Board</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="far fa-calendar-check"></i></span>Holidays</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-marker"></i></span>Introduction</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-pen-square"></i></span>Introduction</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-images"></i></span>Photo Gallery</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-cannabis"></i></span>Campus Life</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-book-dead"></i></span>School Rule's Book</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="far fa-images"></i></span>School Rule's Book</a></li>
                                 <li><a href="#"><span class="fa-li"><i class="fas fa-poll"></i></span>Exam Centres</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-tty"></i></span>Office Management</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-building"></i></span>School Basic Data</a></li>
-                                <li><a href="#"><span class="fa-li"><i class="fas fa-building"></i></span>School Basic Data</a></li>
+                                <li><a href="#"><span class="fa-li"><i class="fas fa-building"></i></span>Office Management</a></li>
+                                <li><a href="#"><span class="fa-li"></span>School Basic Data</a></li>
                           </ul>
                           </div>
   </div>
