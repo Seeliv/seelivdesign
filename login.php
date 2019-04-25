@@ -30,7 +30,7 @@
     </div>
   </div>
   <div class="log-pg-hds">Account login</div>
-  <div class="log-pg-optn"><a href="#"><i class="fa fa-question"></i><strong>Support</strong></a></div>
+  <div class="log-pg-optn"><a href="#"><!--<i class="fa fa-question"></i>--><strong>Support</strong></a></div>
 </div>
 <div class="login-form">
   <!--<a href="#" class="oth-log-pnl"><span></span></a>-->

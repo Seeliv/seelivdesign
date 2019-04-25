@@ -201,9 +201,26 @@ $(document).ready(function(){
 			});
 		$(document).on("click",function(e){
 			setMobileFilters();
+			if(!($(e.target).closest(".chat-option-open").length > 0)){
+				$(".chat-option-list").hide();
+				}
 			if(!($(e.target).closest(".qr-show,.scan-qr").length > 0)){
 				$(".scan-qr-wrap").hide();
 				}
+			});
+		$("a#mail-edit").click(function(){
+			if($(this).text()=="Edit"){
+				$(this).text("Cancel");
+				}
+			else{
+				$(this).text("Edit");
+				}
+			$("ul.mail-list").toggleClass("active");
+			return false;
+			});
+		$(".chat-option-open").click(function(){
+			$(".chat-option-list").hide();
+			$(this).siblings(".chat-option-list").toggle();
 			});
 	});
 $(window).resize(function(){

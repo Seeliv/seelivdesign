@@ -69,10 +69,10 @@
            </div>
            <div class="t-b-one">
            <div class="for-lbl"><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>All</label><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Requested On</label><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>Varified On</label></div>
-           <input type="text" readonly="readonly" data-range="true" data-multiple-dates-separator=" - " placeholder="Select Date Range" class="from-date datepicker-here" data-language='en' ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <input type="text" data-date-format="yyyy-mm-dd" readonly="readonly" data-range="true" data-multiple-dates-separator=" - " placeholder="Select Date Range" class="from-date datepicker-here" data-language='en' ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="t-b-one">
            <div class="for-lbl"><label><input type="radio" name="lbl-dte-for" /><i class="roll-chk-show"></i>All</label><label><input type="radio" name="lbl-sel-for" /><i class="roll-chk-show"></i>Requested On</label><label><input type="radio" name="lbl-sel-for" /><i class="roll-chk-show"></i>Varified On</label></div>
-           <input type="text" readonly="readonly" class="select-date datepicker-here" placeholder="Enter Date" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <input type="text" data-date-format="yyyy-mm-dd" readonly="readonly" class="select-date datepicker-here" placeholder="Enter Date" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="t-b-one">
            <div class="for-lbl for-lbl-4">
              <label><input type="radio" name="lbl-id-for" /><i class="roll-chk-show"></i>All</label>
@@ -128,6 +128,7 @@
        </div>
     </div>
     <div class="main-content">
+       <h4 class="result-flag">512 results</h4>
       <div class="table-list country-table for-usr-wt-img">
         <div class="table-row">
           <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>

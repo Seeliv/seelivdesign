@@ -16,17 +16,14 @@
       <div class="mail-option">
       <div class="optn-list">
                   <ul>
-                    <li><a href=""><i class="fa fa-check-square" aria-hidden="true"></i></a></li>
+                    <li><a href="" id="mail-edit">Edit</a></li>
                      <li><a href=""><i class="fa fa-trash" aria-hidden="true"></i></a></li>
                      <li><a href=""><i class="fa fa-reply"></i></a></li>
                      <li><a href=""><i class="fa fa-share"></i></a></li>
                      <li><a href=""><i class="fa fa-repeat" aria-hidden="true"></i></a></li>
                   </ul>
       </div>
-      <div class="mail-count">
-                        <span><strong>UnRead</strong> : 18</span>
-                        <span><strong>All</strong> : 522</span> 
-      </div>
+      
     </div>
     </div>
     <div class="sidebar-list">
@@ -34,58 +31,58 @@
     <ul class="mail-list">
     
                                 <li>
-                                  <input type="checkbox" />
-                                  <a href="#">Alexander Pierce</a>
+                                  <label class="chk-bx"><input type="checkbox"><i class="fa fa-check-square"></i></label>
+                                  <a href="#">Alexander Pierce<strong class="tm-stmp">10 minute ago</strong></a>
                                   <p>AdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTE </p>  
                                 </li>
                                 <li>
-                                  <input type="checkbox" />
-                                  <a href="#">Alexander Pierce</a>
+                                  <label class="chk-bx"><input type="checkbox"><i class="fa fa-check-square"></i></label>
+                                  <a href="#">Alexander Pierce<strong class="tm-stmp">yesterday</strong></a>
                                   <p>AdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTE </p>  
                                 </li>
                                 <li>
-                                  <input type="checkbox" />
-                                  <a href="#">Alexander Pierce</a>
+                                  <label class="chk-bx"><input type="checkbox"><i class="fa fa-check-square"></i></label>
+                                  <a href="#">Alexander Pierce<strong class="tm-stmp">2 days ago</strong></a>
                                   <p>AdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTE </p>  
                                 </li>
                                 <li>
-                                  <input type="checkbox" />
-                                  <a href="#">Alexander Pierce</a>
+                                  <label class="chk-bx"><input type="checkbox"><i class="fa fa-check-square"></i></label>
+                                  <a href="#">Alexander Pierce<strong class="tm-stmp">1 week ago</strong></a>
                                   <p>AdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTE </p>  
                                 </li>
                                 <li>
-                                  <input type="checkbox" />
-                                  <a href="#">Alexander Pierce</a>
+                                  <label class="chk-bx"><input type="checkbox"><i class="fa fa-check-square"></i></label>
+                                  <a href="#">Alexander Pierce<strong class="tm-stmp">1 week ago</strong></a>
                                   <p>AdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTE </p>  
                                 </li>
                                 <li>
-                                  <input type="checkbox" />
-                                  <a href="#">Alexander Pierce</a>
+                                  <label class="chk-bx"><input type="checkbox"><i class="fa fa-check-square"></i></label>
+                                  <a href="#">Alexander Pierce<strong class="tm-stmp">1 week ago</strong></a>
                                   <p>AdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTE </p>  
                                 </li>
                                 <li>
-                                  <input type="checkbox" />
-                                  <a href="#">Alexander Pierce</a>
+                                  <label class="chk-bx"><input type="checkbox"><i class="fa fa-check-square"></i></label>
+                                  <a href="#">Alexander Pierce<strong class="tm-stmp">1 week ago</strong></a>
                                   <p>AdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTE </p>  
                                 </li>
                                 <li>
-                                  <input type="checkbox" />
-                                  <a href="#">Alexander Pierce</a>
+                                  <label class="chk-bx"><input type="checkbox"><i class="fa fa-check-square"></i></label>
+                                  <a href="#">Alexander Pierce<strong class="tm-stmp">1 week ago</strong></a>
                                   <p>AdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTE </p>  
                                 </li>
                                 <li>
-                                  <input type="checkbox" />
-                                  <a href="#">Alexander Pierce</a>
+                                  <label class="chk-bx"><input type="checkbox"><i class="fa fa-check-square"></i></label>
+                                  <a href="#">Alexander Pierce<strong class="tm-stmp">1 week ago</strong></a>
                                   <p>AdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTE </p>  
                                 </li>
                                 <li>
-                                  <input type="checkbox" />
-                                  <a href="#">Alexander Pierce</a>
+                                  <label class="chk-bx"><input type="checkbox"><i class="fa fa-check-square"></i></label>
+                                  <a href="#">Alexander Pierce<strong class="tm-stmp">1 week ago</strong></a>
                                   <p>AdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTE </p>  
                                 </li>
                                 <li>
-                                  <input type="checkbox" />
-                                  <a href="#">Alexander Pierce</a>
+                                  <label class="chk-bx"><input type="checkbox"><i class="fa fa-check-square"></i></label>
+                                  <a href="#">Alexander Pierce<strong class="tm-stmp">1 week ago</strong></a>
                                   <p>AdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTEAdminLTE 3.0 Issue AdminLTE </p>  
                                 </li>
                           </ul>

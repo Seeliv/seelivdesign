@@ -3,6 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Reset ASP Pin Step 1</title>
+<link href="css/datepicker.min.css" rel="stylesheet" type="text/css">
 <?php include("head.php") ?>
 </head>
 
@@ -24,7 +25,7 @@
     </div>
   </div>
   <div class="log-pg-hds">Reset ASP PIN</div>
-  <div class="log-pg-optn"><a href="#"><i class="fa fa-question"></i><strong>Support</strong></a></div>
+  <div class="log-pg-optn"><a href="#"><strong>Support</strong></a></div>
 </div>
 <div class="general-form">
   <div class="form-field">
@@ -32,7 +33,7 @@
     <div class="for-email-mod"><input type="text" placeholder="Email / Account ID / Approval ID" /></div>
   </div>
   <div class="form-field">
-  <input type="text" placeholder="Enter DOB / Account Reg. Date" />
+  <input type="text" readonly="readonly" data-date-format="yyyy-mm-dd" class="select-date datepicker-here" placeholder="Enter DOB / Account Reg. Date" >
   </div>
   <p class="lnk-two">
   <a href="#" class="send-log-mod">Reset Via Email / IDs</a>
@@ -43,5 +44,14 @@
   <p><a href="#" >Return To Login</a></p>
 </div>
 <?php include("footer.php"); ?>
+
+<script src="js/datepicker.min.js"></script>
+<script src="js/datepicker.en.js"></script>
+<script>
+$('.select-date').datepicker({
+    language: 'en',
+    maxDate: new Date(), // Now can select only dates, which goes after today
+});
+</script>
 </body>
 </html>

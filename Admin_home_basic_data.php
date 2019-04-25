@@ -35,9 +35,9 @@
              <option>----</option>
              </select>
            </div>
-           <div class="t-b-one"><input type="text" readonly="readonly" data-range="true" data-multiple-dates-separator=" - " placeholder="From - To" class="from-date datepicker-here" data-language='en' ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one"><input type="text" readonly="readonly" data-date-format="yyyy-mm-dd" data-range="true" data-multiple-dates-separator=" - " placeholder="From - To" class="from-date datepicker-here" data-language='en' ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="t-b-one tbtn-t"><button type="submit" class="ovrall-bt">Overall</button><button type="submit" class="today-bt">Today</button></div>
-           <div class="t-b-one"><input type="text" readonly="readonly" class="select-date datepicker-here" placeholder="Enter Date" ><button type="submit"><i class="fa fa-search"></i></button></div>
+           <div class="t-b-one"><input type="text" readonly="readonly" data-date-format="yyyy-mm-dd" class="select-date datepicker-here" placeholder="Enter Date" ><button type="submit"><i class="fa fa-search"></i></button></div>
            <div class="o-b-one wth-dwn">
            <select>
              <option>Select From Past</option>

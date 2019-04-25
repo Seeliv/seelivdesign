@@ -116,6 +116,7 @@
        </div>
     </div>
     <div class="main-content">
+       <h4 class="result-flag">512 results</h4>
       <div class="table-list country-table for-usr-wt-img">
         <div class="table-row">
           <label class="chk-bx"><input type="checkbox" /><i class="fa fa-check-square"></i></label>

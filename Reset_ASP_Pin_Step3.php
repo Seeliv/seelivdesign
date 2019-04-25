@@ -24,7 +24,7 @@
     </div>
   </div>
   <div class="log-pg-hds">Reset ASP PIN</div>
-  <div class="log-pg-optn"><a href="#"><i class="fa fa-question"></i><strong>Support</strong></a></div>
+  <div class="log-pg-optn"><a href="#"><strong>Support</strong></a></div>
 </div>
 <div class="general-form">
   <div class="form-field">

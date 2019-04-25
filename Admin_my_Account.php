@@ -143,7 +143,7 @@
                       <div class="set-action">
                       <div class="sidebtn ">
                         <ul>
-                          <li><a href="" class="add-btn"><i class="fa fa-plus"></i></a></li>
+                          <li><a href="" >Add new Phone</a></li>
                         </ul>
                       </div>
                     </div>

@@ -24,7 +24,7 @@
     </div>
   </div>
   <div class="log-pg-hds">Sign-Up</div>
-  <div class="log-pg-optn"><a href="#"><i class="fa fa-question"></i><strong>Support</strong></a></div>
+  <div class="log-pg-optn"><a href="#"><strong>Support</strong></a></div>
 </div>
 <div class="usr-sign-up">
  <div class="sign-up-wrp">

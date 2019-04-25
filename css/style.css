@@ -355,10 +355,11 @@ ul.lk-mn-list > li > a div.icon-r {
     display: block;
 }
 .acc-set-tog {
-    padding: 10px;
-	font-size: 12px;
+        padding: 10px;
+    font-size: 12px;
+    padding-top: 0;
 }
-.acc-set-tog h4 {
+.acc-set-tog h4,.result-flag {
     text-align: center;
     color: #279d70;
     font-weight: normal;
@@ -429,10 +430,11 @@ ul.fa-ul > li > a {
     text-decoration: none;
     color: #666666;
     font-size: 14px;
-    padding-left: 8px;
+    padding-left: 0;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    margin-left: 6px;
 }
 ul.fa-ul > li + li > a{
     border-top: 1px solid #d1d0d7;
@@ -450,6 +452,7 @@ ul.fa-ul > li > a > span.fa-li {
     overflow: hidden;
     float: left;
     /* margin-right: 10px; */
+    margin-top: 2px;
 }
 ul.fa-ul > li > a > span.fa-li > img{
 	width: 100%;
@@ -546,8 +549,14 @@ ul.fa-ul > li > a > span.fa-li > img{
         display: inline-block;
         width: 26px;
         height: 16px;
-        margin-top: 5px;
+        margin-top: 3px;
         margin-left: -5px;
+}
+.charge-table .switch {
+    margin-top: 5px;
+}
+.charge-table.country-charge .switch {
+    margin-top: 5px;
 }
 .switch input {
     opacity: 0;
@@ -614,13 +623,16 @@ ul.fa-ul > li > a > span.fa-li > img{
 }
 .sidebtn > ul > li a{
 	text-decoration: none;
-	display: block;
+    display: block;
+    color: #279d70;
+    font-size: 12px;
+    text-transform: capitalize;
 	}
 .sidebtn > ul > li a.refresh,.sidebtn > ul > li a.edit-btn,.sidebtn > ul > li a.view-btn,.sidebtn > ul > li a.add-btn {
-    height: 25px;
-    width: 25px;
+    height: 20px;
+    width: 20px;
     border-radius: 50%;
-    padding: 5px;
+    padding: 2px;
     margin: 0 1px 0 1px;
     float: right;
 }
@@ -655,6 +667,9 @@ ul.fa-ul > li > a > span.fa-li > img{
 	}
 .prf-tl-row .row-list > ul > li .sidebtn {
     float: right;
+}
+.prf-tl-row.prf-tl-row-drk .switch {
+    margin-top: 3px;
 }
 .prf-tl-row .row-list > ul > li > span {
     float: left;
@@ -725,11 +740,29 @@ ul.fa-ul > li > a > span.fa-li > img{
 ul.mail-list > li {
     position: relative;
     padding: 10px 10px 10px 20px;
+    padding-left: 5px;
+    margin-left: 0px;
+}
+ul.mail-list label.chk-bx input[type=checkbox] + i.fa {
+    color: #ffffff;
+}
+ul.mail-list label.chk-bx input[type=checkbox]:checked + i.fa {
+    color: #009900;
 }
 .optn-list > ul > li {
     float: left;
     width: 20%;
     text-align: center;
+}
+.optn-list > ul > li > a#mail-edit {
+    width: auto;
+    height: auto;
+    background: transparent;
+    color: #25a3ef;
+    text-decoration: none;
+    font-size: 12px;
+    padding: 8px 0;
+    height: 30px;
 }
 .mail-count {
     clear: both;
@@ -771,6 +804,19 @@ ul.mail-list > li > a {
     display: block;
     color: #333333;
     text-decoration: none;
+}
+ul.mail-list > li > a strong.tm-stmp {
+    float: right;
+    width: 70px;
+    font-size: 10px;
+    color: #555555;
+    text-align: right;
+    font-weight: normal;
+    background: #e1e0e6;
+    white-space: nowrap;
+    overflow: hidden;
+    word-break: break-all;
+    text-overflow: ellipsis;
 }
 ul.mail-list > li + li{
 	/*border-top: 1px solid #d8d7d8;*/
@@ -830,6 +876,24 @@ form.new-mail textarea{
     padding: 5px;
     overflow: auto;
 }
+.sidebar-list > ul {
+    margin: 0 0 0 30px;
+}
+.sidebar-list > ul.mail-list,.sidebar-list > ul.lk-mn-list {
+    margin: 0;
+}
+
+ul.mail-list .chk-bx {
+    position: absolute;
+    right: 100%;
+    display: none;
+}
+ul.mail-list.active .chk-bx{
+	display: block;
+	}
+ul.mail-list.active > li{
+	margin-left: 22px;
+	}
 .optn-list {
     margin-top: 4px;
 }
@@ -1298,9 +1362,12 @@ div.row-option > a {
 .part-row + .part-row {
     border-top: 1px dotted #cdcdcd;
 }
+.charge-table.country-charge .part-row > div:first-child {
+    width: 47%;
+}
 .part-row > div {
     float: left;
-    width: 40%;
+    width: 43%;
     font-size: 11px;
 }
 .part-row > div.set-action {
@@ -1761,7 +1828,7 @@ a.orde-rev-bt {
     background: #ffffff;
 }
 .prf-tl-row .sidebtn > ul > li > strong {
-    padding: 5px 3px;
+    padding: 3px 3px;
     display: block;
 }
 .usr-lbl-exp .roll-icn img{
@@ -1880,17 +1947,17 @@ body.log-body .top-log {
     margin-right: 5px;
     color: #999999;
     text-decoration: none;
-    margin-top: 11px;
+    margin-top: 10px;
     float: left;
 }
 .top-log > div.log-pg-optn a {
     display: block;
     float: right;
-    color: #000000;
+    color: #999999;
     text-decoration: none;
     text-align: center;
-    font-size: 9px;
-    margin-top: 2px;
+    font-size: 12px;
+    margin-top: 10px;
 }
 .top-log > div.log-pg-optn a strong{
 	display: block;
@@ -1928,7 +1995,7 @@ body.log-body .top-log {
 }
 .scan-qr-wrap {
     position: fixed;
-    z-index: 15;
+    z-index: 999999;
     background: rgba(0, 0, 0, 0.7);
     top: 0;
     left: 0;
@@ -2053,16 +2120,23 @@ a.oth-log-pnl {
 	}
 .bottom-log .field input {
 
+width: 100%;
 
-    width: 100%;
-    padding: 4px 10px;
-    margin-bottom: 10px;
-    border: 0;
-    border-radius: 3px;
-    height: 34px;
-    font-size: 12px;
-    background: #f2f0f9;
-    border: 0px solid #eae8f1;
+padding: 4px 10px;
+
+margin-bottom: 10px;
+
+border: 0;
+
+border-radius: 3px;
+
+height: 34px;
+
+font-size: 16px;
+
+background: #f2f0f9;
+
+border: 0px solid #eae8f1;
 }
 /*.login-form .txt-lnk > a {
     float: left;
@@ -2080,7 +2154,7 @@ a.fl-r-lnk {
     clear: both;
     padding: 5px 0;
 }
-.login-form .log-btn .btn {
+.login-form .log-btn .btn,.btn_roll {
     display: block;
     width: 100%;
     height: 34px;
@@ -2091,7 +2165,13 @@ a.fl-r-lnk {
     font-size: 17px;
     border: 0px solid #18b749;
 }
-.login-form .log-btn .btn:hover{
+.btn_roll {
+    display: inline-block;
+    width: auto;
+    padding: 0 15px;
+    min-width: 90px;
+}
+.login-form .log-btn .btn:hover,.btn_roll:hover{
 	background: #225794;
 	border-color: #143d6b;
 	}
@@ -2526,9 +2606,10 @@ ul.chat-list > li > a:after {
 }
 ul.chat-list a > .chat-option .chat-option-list {
     position: absolute;
-    right: 0;
+    right: 15px;
     display: none;
-	z-index: 9;
+    z-index: 9;
+    top: 0;
 }
 ul.chat-list a > .chat-option .chat-option-list > ul > li > button.chat-opt-action {
     font-size: 8px;
@@ -2943,6 +3024,9 @@ button.aud-button {
 	font-size: 12px;
 	float: left;
 	}
+.chat-tit-opt > a > i.fa {
+    margin-right: 3px;
+}
 .chat-hds-opt {
     position: absolute;
     top: 8px;
@@ -3028,6 +3112,8 @@ button.aud-button {
     height: 8px;
     display: block;
     float: left;
+
+
     background: #cacaca;
     border-radius: 50%;
     margin: 2px 2px 0 0;
@@ -3400,7 +3486,7 @@ span.unv-usrNm {
 @media screen and (max-width:800px) {
 input[type=text],input[type=number],input[type=email],textarea,select{
 	font-size: 16px !important;
-	padding: 0 5px !important;
+	padding: 0 10px !important;
 	}
 .mob-header {
  display: block;
@@ -3853,6 +3939,12 @@ div.content {
 	width: 20px !important;
 	height: 20px !important;
 	}
+.charge-table{
+	padding: 0 5px;
+	}
+.part-row.roll-head-part > div.main-head-sctn{
+	font-size: 12px;
+	}
 }
 @media screen and (max-width:650px){
 .table-options > .all-sel {
@@ -3957,6 +4049,7 @@ a.cht-lnk-optn .fa {
 button#tog-more-all {
     top: 7px;
 }
+
 }
 @media screen and (max-width:450px){
 .sort-option > button{
@@ -4023,6 +4116,8 @@ button#tog-more-all {
 	}
 .login-form{
 	width: 300px;
+    box-shadow: none;
+    border: 0;
 	}
 .login-form .otr-log-otn {
     padding: 0 10px;
